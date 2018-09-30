@@ -1,9 +1,9 @@
 # Week 1 - Project Benson
-## Optimizing street placement of non-profit volunteers for outreach efforts
+## Optimizing street placement of non-profit volunteers for outreach effort
 
 ## _Team Turnstile Hoppers_. :  Gretta, Shweta, Alex, Steve
 
-This was a team project designed to introduce the students to a "real world"* data science problem, develop knowledge about the Python ```pandas``` database and ```matplotlib``` plotting modules, and foster good habits in communication and in working within a group. Each 4-student team was tasked with helping a hypothetical non-profit organization, Women Tech Women Yes, optimize the placement of volunteers at subway stations around New York City. The volunteers canvas passersby at the subway entrances to promote an upcoming gala event and to build awareness of their organization. We were instructed to use a publically available data set from the Metropolitan Transportation Authority (MTA) that provides information about usage of all the NYC subway stations over several months. We were also encouraged to use other sources of data, and any tools we chose as long as we used Python pandas and matplotlib or seaborn. The culimination of the project was a 12-minute presentation describing each team's analytical approach and final results.
+This was a team project designed to introduce the students to a "real world"* data science problem, develop knowledge about the Python ```pandas``` database and ```matplotlib``` plotting modules, and foster good habits in communication and in working within a group. Each 4-student team was tasked with helping a hypothetical non-profit organization, Women Tech Women Yes, optimize the placement of their volunteers at subway stations around New York City. The volunteers intend to canvas passersby at the subway entrances to promote an upcoming gala event and to build awareness of their organization. We were instructed to apply our formidable data science skills on a publically available data set from the Metropolitan Transportation Authority (MTA) that provides information about usage of all the NYC subway stations. We were also encouraged to use other sources of data, and any tools we chose as long as we used Python pandas and matplotlib or seaborn. The culimination of the project was a 12-minute presentation describing each team's analytical approach and final results.
 
 My team took the following approach with the data analysis:
 1. Focused on the 3 Spring months preceding the Summer gala
@@ -17,6 +17,6 @@ My team took the following approach with the data analysis:
 The final results of our project are detailed in the .pdf file "Benson Project Presentation". In summary, we recommended these top-five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St. For future analysis, we suggested a weighting scheme to refine how the four scores were combined to achieve the final score, a better way to report ridership numbers for stations with multiple entrances, use more tech locations, and use more granular demographic data. 
 
 
-* Attach my writing _real world_ in quotes with as much irony as you'd like.
+*Attach my putting _real world_ in quotes with as much irony as you'd like.
 
 _Did you know?_  This project was named for Olivia Benson, one of the lead detectives in the hit TV show "Law & Order: Special Victims Unit".
