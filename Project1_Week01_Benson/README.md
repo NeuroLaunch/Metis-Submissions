@@ -11,10 +11,10 @@ My team took the following approach with the data analysis:
 3. Examined day-of-week trends in the turnstile data.
 4. Included information about local technology companies and universities as a proxy for greater percentages of women and tech-involved individuals who may be especially receptive to the WTWY outreach efforts.
 5. Included information from WalkScore.com to identify which stations may have larger populations of non-subway riders walking past the subway entrances.
-6. Included demographic information from the U.S. Census on local tech-centered companies and residences with greater affluence, as a proxy for a larger impact to the WTWY fundraising and outreach efforts.
+6. Included demographic information from the U.S. Census on local tech-centered companies and residences, as a way to identify affluent zip code regions that might have a larger impact on the WTWY fundraising and outreach efforts.
 7. Calculated a final "Benson Score", summing the four normalized scores for the turnstile, technology, walking, and census data.
 
-The final results of our project are detailed in the .pdf file "Benson Project Presentation". In summary, we recommended these top-five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St. For future analysis, we suggested a weighting scheme to refine how the four scores were combined to achieve the final score, a better way to report ridership numbers for stations with multiple entrances, use more tech locations, and use more granular demographic data. 
+The final results of our project are detailed in the .pdf file "Benson Project Presentation". In summary, we recommended five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St. For future analysis, we suggested a weighting scheme to refine how the four scores were combined to achieve the final score, a better way to report ridership numbers for stations with multiple entrances, employment of more technology companies and schools, and use of more granular demographic data from the Census tables. 
 
 
 *Attach my putting _real world_ in quotes with as much irony as you'd like.
