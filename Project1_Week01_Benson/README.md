@@ -19,7 +19,7 @@ The repository Python code for these analytical steps, written by the respective
 
 The final results of our project are described in [Benson Project Presentation.pdf](Project1_Week01_Benson/Benson Project Presentation.pdf). In summary, we recommended five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St.
 
-![Total "Benson Score"](supporting_files/Total_Benson_Score.png')
+![Total Benson Score](supporting_files/Total_Benson_Score.png)
 
 For future analysis, we suggested a weighting scheme to refine how the four scores were combined to achieve the final score, a better way to report ridership numbers for stations with multiple entrances, employment of more technology companies and schools, and use of more granular demographic data from the Census tables. 
 
