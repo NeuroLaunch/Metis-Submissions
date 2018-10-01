@@ -17,7 +17,11 @@ My team took the following approach with the data analysis:
 
 The repository Python code for these analytical steps, written by the respective team members but attributed to the team as a whole, can be found within the following Jupyter notebooks: [Turnstile Score]('Benson_pt1_TurnstileScore.ipynb'), [Tech Score](Benson_pt2_TechScore.ipynb), [Census Score](Benson_pt3_CensusScore.ipynb), [Walk Score](Benson_pt4_WalkScore.ipynb). These notebooks include annotations and graphical output documenting the analyses, and describe the specific data sets and tools utilized.
 
-The final results of our project are described in [Benson Project Presentation.pdf](Project1_Week01_Benson/Benson Project Presentation.pdf). In summary, we recommended five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St. For future analysis, we suggested a weighting scheme to refine how the four scores were combined to achieve the final score, a better way to report ridership numbers for stations with multiple entrances, employment of more technology companies and schools, and use of more granular demographic data from the Census tables. 
+The final results of our project are described in [Benson Project Presentation.pdf](Project1_Week01_Benson/Benson Project Presentation.pdf). In summary, we recommended five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St.
+
+![Total "Benson Score"](supporting_files/Total_Benson_Score.png')
+
+For future analysis, we suggested a weighting scheme to refine how the four scores were combined to achieve the final score, a better way to report ridership numbers for stations with multiple entrances, employment of more technology companies and schools, and use of more granular demographic data from the Census tables. 
 
 
 _Did you know?_  This project was named for Olivia Benson, one of the lead detectives in the hit TV show "Law & Order: Special Victims Unit".
