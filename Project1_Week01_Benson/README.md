@@ -15,9 +15,9 @@ My team took the following approach with the data analysis:
 6. Included demographic information from the U.S. Census on local tech-centered companies and residences, as a way to identify affluent zip code regions that might have a larger impact on the WTWY fundraising and outreach efforts.
 7. Calculated a final "Benson Score", summing the four normalized scores for the turnstile, technology, walking, and census data.
 
-The repository Python code for these analytical steps, written by the respective team members but attributed to the team as a whole, can be found within the following Jupyter notebooks: [Turnstile Score]('Benson_pt1_TurnstileScore.ipynb'), [Tech Score](Benson_pt2_TechScore.ipynb), [Census Score](Benson_pt3_CensusScore.ipynb), [Walk Score](Benson_pt4_WalkScore.ipynb). These notebooks include annotations and graphical output documenting the analyses, and describe the specific data sets and tools utilized.
+The repository Python code for these analytical steps, written by the respective team members but attributed to the team as a whole, can be found within the following Jupyter notebooks: [Turnstile Score](Benson_pt1_TurnstileScore.ipynb), [Tech Score](Benson_pt2_TechScore.ipynb), [Census Score](Benson_pt3_CensusScore.ipynb), [Walk Score](Benson_pt4_WalkScore.ipynb). These notebooks include annotations and graphical output documenting the analyses, and describe the specific data sets and tools utilized.
 
-The final results of our project are described in [Benson Project Presentation.pdf]('Benson Project Presentation.pdf'). In summary, we recommended five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St.
+The final results of our project are described in [Benson Project Presentation.pdf](Benson_Project_Presentation.pdf). In summary, we recommended five subway stations for placing WTWY volunteers: Grand Central at 42nd St, World Trade Center at Cortlandt St, 34th St at Herald Sq., Union Square and 14th St, and Penn Station at 34th St.
 
 ![Total Benson Score](supporting_files/Total_Benson_Score.png)
 
