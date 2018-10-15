@@ -1,5 +1,5 @@
 # Weeks 2 and 3: Project Luther
-## Linear Regression with a Movie Date Set
+## Linear Regression with a Movie Data Set
 
 _Start Date: October 01, 2018_ &emsp; _Due Date: October 15, 2018_
 
