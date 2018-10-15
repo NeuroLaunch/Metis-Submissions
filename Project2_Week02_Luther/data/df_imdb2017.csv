@@ -1,0 +1,593 @@
+Code,Title,Genre,MPAA,Country,Language,Rating_User,Rating_Count,Release_Date,Budget,Sales_Opening,Sales_Gross
+tt0331314,Bunyan and Babe,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,5.0,268,2017-01-12,,,
+tt0451279,Wonder Woman,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'War')",PG-13,HONG KONG,ENGLISH,7.5,439729,2017-06-02,149.0,103.251471,412.563408
+tt0460890,The Only Living Boy in New York,"('Drama',)",,USA,ENGLISH,6.3,7213,2017-08-11,,0.054458,0.624332
+tt0491175,Suburbicon,"('Crime', 'Drama', 'Mystery', 'Thriller')",,UK,ENGLISH,5.6,26302,2017-10-27,25.0,2.840246,5.775178
+tt0491203,Tulip Fever,"('Drama', 'History', 'Romance')",,UK,ENGLISH,6.2,12610,2017-09-01,25.0,,2.425664
+tt0493405,CHIPS,"('Action', 'Comedy', 'Crime')",,USA,ENGLISH,6.0,32989,2017-03-24,25.0,7.722802,18.591819
+tt0498381,Rings,"('Drama', 'Horror', 'Romance')",PG-13,USA,ENGLISH,4.5,31672,2017-02-03,25.0,13.002632,27.780085
+tt0835802,Krystal,"('Comedy', 'Drama')",,USA,ENGLISH,4.9,391,2018-04-13,,,0.037516
+tt0974015,Justice League,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",PG-13,UK,ENGLISH,6.6,287512,2017-11-17,300.0,93.842239,229.024295
+tt1024855,Gunned Down,"('Action', 'Thriller')",,UK,ENGLISH,5.2,627,2017-07-17,,,
+tt1107262,Intent,"('Crime', 'Drama', 'Thriller')",UNRATED,ALBANIA,ENGLISH,7.9,30,,,,
+tt1131724,2:22,"('Thriller',)",PG-13,AUSTRALIA,ENGLISH,5.7,14522,2017-06-30,,,
+tt1219827,Ghost in the Shell,"('Action', 'Drama', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.4,161578,2017-03-31,110.0,18.676033,40.533014
+tt1230168,Same Kind of Different as Me,"('Drama',)",PG-13,USA,ENGLISH,6.5,3180,2017-10-20,15.0,2.591985,6.423605
+tt1291566,The Vanishing of Sidney Hall,"('Drama', 'Mystery')",,USA,ENGLISH,6.9,5585,2018-03-02,,,
+tt1293847,xXx: Return of Xander Cage,"('Action', 'Adventure', 'Thriller')",PG-13,USA,ENGLISH,5.2,73176,2017-01-20,85.0,20.130142,44.898413
+tt1389072,Downsizing,"('Drama', 'Sci-Fi')",,USA,ENGLISH,5.7,61648,2017-12-22,68.0,4.954287,24.449754
+tt1396484,It,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,7.4,310014,2017-09-08,35.0,123.403419,327.481748
+tt1412528,Table 19,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.8,20569,2017-03-03,5.0,1.597928,3.606977
+tt1458169,Kidnap,"('Action', 'Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.9,26398,2017-08-04,21.0,10.016323,30.718107
+tt1469304,Baywatch,"('Action', 'Comedy', 'Crime')",,UK,ENGLISH,5.6,117875,2017-05-25,69.0,18.503871,58.060186
+tt1485796,The Greatest Showman,"('Biography', 'Drama', 'Musical')",,USA,ENGLISH,7.7,157452,2017-12-20,84.0,8.805843,174.340174
+tt1492705,All I Wish,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,5.1,637,2018-03-30,,,
+tt1507571,The Tribes of Palos Verdes,"('Drama',)",,USA,ENGLISH,5.7,1164,2017-12-01,,0.000796,0.004651
+tt1544608,Voice from the Stone,"('Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.2,7771,2017-04-28,,,
+tt1615160,The Foreigner,"('Action', 'Crime', 'Drama', 'Mystery', 'Thriller')",,UK,ENGLISH,7.0,72115,2017-10-13,35.0,13.113024,34.393507
+tt1648190,The Dark Tower,"('Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi', 'Western')",PG-13,USA,ENGLISH,5.7,97960,2017-08-04,60.0,19.153698,50.701325
+tt1653665,Goodbye Christopher Robin,"('Biography', 'Drama')",,UK,ENGLISH,7.1,15702,2017-09-29,,0.057917,1.735251
+tt1666185,All Eyez on Me,"('Biography', 'Drama', 'Music')",,USA,ENGLISH,5.8,17000,2017-06-16,,26.435354,44.922302
+tt1667321,On Chesil Beach,"('Drama', 'Music', 'Romance')",,UK,ENGLISH,6.3,3758,2018-05-18,,0.035765,0.745971
+tt1691916,Before I Fall,"('Drama', 'Fantasy', 'Mystery')",PG-13,USA,ENGLISH,6.4,34939,2017-03-03,5.0,4.690214,12.230791
+tt1720621,Trafficked,"('Drama', 'Thriller')",,USA,ENGLISH,5.3,629,2017-10-06,,,
+tt1724970,Beyond Skyline,"('Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller')",,UK,ENGLISH,5.3,13439,2017-12-15,,0.376207,0.992181
+tt1730768,The Zookeeper's Wife,"('Biography', 'Drama', 'History', 'War')",PG-13,CZECH REPUBLIC,ENGLISH,7.0,27990,2017-04-07,20.0,3.288835,17.445186
+tt1734493,Unlocked,"('Action', 'Drama', 'Mystery', 'Thriller')",,CZECH REPUBLIC,ENGLISH,6.2,20566,2017-05-05,,,
+tt1753383,A Dog's Purpose,"('Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy')",,USA,ENGLISH,7.0,47524,2017-01-27,22.0,18.22281,64.50862
+tt1758810,The Snowman,"('Crime', 'Drama', 'Mystery', 'Thriller')",,UK,ENGLISH,5.1,42237,2017-10-20,35.0,3.372565,6.670765
+tt1781058,Wilson,"('Comedy', 'Drama')",,USA,ENGLISH,5.8,8282,2017-03-24,,0.336227,0.652997
+tt1785288,An Ordinary Man,"('Drama', 'Thriller', 'War')",,SERBIA,ENGLISH,5.3,965,2018-04-13,6.0,,
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,"('Action', 'Adventure', 'Fantasy')",PG-13,USA,ENGLISH,6.6,208217,2017-05-26,230.0,62.983253,172.558876
+tt1856101,Blade Runner 2049,"('Drama', 'Mystery', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,8.0,335317,2017-10-06,150.0,32.753122,92.054159
+tt1869347,Crooked House,"('Crime', 'Drama', 'Mystery')",PG-13,UK,ENGLISH,6.3,10954,2017-11-21,,,
+tt1880415,Battlecreek,"('Drama', 'Romance')",,USA,ENGLISH,5.7,677,2017-11-03,,0.03056,0.042884
+tt1934452,Realms,"('Horror', 'Mystery')",,USA,LATIN,7.3,31,,,0.000108,0.000108
+tt1935089,Blind,"('Drama', 'Romance')",,FRANCE,ENGLISH,5.7,2636,2017-08-24,10.0,,
+tt1935194,Overdrive,"('Action', 'Thriller')",PG-13,FRANCE,ENGLISH,5.4,9231,2017-10-06,,,
+tt1935897,Amityville: The Awakening,"('Horror', 'Thriller')",,USA,ENGLISH,4.8,9769,2017-10-12,,,0.000742
+tt1959563,The Hitman's Bodyguard,"('Action', 'Comedy', 'Thriller')",,USA,ENGLISH,6.9,145628,2017-08-18,30.0,21.384504,75.468583
+tt1961175,American Assassin,"('Action', 'Thriller')",,USA,ENGLISH,6.2,51305,2017-09-15,33.0,14.846778,36.249674
+tt1966359,Father Figures,"('Comedy',)",,USA,ENGLISH,5.4,10921,2017-12-22,,3.287451,17.501244
+tt1972591,King Arthur: Legend of the Sword,"('Action', 'Adventure', 'Drama', 'Fantasy')",PG-13,USA,ENGLISH,6.8,156582,2017-05-12,175.0,15.37127,39.175066
+tt1981128,Geostorm,"('Action', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.3,69308,2017-10-20,120.0,13.707376,33.70016
+tt2039338,Flatliners,"('Drama', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.2,29568,2017-09-29,20.0,6.574326,16.866403
+tt2039412,Never Here,"('Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,4.3,701,2017-10-20,,,
+tt2062700,Song to Song,"('Drama', 'Music', 'Romance')",,USA,ENGLISH,5.7,14065,2017-03-17,,0.053945,0.443684
+tt2072233,Sleepless,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,5.6,23207,2017-01-13,30.0,8.468787,20.757977
+tt2088950,This Is Your Death,"('Drama',)",,USA,ENGLISH,5.6,3160,2017-09-15,,,
+tt2090465,Black Butterfly,"('Thriller',)",,SPAIN,ENGLISH,6.1,9272,2017-05-26,,,
+tt2091256,Captain Underpants: The First Epic Movie,"('Animation', 'Action', 'Comedy', 'Family')",,USA,ENGLISH,6.2,20122,2017-06-02,38.0,23.851539,73.921
+tt2114504,Woody Woodpecker,"('Animation', 'Comedy', 'Family')",,USA,ENGLISH,4.2,2209,2019-11-22,10.0,,
+tt2132304,David's Dinosaur,"('Family',)",UNRATED,USA,ENGLISH,7.7,7,2017-12-12,,,
+tt2205212,Ned Venture,"('Comedy',)",,USA,ENGLISH,6.4,23,2017-07-22,0.5,,
+tt2226597,The Mountain Between Us,"('Action', 'Adventure', 'Drama', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,6.4,49548,2017-10-06,35.0,10.551336,30.348555
+tt2239822,Valerian and the City of a Thousand Planets,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",PG-13,FRANCE,ENGLISH,6.5,127482,2017-07-21,177.2,17.007624,41.189488
+tt2249081,The Forgiven,"('Thriller',)",,UK,ENGLISH,5.8,998,2018-03-09,15.0,,
+tt2250912,Spider-Man: Homecoming,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,7.5,361994,2017-07-07,175.0,117.027503,334.20114
+tt2283362,Jumanji: Welcome to the Jungle,"('Action', 'Adventure', 'Comedy', 'Fantasy')",PG-13,USA,ENGLISH,7.0,208269,2017-12-20,90.0,36.169328,404.51548
+tt2291540,My Friend Dahmer,"('Biography', 'Drama', 'Horror')",UNRATED,USA,ENGLISH,6.3,8464,2018-06-01,,0.035545,1.355664
+tt2293060,Americons,"('Action', 'Biography', 'Crime', 'Drama')",,USA,ENGLISH,4.0,173,2017-01-19,0.4,0.014404,0.12241
+tt2316204,Alien: Covenant,"('Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,6.4,210293,2017-05-19,97.0,36.160621,74.262031
+tt2331047,Rememory,"('Drama', 'Mystery', 'Sci-Fi')",,CANADA,ENGLISH,6.2,11766,2017-08-24,,,
+tt2334871,Snatched,"('Action', 'Adventure', 'Comedy')",,USA,ENGLISH,4.4,27836,2017-05-12,42.0,19.542248,45.825314
+tt2345759,The Mummy,"('Action', 'Adventure', 'Fantasy', 'Thriller')",PG-13,CHINA,ENGLISH,5.5,141973,2017-06-09,125.0,31.688375,80.101125
+tt2347678,Busted,"('Drama',)",,USA,ENGLISH,4.7,11,2017-03-15,,,
+tt2378507,The Glass Castle,"('Biography', 'Drama')",PG-13,USA,ENGLISH,7.1,19548,2017-08-11,,4.678548,17.273059
+tt2380307,Coco,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Music', 'Mystery')",,USA,ENGLISH,8.4,222790,2017-11-22,175.0,50.802605,209.726015
+tt2396589,Mudbound,"('Drama', 'War')",,USA,ENGLISH,7.4,29354,2017-11-17,,,
+tt2398241,Smurfs: The Lost Village,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,6.0,13991,2017-04-07,60.0,13.210449,45.020282
+tt2406566,Atomic Blonde,"('Action', 'Mystery', 'Thriller')",,GERMANY,ENGLISH,6.7,135832,2017-07-28,30.0,18.28642,51.573925
+tt2417712,Goon: Last of the Enforcers,"('Comedy', 'Sport')",,CANADA,ENGLISH,5.8,9088,2017-09-01,,,
+tt2421910,The Guest House,"('Thriller',)",UNRATED,USA,ENGLISH,4.6,95,,,,
+tt2527336,Star Wars: Episode VIII - The Last Jedi,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",PG-13,USA,ENGLISH,7.2,419061,2017-12-15,,220.009584,620.181382
+tt2531334,Keep Watching,"('Horror', 'Thriller')",,USA,ENGLISH,4.4,2872,2017-10-31,5.0,,
+tt2543472,Wonder,"('Drama', 'Family')",,USA,ENGLISH,8.0,89956,2017-11-17,20.0,,132.422809
+tt2568862,Going in Style,"('Comedy', 'Crime')",PG-13,USA,ENGLISH,6.6,60197,2017-04-07,25.0,11.93233,45.003463
+tt2582498,Sweet Virginia,"('Drama', 'Thriller')",,CANADA,ENGLISH,6.2,4790,2017-12-21,,,0.010456
+tt2582784,Flower,"('Comedy', 'Drama')",,USA,ENGLISH,5.9,3667,2018-03-16,,0.048919,0.327628
+tt2586120,Racer and the Jailbird,"('Crime', 'Drama')",,BELGIUM,FRENCH,6.4,2407,2018-05-04,,0.002513,0.046337
+tt2597760,The Outcasts,"('Comedy',)",PG-13,USA,ENGLISH,5.5,2689,2017-04-14,,,
+tt2604160,Broken Chains,"('Action', 'Adventure', 'Biography', 'Crime', 'Drama', 'Thriller')",UNRATED,USA,ENGLISH,,0,2017-05-10,0.25,,
+tt2620590,Leatherface,"('Crime', 'Horror', 'Thriller')",,USA,ENGLISH,5.0,14086,2017-09-14,,,
+tt2674358,The Hunter's Prayer,"('Action', 'Thriller')",,USA,ENGLISH,5.5,5580,2017-06-09,28.0,,
+tt2674454,Churchill,"('Biography', 'Drama', 'History', 'War')",,UK,ENGLISH,6.3,11350,2017-06-02,10.0,0.400843,1.244798
+tt2707810,Submission,"('Drama',)",,USA,ENGLISH,5.5,491,2017-10-13,,,0.039985
+tt2763304,T2 Trainspotting,"('Drama',)",,UK,ENGLISH,7.2,86676,2017-03-31,18.0,0.170575,2.402004
+tt2771200,Beauty and the Beast,"('Family', 'Fantasy', 'Musical', 'Romance')",,USA,ENGLISH,7.2,217921,2017-03-17,160.0,174.750616,504.014165
+tt2776878,Thank You for Your Service,"('Biography', 'Drama', 'War')",,USA,ENGLISH,6.5,8450,2017-10-27,20.0,3.8177,9.467
+tt2802160,Razor,"('Comedy',)",UNRATED,USA,ENGLISH,6.6,9,,3.0,,
+tt2872518,The Shack,"('Drama', 'Fantasy')",PG-13,USA,ENGLISH,6.3,23376,2017-03-03,20.0,16.172119,57.330873
+tt2913562,Call Me King,"('Action', 'Crime', 'Drama', 'Thriller')",UNRATED,USA,ENGLISH,5.7,300,2017-02-05,,,
+tt2914760,Malibu Road,"('Mystery', 'Romance', 'Thriller')",,USA,ENGLISH,7.0,9,2017-05-05,,,
+tt2932536,47 Meters Down,"('Adventure', 'Drama', 'Horror', 'Thriller')",PG-13,UK,ENGLISH,5.6,35147,2017-06-16,5.5,11.205561,44.307191
+tt2938464,The Hatching,"('Action', 'Comedy', 'Fantasy', 'Horror', 'Thriller')",,UK,ENGLISH,4.0,639,2017-09-26,13.0,,
+tt2957760,Extortion,"('Action', 'Adventure', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.2,5047,2017-05-17,,,
+tt2967226,Killing Hasselhoff,"('Comedy',)",,USA,LATIN,4.3,1700,2017-08-29,,,
+tt2976766,Beta,"('Adventure', 'Fantasy', 'Romance', 'Sci-Fi')",UNRATED,USA,ENGLISH,6.7,35,2017-04-13,,,
+tt2984576,Death House,"('Horror',)",,USA,ENGLISH,4.9,104,2018-02-23,,0.010224,0.023833
+tt3011960,Hangman,"('Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,5.2,8203,2017-11-24,,,
+tt3014284,The Lego Ninjago Movie,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family')",,USA,ENGLISH,6.0,15860,2017-09-22,70.0,20.433071,59.281555
+tt3097756,Best Thanksgiving Ever,"('Comedy',)",,USA,LATIN,8.6,18,,,,
+tt3097876,Holden On,"('Biography', 'Drama')",,USA,ENGLISH,9.2,92,,,,
+tt3127022,The Bookshop,"('Drama',)",,UK,ENGLISH,6.5,4530,2018-08-24,,,1.265886
+tt3135074,Mr. Rudolpho's Jubilee,"('Comedy', 'Music', 'Musical', 'Romance')",UNRATED,USA,ENGLISH,8.7,198,2017-01-14,,,
+tt3182620,Bitter Harvest,"('Drama', 'Romance', 'War')",,CANADA,ENGLISH,6.1,2804,2017-02-23,20.0,0.219357,0.557004
+tt3195826,Fireangels: A Drifter's Fury,"('Horror', 'Thriller')",UNRATED,USA,LATIN,3.3,35,2017-06-23,,,
+tt3203620,The Dinner,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,4.5,5909,2017-05-05,,0.655493,1.322839
+tt3234084,I Do... Until I Don't,"('Comedy',)",,USA,ENGLISH,4.5,753,2017-09-01,,,0.279263
+tt3262342,Loving Vincent,"('Animation', 'Biography', 'Crime', 'Drama', 'Mystery')",PG-13,POLAND,ENGLISH,7.8,33143,2017-09-22,,0.02318,6.735118
+tt3266284,November Criminals,"('Crime', 'Drama', 'Mystery')",PG-13,USA,ENGLISH,5.3,5928,2017-11-07,,,
+tt3268340,Crown Heights,"('Biography', 'Crime', 'Drama', 'Romance')",,USA,ENGLISH,6.4,1289,2017-08-18,,,0.238558
+tt3280262,Cult of Chucky,"('Horror', 'Thriller')",,USA,ENGLISH,5.1,15116,2017-10-03,,,
+tt3295354,You Can't Have It,"('Thriller',)",,USA,ENGLISH,4.3,243,2017-03-17,,,
+tt3296908,The Man with the Iron Heart,"('Action', 'Biography', 'Thriller', 'War')",,USA,ENGLISH,6.4,9224,2017-06-07,,,
+tt3297382,The Crash,"('Crime', 'Thriller')",,USA,ENGLISH,4.2,999,2017-01-13,,1.767823,
+tt3315342,Logan,"('Action', 'Drama', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,8.1,512493,2017-03-03,97.0,88.411916,226.277068
+tt3322892,XX,"('Horror',)",,CANADA,ENGLISH,4.6,8866,2017-02-17,,0.009818,0.030611
+tt3335606,Berlin Syndrome,"('Drama', 'Horror', 'Mystery', 'Thriller')",,AUSTRALIA,ENGLISH,6.3,16658,2017-05-26,,,0.02866
+tt3348730,Jigsaw,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.8,50195,2017-10-27,10.0,16.640452,38.052832
+tt3349578,Bad Kids of Crestview Academy,"('Action', 'Comedy', 'Thriller')",,USA,ENGLISH,6.4,3046,2017-01-13,5.0,,
+tt3371366,Transformers: The Last Knight,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,5.2,106839,2017-06-21,217.0,44.680073,130.168683
+tt3394674,The Liberator,"('Action',)",,UK,ENGLISH,3.4,52,2017-04-28,,,
+tt3401882,Fist Fight,"('Comedy',)",,USA,ENGLISH,5.6,31690,2017-02-17,22.0,12.201873,32.187017
+tt3402236,Murder on the Orient Express,"('Crime', 'Drama', 'Mystery')",PG-13,MALTA,ENGLISH,6.5,158405,2017-11-10,55.0,28.681472,102.826543
+tt3411444,Ferdinand,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,6.7,33218,2017-12-15,111.0,13.401586,84.41038
+tt3416536,Hot Summer Nights,"('Comedy', 'Crime', 'Drama', 'Romance')",,USA,ENGLISH,6.5,4733,2018-07-27,,,
+tt3421204,Horse Camp,"('Family',)",,USA,ENGLISH,6.3,69,2017-01-10,,,
+tt3447876,Deadly Sanctuary,"('Family', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,3.6,102,2017-02-17,,,
+tt3450958,War for the Planet of the Apes,"('Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,7.5,185465,2017-07-14,150.0,56.262929,146.880162
+tt3457508,Damascus Cover,"('Mystery', 'Thriller')",,UK,ENGLISH,4.8,739,2018-07-20,,,
+tt3462710,Unforgettable,"('Drama', 'Thriller')",,USA,ENGLISH,5.0,10256,2017-04-21,12.0,4.785431,11.27449
+tt3463106,The Cured,"('Drama', 'Horror', 'Sci-Fi')",,IRELAND,ENGLISH,5.4,3524,2018-02-23,,0.004875,0.020261
+tt3469046,Despicable Me 3,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,6.3,80921,2017-06-30,80.0,72.434025,264.6243
+tt3481634,Inconceivable,"('Drama', 'Thriller')",,UK,ENGLISH,5.2,6191,2017-06-30,,,
+tt3482000,A Thousand Junkies,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,5.5,140,2017-04-22,,,
+tt3486626,The Nut Job 2: Nutty by Nature,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,SOUTH KOREA,ENGLISH,5.4,4188,2017-08-11,40.0,8.342311,28.370522
+tt3501112,Security,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,5.7,11667,2017-03-04,15.0,,
+tt3501632,Thor: Ragnarok,"('Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi')",PG-13,USA,ENGLISH,7.9,392258,2017-11-03,180.0,122.744989,315.058289
+tt3521126,The Disaster Artist,"('Biography', 'Comedy', 'Drama')",,USA,ENGLISH,7.5,96207,2017-12-08,10.0,1.211345,21.120616
+tt3530328,Haunted,"('Horror', 'Thriller')",UNRATED,ITALY,ENGLISH,4.5,530,,,,
+tt3532216,American Made,"('Action', 'Biography', 'Comedy', 'Crime', 'Thriller')",,USA,ENGLISH,7.2,116560,2017-09-29,50.0,16.77639,51.342
+tt3548028,Aardvark,"('Drama',)",PG-13,USA,ENGLISH,4.6,313,2018-04-13,,,
+tt3564472,Girls Trip,"('Comedy', 'Drama')",,USA,ENGLISH,6.2,26477,2017-07-21,19.0,31.20192,115.108515
+tt3567666,Stratton,"('Action', 'Thriller')",,UK,ENGLISH,4.8,2702,2018-01-05,,,
+tt3582020,Jawbone,"('Action', 'Drama', 'Sport')",,UK,ENGLISH,6.4,1966,2017-05-12,,,
+tt3592904,Cross Wars,"('Action', 'Fantasy')",,USA,LATIN,2.5,403,2017-02-07,,,
+tt3593666,Dial a Prayer,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.3,743,2017-12-14,,,
+tt3597732,The Lost Legion,"('Action', 'Adventure', 'History')",,CZECH REPUBLIC,ENGLISH,3.1,545,2017-01-22,,,
+tt3606752,Cars 3,"('Animation', 'Adventure', 'Comedy', 'Family', 'Sport')",UNRATED,USA,ENGLISH,6.8,51024,2017-06-16,175.0,53.68868,152.901115
+tt3672120,Pottersville,"('Comedy',)",PG-13,USA,ENGLISH,5.2,2047,2017-11-10,,,
+tt3685624,3 Idiotas,"('Comedy', 'Family')",PG-13,MEXICO,SPANISH,4.2,695,2017-06-02,,0.609249,1.239307
+tt3688342,Zoo,"('Family', 'History', 'War')",,IRELAND,ENGLISH,6.7,363,2018-06-08,,,
+tt3692652,Eloise,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,4.5,2963,2017-02-03,,,
+tt3693042,Grey Lady,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,4.3,653,2017-04-28,,,
+tt3696610,Stuck,"('Drama', 'Musical')",PG-13,USA,ENGLISH,7.8,138,2018-10-26,,,
+tt3702088,Daisy Winters,"('Drama',)",,USA,ENGLISH,6.9,65,2017-10-05,,0.089144,0.17823
+tt3717490,Power Rangers,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,6.0,86059,2017-03-24,100.0,40.300288,85.067486
+tt3722614,Revolt,"('Action', 'Sci-Fi', 'War')",,UK,ENGLISH,5.2,5979,2017-07-01,4.0,,
+tt3731562,Kong: Skull Island,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",PG-13,USA,ENGLISH,6.7,217117,2017-03-10,185.0,61.025472,168.052812
+tt3731580,We Don't Belong Here,"('Drama', 'Mystery')",,USA,ENGLISH,5.0,483,2017-04-04,,,
+tt3739110,The Yellow Birds,"('Drama', 'War')",,USA,ENGLISH,5.7,1755,2018-06-15,12.0,,
+tt3741632,The Leisure Seeker,"('Adventure', 'Comedy', 'Drama', 'Romance')",,ITALY,ENGLISH,6.6,3641,2018-01-03,,0.113708,3.226443
+tt3745058,Weightless,"('Drama',)",,USA,ENGLISH,7.0,23,2018-11-09,,,
+tt3749926,Bug,"('Drama', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,6.1,11,,,,
+tt3750872,The Wife,"('Drama',)",,UK,ENGLISH,7.4,2285,2018-09-28,,0.108284,6.790237
+tt3758172,Jungle,"('Action', 'Adventure', 'Biography', 'Drama', 'Thriller')",,AUSTRALIA,ENGLISH,6.7,31262,2017-10-20,,,
+tt3758852,Blood Money,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,4.5,1376,2017-10-13,,,
+tt3779382,Day of Days,"('Drama',)",,USA,ENGLISH,4.4,45,2017-08-15,,,
+tt3780500,Journey's End,"('Drama', 'War')",,UK,ENGLISH,6.6,3408,2018-02-02,,0.011798,0.156164
+tt3787068,Psychos,"('Crime', 'Drama', 'Horror', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,3.0,184,2017-03-17,,,
+tt3800674,The Wolves of Savin Hill,"('Crime', 'Drama', 'Horror')",UNRATED,USA,ENGLISH,7.5,29,,,,
+tt3823116,A Stork's Journey,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,GERMANY,ENGLISH,5.9,1094,2017-05-05,,,
+tt3829378,Stephanie,"('Drama', 'Fantasy', 'Horror', 'Mystery')",,USA,ENGLISH,5.8,2581,2018-04-17,,,
+tt3829920,Only the Brave,"('Biography', 'Drama')",PG-13,USA,ENGLISH,7.7,36241,2017-10-20,38.0,6.002665,18.340051
+tt3853806,The Slider,"('Drama',)",UNRATED,ROMANIA,LATIN,7.1,30,2017-10-31,,,
+tt3859272,Tragedy Girls,"('Comedy', 'Crime', 'Horror')",,USA,ENGLISH,6.0,5866,2017-10-20,,0.012125,0.061899
+tt3859310,How to Talk to Girls at Parties,"('Comedy', 'Music', 'Romance', 'Sci-Fi')",,UK,ENGLISH,5.8,5149,2018-05-25,,,0.084809
+tt3874544,The Boss Baby,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,6.3,84835,2017-03-31,125.0,50.198902,175.003033
+tt3881784,Stronger,"('Biography', 'Drama')",,USA,ENGLISH,7.0,28018,2017-09-29,,1.611899,4.211129
+tt3887812,You Have a Nice Flight,"('Comedy', 'Drama', 'Romance')",PG-13,VIETNAM,ENGLISH,8.4,21,2018-10-26,,,
+tt3890160,Baby Driver,"('Action', 'Crime', 'Drama', 'Music', 'Thriller')",,UK,ENGLISH,7.6,327182,2017-06-28,34.0,20.55332,107.825862
+tt3891538,Undercover Grandpa,"('Action', 'Comedy', 'Family')",PG-13,CANADA,ENGLISH,5.1,1101,2017-07-07,,,
+tt3896102,Tadeo Jones 2: El secreto del Rey Midas,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,SPAIN,ENGLISH,6.2,1719,2017-08-25,,,
+tt3896198,Guardians of the Galaxy Vol. 2,"('Action', 'Adventure', 'Comedy', 'Sci-Fi')",PG-13,USA,ENGLISH,7.7,414765,2017-05-05,200.0,146.510104,389.813101
+tt3901826,The Breadwinner,"('Animation', 'Drama', 'Family', 'War')",PG-13,IRELAND,ENGLISH,7.7,10791,2017-11-17,,,0.312381
+tt3902120,The 312,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,9.0,70,2017-12-15,,,
+tt3906082,Mary Shelley,"('Biography', 'Drama', 'Romance')",PG-13,UK,ENGLISH,6.4,4358,2018-07-06,,0.01257,0.097321
+tt3910736,Gun Shy,"('Action', 'Adventure', 'Comedy', 'Crime', 'Thriller')",,UK,ENGLISH,4.0,1927,2017-09-08,,,
+tt3922818,The Space Between Us,"('Adventure', 'Drama', 'Romance', 'Sci-Fi')",PG-13,USA,ENGLISH,6.4,36972,2017-02-03,30.0,3.775596,7.829766
+tt3946960,Chapter & Verse,"('Drama',)",,USA,ENGLISH,6.2,137,2017-02-03,,0.032713,0.084147
+tt3948080,Sweet Sweet Summertime,"('Family',)",,USA,ENGLISH,7.4,14,2017-06-01,,,
+tt3953804,Turning the Hands of Time,"('Action',)",UNRATED,USA,LATIN,8.0,10,2017-04-24,0.2,,
+tt3962984,The Black Prince,"('Drama', 'History')",PG-13,UK,ENGLISH,7.0,761,2017-07-21,,,0.285
+tt3969208,Trust Fund,"('Drama',)",,USA,ENGLISH,6.4,60,2017-07-18,,,
+tt3972110,Blue Line,"('Action', 'Thriller')",,USA,ENGLISH,4.1,79,2017-03-17,2.5,,
+tt4030600,The Bye Bye Man,"('Horror', 'Thriller')",PG-13,USA,ENGLISH,4.3,15303,2017-01-13,7.4,13.378,22.377458
+tt4045894,Get the Girl,"('Action', 'Comedy', 'Crime', 'Thriller')",,USA,LATIN,5.1,944,2017-01-27,,,
+tt4064912,Shine,"('Drama', 'Music')",,UK,ENGLISH,4.6,105,2018-10-05,0.4,0.205842,0.259434
+tt4080956,A Prayer Before Dawn,"('Action', 'Biography', 'Crime', 'Drama', 'Sport')",,UK,ENGLISH,7.0,8508,2018-08-10,,,
+tt4105584,Deep,"('Animation', 'Adventure', 'Comedy', 'Family')",,SPAIN,ENGLISH,4.1,883,2018-01-15,,,
+tt4106376,Renegades,"('Action', 'Adventure', 'Crime', 'Drama', 'Thriller', 'War')",PG-13,FRANCE,ENGLISH,5.4,5573,2018-06-28,,,
+tt4116284,The Lego Batman Movie,"('Animation', 'Action', 'Comedy', 'Family')",,USA,ENGLISH,7.3,105092,2017-02-10,80.0,53.003468,175.750384
+tt4117538,Disconnected,"('Drama',)",UNRATED,USA,ENGLISH,5.6,68,2017-03-01,2.0,,
+tt4126568,Open Water 3: Cage Dive,"('Drama', 'Horror', 'Thriller')",,AUSTRALIA,ENGLISH,4.1,2735,2017-04-27,,,
+tt4131800,My Little Pony: The Movie,"('Animation', 'Action', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical', 'Sci-Fi')",,USA,ENGLISH,6.1,4640,2017-10-06,6.5,8.885899,21.885107
+tt4144350,Cold Ground,"('Horror', 'Mystery', 'Sci-Fi')",UNRATED,FRANCE,FRENCH,6.9,528,2018-09-03,,,
+tt4147596,Breaking Legs,"('Family', 'Musical')",UNRATED,USA,ENGLISH,4.1,153,,,,
+tt4172498,E19 Virus,"('Horror',)",UNRATED,USA,ENGLISH,4.6,155,2017-06-16,0.12,,
+tt4180286,Valley of Bones,"('Crime', 'Thriller', 'Western')",,USA,ENGLISH,4.3,404,2017-09-01,,0.107393,0.168738
+tt4181782,The Crucifixion,"('Horror', 'Mystery', 'Thriller')",UNRATED,UK,ENGLISH,5.0,4397,2017-10-06,,,
+tt4196110,Asomatous,"('Thriller',)",,USA,ENGLISH,4.3,13,2017-10-24,2.0,,
+tt4209788,Molly's Game,"('Biography', 'Crime', 'Drama')",,CHINA,ENGLISH,7.5,83896,2018-01-05,,,28.780744
+tt4215674,Highway to Havasu,"('Adventure', 'Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,3.5,160,2017-03-07,,,
+tt4218696,The Wall,"('Drama', 'Thriller', 'War')",,USA,ENGLISH,6.2,18452,2017-05-18,,0.898013,1.803009
+tt4274656,Grow House,"('Comedy',)",,USA,ENGLISH,4.5,229,2017-04-20,8.3,,1.014563
+tt4287320,The Circle,"('Drama', 'Sci-Fi', 'Thriller')",PG-13,UNITED ARAB EMIRATES,ENGLISH,5.3,66539,2017-04-28,18.0,9.034148,20.476391
+tt4294970,I Believe,"('Family',)",UNRATED,USA,ENGLISH,7.9,75,2017-11-07,,,
+tt4372736,Because Of Grácia,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,8.2,80,2017-09-15,1.2,0.052171,0.090878
+tt4399952,The Lodgers,"('Drama', 'Horror', 'Romance', 'Thriller')",,IRELAND,ENGLISH,5.1,4970,2018-02-23,,,
+tt4400994,The Ballad of Lefty Brown,"('Action', 'Drama', 'Western')",,USA,ENGLISH,6.2,3215,2017-12-15,8.0,0.005559,0.007856
+tt4411596,My Cousin Rachel,"('Drama', 'Mystery', 'Romance')",PG-13,UK,ENGLISH,6.0,14043,2017-06-09,,0.968506,2.676077
+tt4425200,John Wick: Chapter 2,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,7.5,244942,2017-02-10,40.0,30.436123,92.029184
+tt4435082,Running Wild,"('Drama', 'Western')",,USA,ENGLISH,6.0,907,2017-02-10,,,
+tt4449516,Trew Calling,"('Comedy',)",PG-13,USA,ENGLISH,6.4,13,2017-02-02,,,
+tt4459156,55 Steps,"('Biography', 'Drama')",PG-13,GERMANY,ENGLISH,5.9,249,2018-05-03,,,
+tt4464394,The Gracefield Incident,"('Action', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,4.1,1676,2017-07-27,,,
+tt4465564,Fifty Shades Darker,"('Drama', 'Romance')",,USA,ENGLISH,4.6,75339,2017-02-10,55.0,46.60725,114.376885
+tt4468740,Paddington 2,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,UK,ENGLISH,7.9,36225,2018-01-12,40.0,11.001961,40.442052
+tt4481414,Gifted,"('Drama',)",PG-13,USA,ENGLISH,7.6,74057,2017-04-12,7.0,0.44638,24.801212
+tt4481514,The House,"('Comedy', 'Crime')",,USA,ENGLISH,5.6,29192,2017-06-30,40.0,8.724795,25.481529
+tt4494382,Condorito: The Movie,"('Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi')",,PERU,SPANISH,5.2,576,2018-01-12,8.0,0.248456,0.447719
+tt4494718,Final Portrait,"('Biography', 'Comedy', 'Drama')",,UK,ENGLISH,6.3,2926,2018-03-23,,0.025472,0.461972
+tt4498760,Khali the Killer,"('Crime', 'Drama')",,USA,ENGLISH,3.4,216,2018-08-31,1.0,,
+tt4508904,Provision,"('Drama', 'Family')",UNRATED,USA,ENGLISH,,0,2017-11-24,,,
+tt4513316,Novitiate,"('Drama',)",,USA,ENGLISH,6.6,2479,2017-01-20,,0.022724,0.580346
+tt4514646,"Tim Timmerman, Hope of America","('Comedy',)",PG-13,USA,ENGLISH,5.5,254,2017-03-03,,0.050604,0.097629
+tt4526136,Scales: Mermaids Are Real,"('Drama', 'Fantasy')",,USA,ENGLISH,4.8,267,2017-07-21,,,
+tt4538916,Finding Your Feet,"('Comedy', 'Drama', 'Music', 'Romance')",PG-13,UK,ENGLISH,6.6,2677,2018-03-30,,0.060132,1.418682
+tt4555426,Darkest Hour,"('Biography', 'Drama', 'History', 'War')",PG-13,UK,ENGLISH,7.4,114569,2017-12-22,30.0,0.175006,56.44312
+tt4556370,Altitude,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,4.0,2343,2017-10-06,5.0,,
+tt4557208,Armed Response,"('Action', 'Horror', 'Thriller')",,USA,ENGLISH,3.8,1479,2017-08-09,,,
+tt4557956,Crash Pad,"('Comedy',)",,CANADA,ENGLISH,5.7,1899,2017-09-26,,,
+tt4565520,The Layover,"('Comedy',)",,USA,ENGLISH,4.7,8674,2017-08-03,,,
+tt4565668,Sorceress,"('Drama', 'Fantasy', 'Horror', 'Music', 'Romance', 'Thriller')",UNRATED,USA,ENGLISH,4.6,85,2017-02-25,0.5,,
+tt4572792,The Book of Henry,"('Crime', 'Drama', 'Thriller')",PG-13,USA,ENGLISH,6.6,16632,2017-06-23,10.0,1.42454,4.219536
+tt4581576,Aftermath,"('Drama', 'Thriller')",,USA,ENGLISH,5.7,16297,2017-04-07,10.5,,
+tt4587656,The Star,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,5.9,3915,2017-11-17,18.0,,40.852824
+tt4588594,The Body Tree,"('Horror', 'Thriller')",UNRATED,RUSSIA,ENGLISH,4.0,282,2017-11-13,,,
+tt4622512,Battle of the Sexes,"('Biography', 'Comedy', 'Drama', 'Sport')",PG-13,UK,ENGLISH,6.7,37413,2017-09-29,,0.51545,12.638526
+tt4630562,The Fate of the Furious,"('Action', 'Crime', 'Thriller')",PG-13,CHINA,ENGLISH,6.7,168174,2017-04-14,250.0,98.786705,226.008385
+tt4633690,Shot Caller,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,7.3,51407,2017-08-18,,,
+tt4649466,Kingsman: The Golden Circle,"('Action', 'Adventure', 'Comedy')",,UK,ENGLISH,6.8,204704,2017-09-22,104.0,39.02301,100.234838
+tt4652650,Please Stand By,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.7,6126,2018-01-26,,,0.009868
+tt4660150,Stealth Edge,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",UNRATED,USA,ENGLISH,,0,2017-07-20,0.0003,,
+tt4662420,All Nighter,"('Comedy', 'Drama')",,USA,ENGLISH,5.7,4839,2017-03-24,,,
+tt4663548,All Saints,"('Drama',)",,USA,ENGLISH,5.9,1057,2017-08-25,6.0,,5.802208
+tt4677924,Woodshock,"('Drama', 'Thriller')",,USA,ENGLISH,4.3,1081,2017-09-22,5.0,0.012247,0.042603
+tt4682788,Loving Pablo,"('Biography', 'Crime', 'Drama')",UNRATED,SPAIN,ENGLISH,6.3,8599,2018-06-15,,0.016564,0.019786
+tt4686108,Love Beats Rhymes,"('Drama', 'Musical')",,USA,ENGLISH,5.2,594,2017-12-01,,,
+tt4686844,The Death of Stalin,"('Comedy', 'Drama', 'History', 'War')",UNRATED,FRANCE,ENGLISH,7.2,47862,2018-03-09,,0.184805,8.041828
+tt4695012,It Comes at Night,"('Horror', 'Mystery')",,USA,ENGLISH,6.2,62360,2017-06-09,5.0,5.98837,13.985117
+tt4703048,6 Days,"('Action', 'Drama', 'History', 'Thriller')",,UK,ENGLISH,6.2,12259,2017-08-18,,,
+tt4717208,Cops and Robbers,"('Action',)",,USA,LATIN,3.7,273,2017-12-12,5.5,,
+tt4717402,Mutafukaz,"('Animation', 'Action', 'Comedy', 'Sci-Fi')",,FRANCE,FRENCH,7.0,394,2018-05-23,,,
+tt4721404,The Good Catholic,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.3,752,2017-09-08,,,
+tt4731148,Attraction,"('Romance', 'Sci-Fi')",UNRATED,RUSSIA,RUSSIAN,5.5,6424,2017-01-26,,,
+tt4746102,The Scent of Rain & Lightning,"('Drama', 'Mystery', 'Western')",,USA,ENGLISH,5.1,616,2017-03-25,,,
+tt4765284,Pitch Perfect 3,"('Comedy', 'Music')",PG-13,USA,ENGLISH,5.9,37365,2017-12-22,45.0,19.928525,104.89753
+tt4795124,How to Be a Latin Lover,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.9,10525,2017-04-28,10.0,12.252439,32.088029
+tt4799050,Rough Night,"('Comedy', 'Crime', 'Thriller')",UNRATED,USA,ENGLISH,5.2,35334,2017-06-16,20.0,8.004283,22.0622
+tt4801232,In Search of Fellini,"('Adventure', 'Drama', 'Romance')",,USA,ENGLISH,6.2,1315,2017-09-15,,0.010796,0.012772
+tt4827442,Kampout,"('Adventure',)",UNRATED,USA,ENGLISH,2.9,75,2017-07-04,,,
+tt4827516,ZBurbs,"('Horror',)",UNRATED,USA,LATIN,5.1,22,2017-11-21,,,
+tt4827986,The Sense of an Ending,"('Drama', 'Mystery')",PG-13,UK,ENGLISH,6.3,4417,2017-03-10,,0.039692,1.235432
+tt4828304,Hush Money,"('Drama', 'Thriller')",UNRATED,USA,ENGLISH,6.3,104,,,,
+tt4843344,Speech & Debate,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.9,976,2017-04-07,,,
+tt4846232,Good Time,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,7.3,44779,2017-08-25,,0.125101,2.009484
+tt4877122,The Emoji Movie,"('Animation', 'Adventure', 'Comedy', 'Family')",,USA,ENGLISH,3.2,42985,2017-07-28,50.0,24.531923,86.089513
+tt4899370,Megan Leavey,"('Biography', 'Drama', 'War')",PG-13,USA,ENGLISH,7.1,17080,2017-06-09,,3.810867,13.406304
+tt4917224,9/11,"('Action', 'Drama')",,CANADA,ENGLISH,4.1,2251,2017-09-07,,0.3205,
+tt4925292,Lady Bird,"('Comedy', 'Drama')",,USA,ENGLISH,7.5,148920,2017-12-01,10.0,0.364437,48.958273
+tt4939156,The Valley,"('Drama', 'Mystery')",,USA,ENGLISH,8.1,39,2018-06-08,,,
+tt4943322,The Ottoman Lieutenant,"('Drama', 'War')",,TURKEY,ENGLISH,6.7,21530,2017-03-10,40.0,,
+tt4944852,Pestkop,"('Drama', 'Family', 'Thriller')",UNRATED,NETHERLANDS,DUTCH,6.8,44,2017-10-19,,,
+tt4946006,All I Want,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,5.7,93,2017-06-11,,,
+tt4949290,Cartels,"('Action', 'Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,3.9,974,2017-07-07,7.0,,
+tt4986134,Rebel in the Rye,"('Biography', 'Drama', 'Romance', 'War')",PG-13,USA,ENGLISH,6.6,4983,2017-09-15,,,0.378294
+tt4995790,The Square,"('Comedy', 'Drama')",,SWEDEN,ENGLISH,7.3,37822,2017-08-25,,0.074233,1.502347
+tt4998222,American Folk,"('Drama', 'Musical')",,USA,ENGLISH,6.0,245,2018-01-26,,,
+tt5001718,"Everything, Everything","('Drama', 'Romance')",PG-13,USA,ENGLISH,6.4,23131,2017-05-19,10.0,11.72739,34.000284
+tt5013056,Dunkirk,"('Action', 'Drama', 'History', 'Thriller', 'War')",PG-13,UK,ENGLISH,8.0,422031,2017-07-21,100.0,50.513488,188.373161
+tt5023260,The Last Word,"('Comedy', 'Drama')",,USA,ENGLISH,6.6,5625,2017-03-03,,0.03163,1.782667
+tt5027774,"Three Billboards Outside Ebbing, Missouri","('Comedy', 'Crime', 'Drama')",,UK,ENGLISH,8.2,283298,2017-12-01,15.0,0.322168,54.51374
+tt5029776,Die Häschenschule: Jagd nach dem goldenen Ei,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",UNRATED,GERMANY,GERMAN,5.7,205,2017-03-16,,,
+tt5031108,American Gothic,"('Horror', 'Thriller')",UNRATED,USA,ENGLISH,3.6,241,,,,
+tt5052448,Get Out,"('Horror', 'Mystery', 'Thriller')",,JAPAN,ENGLISH,7.7,335843,2017-02-24,5.0,33.37706,176.040665
+tt5066056,The Wilde Wedding,"('Comedy', 'Romance')",,USA,ENGLISH,4.9,1162,2017-09-15,,,
+tt5078656,Champion,"('Drama', 'Family', 'Sport')",,USA,ENGLISH,5.6,140,2017-05-19,0.5,0.0871,0.175232
+tt5084170,Mugen no jûnin,"('Action', 'Drama', 'Fantasy')",,JAPAN,JAPANESE,6.8,10677,2017-11-03,,0.049569,0.150532
+tt5093026,Papillon,"('Crime', 'Drama', 'Mystery', 'Thriller')",,CZECH REPUBLIC,ENGLISH,7.0,4149,2018-08-24,,1.090073,2.335896
+tt5096846,The Boy Downstairs,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.8,683,2018-02-16,,0.005995,0.012257
+tt5101878,Breakable You,"('Comedy', 'Drama')",,USA,ENGLISH,5.3,156,2018-03-13,,,
+tt5109784,Mother!,"('Drama', 'Horror', 'Mystery')",,USA,ENGLISH,6.6,136430,2017-09-15,33.0,7.534673,17.800004
+tt5114154,The Keeping Hours,"('Drama', 'Horror', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,6.3,1136,2018-07-24,,,
+tt5116504,True to the Game,"('Drama',)",,USA,ENGLISH,5.0,423,2017-09-08,,,
+tt5126922,The Pirates of Somalia,"('Biography', 'Drama')",,SOMALIA,ENGLISH,6.8,5856,2017-12-08,,,
+tt5140878,Annabelle: Creation,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,6.5,78962,2017-08-11,15.0,35.006404,102.092201
+tt5143890,Justice,"('Western',)",UNRATED,USA,LATIN,4.1,637,2017-09-15,4.0,0.002154,
+tt5159414,Escape Room,"('Horror', 'Thriller')",,USA,ENGLISH,4.3,2911,2017-09-29,,,
+tt5162658,Oro,"('Adventure', 'Drama', 'History')",,SPAIN,SPANISH,5.6,895,2017-12-01,,0.002571,0.002571
+tt5175450,Mark Felt: The Man Who Brought Down the White House,"('Biography', 'Drama', 'History', 'Thriller')",PG-13,USA,ENGLISH,6.4,7491,2017-09-29,,0.034217,0.768946
+tt5175636,Abe & Phil's Last Poker Game,"('Comedy', 'Drama')",,USA,ENGLISH,5.3,158,2017-04-24,,,
+tt5180888,Sollers Point,"('Drama',)",,USA,ENGLISH,5.7,297,2018-05-18,,0.010618,0.032608
+tt5181852,Slumber,"('Horror',)",,UK,ENGLISH,4.7,2588,2017-12-01,,,
+tt5187886,Abracadabra,"('Comedy', 'Drama', 'Fantasy')",,SPAIN,SPANISH,6.0,1664,2017-09-15,,0.002116,0.00347
+tt5189894,68 Kill,"('Comedy', 'Crime', 'Romance', 'Thriller')",,USA,ENGLISH,6.0,2950,2017-08-04,,,
+tt5193658,The Mason Brothers,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.1,32,2017-04-14,,,
+tt5198670,Where Is Kyra?,"('Drama',)",,UK,ENGLISH,5.6,815,2018-04-06,,,0.059717
+tt5198868,Robo-Dog: Airborne,"('Family',)",UNRATED,USA,ENGLISH,5.3,115,2017-05-04,,,
+tt5208216,Wonderstruck,"('Drama', 'Mystery')",,USA,SPANISH,6.2,6940,2017-10-20,,0.065882,1.033632
+tt5213870,Pray for Rain,"('Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.1,597,2017-06-16,3.0,,
+tt5226512,Feed,"('Drama',)",PG-13,USA,ENGLISH,6.2,1845,2017-07-18,,,
+tt5228262,A Happening of Monumental Proportions,"('Comedy',)",,USA,ENGLISH,5.5,60,2018-09-21,,,
+tt5270378,Go Mad and Mark,"('Comedy', 'Drama', 'Horror', 'Mystery', 'Sci-Fi')",UNRATED,USA,ENGLISH,4.3,13,2017-11-02,,,
+tt5270948,Chappaquiddick,"('Drama', 'History', 'Thriller')",PG-13,SWEDEN,ENGLISH,6.5,6391,2018-04-06,13.0,5.765854,17.39552
+tt5273624,Journey to the West: The Demons Strike Back,"('Adventure', 'Comedy', 'Fantasy')",PG-13,OFFICIAL SITE [JAPAN],MANDARIN,5.4,2106,2017-02-03,63.3,0.469259,0.880346
+tt5281700,Heartbeats,"('Comedy', 'Drama', 'Music', 'Musical', 'Romance')",,UNITED ARAB EMIRATES,ENGLISH,5.3,456,2017-02-09,7.5,,
+tt5288646,6:66 PM,"('Comedy', 'Horror')",UNRATED,USA,ENGLISH,6.1,967,2017-11-04,,,
+tt5294550,All the Money in the World,"('Biography', 'Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,6.9,50327,2017-12-25,50.0,5.584684,25.106315
+tt5301544,Swing State,"('Comedy', 'Music', 'Romance')",,USA,ENGLISH,3.5,255,2017-02-03,,,
+tt5301662,Marshall,"('Biography', 'Drama')",PG-13,USA,ENGLISH,7.2,12065,2017-10-13,12.0,3.000805,10.051659
+tt5304464,Happy End,"('Drama',)",,FRANCE,FRENCH,6.8,8649,2017-12-22,13.6,,0.301718
+tt5308322,Happy Death Day,"('Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,6.5,65807,2017-10-13,4.8,26.039025,55.683845
+tt5319866,Slamma Jamma,"('Drama', 'Sport')",,USA,ENGLISH,6.4,1062,2017-03-23,1.0,1.687,1.687
+tt5322012,Wish Upon,"('Fantasy', 'Horror', 'Thriller')",PG-13,USA,ENGLISH,5.1,12922,2017-07-14,16.0,5.467084,14.301505
+tt5340300,Lean on Pete,"('Adventure', 'Drama')",,UK,ENGLISH,7.2,6223,2018-04-06,,0.046975,1.163056
+tt5342904,The Stray,"('Drama', 'Family')",,USA,ENGLISH,5.4,670,2017-10-06,,0.596547,1.57944
+tt5351458,The Hatton Garden Job,"('Action', 'Crime', 'Thriller')",,UK,ENGLISH,5.9,3275,2017-04-14,,,
+tt5361064,The Midnight Man,"('Comedy', 'Horror', 'Thriller')",UNRATED,USA,ENGLISH,4.3,145,2017-10-03,,,
+tt5362988,Wind River,"('Crime', 'Drama', 'Mystery', 'Thriller')",,UK,ENGLISH,7.7,145593,2017-08-18,11.0,0.161558,33.800859
+tt5390504,Detroit,"('Crime', 'Drama', 'History', 'Thriller')",,USA,ENGLISH,7.4,35635,2017-08-04,34.0,0.35019,16.790139
+tt5420886,Walking Out,"('Adventure', 'Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.8,4185,2017-10-06,,0.005462,0.10024
+tt5436228,Woman Walks Ahead,"('Biography', 'Drama', 'History', 'Western')",,USA,ENGLISH,6.4,2134,2018-06-29,,0.006863,0.057528
+tt5439796,Logan Lucky,"('Comedy', 'Crime', 'Drama')",PG-13,USA,ENGLISH,7.0,94666,2017-08-18,29.0,7.600036,27.780977
+tt5442430,Life,"('Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,6.6,165586,2017-03-24,58.0,12.501936,30.234022
+tt5442456,24 Hours to Live,"('Action', 'Sci-Fi', 'Thriller')",,SOUTH AFRICA,ENGLISH,5.7,8252,2018-01-26,,,
+tt5451690,American Satan,"('Drama', 'Music', 'Thriller')",,USA,ENGLISH,5.5,2109,2017-10-13,,0.135378,0.226233
+tt5461956,The Clapper,"('Comedy',)",,USA,ENGLISH,5.1,3732,2018-01-26,,,
+tt5462326,Mom and Dad,"('Comedy', 'Horror', 'Thriller')",,USA,ENGLISH,5.5,12048,2018-03-09,7.0,,
+tt5462602,The Big Sick,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.6,94544,2017-07-14,5.0,0.421577,42.872467
+tt5464234,Kill Switch,"('Action', 'Sci-Fi', 'Thriller')",,NETHERLANDS,ENGLISH,4.8,5769,2017-06-16,,,
+tt5469480,Saving Faith,"('Comedy',)",UNRATED,USA,ENGLISH,7.0,22,2017-02-01,,,
+tt5478478,Hostiles,"('Adventure', 'Drama', 'Western')",,USA,ENGLISH,7.2,40397,2018-01-26,39.0,0.022849,29.819114
+tt5503688,6 Below: Miracle on the Mountain,"('Adventure', 'Biography', 'Drama', 'Thriller')",PG-13,USA,ENGLISH,5.7,3770,2017-10-13,,,
+tt5537228,Everybody Loves Somebody,"('Comedy', 'Romance')",PG-13,MEXICO,ENGLISH,6.5,2978,2017-02-17,2.0,0.924201,1.910685
+tt5540992,Shock and Awe,"('Biography', 'Drama', 'History', 'Thriller')",,USA,ENGLISH,5.7,2003,2018-07-20,,0.045856,0.07798
+tt5564932,Moss,"('Adventure', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,6.2,33,2018-07-06,,,
+tt5579982,Apple of My Eye,"('Family',)",,USA,ENGLISH,5.6,263,2017-01-10,,,
+tt5580036,"I, Tonya","('Biography', 'Comedy', 'Drama', 'Sport')",,USA,ENGLISH,7.5,113143,2018-01-19,11.0,0.264155,30.014539
+tt5580390,The Shape of Water,"('Adventure', 'Drama', 'Fantasy', 'Horror', 'Romance', 'Thriller')",,USA,ENGLISH,7.4,255430,2017-12-22,19.4,0.166564,63.859435
+tt5580536,Arsenal,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,4.0,3102,2017-01-06,10.0,,
+tt5592248,The Beguiled,"('Drama', 'Thriller')",,USA,ENGLISH,6.3,38635,2017-06-30,10.5,0.229292,10.576669
+tt5610626,Dragonheart: Battle for the Heartfire,"('Fantasy',)",PG-13,USA,ENGLISH,5.2,1452,2017-06-13,,,
+tt5613746,The Lost Digit,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,7.5,8,2017-07-07,0.01,,
+tt5628302,Beast,"('Crime', 'Drama', 'Mystery', 'Romance')",,UK,ENGLISH,6.9,4159,2018-05-11,,0.053248,0.800365
+tt5628332,One-line,"('Drama',)",UNRATED,SOUTH KOREA,KOREAN,6.1,83,2017-03-29,,,
+tt5637736,Wraith,"('Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,3.5,287,2017-04-05,,,
+tt5639354,A Fantastic Woman,"('Drama',)",,CHILE,SPANISH,7.2,15214,2018-02-02,,0.064241,2.020988
+tt5649108,Thoroughbreds,"('Comedy', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.8,18165,2018-03-09,,1.22443,2.830775
+tt5649144,The Florida Project,"('Drama',)",,USA,ENGLISH,7.6,60199,2017-11-10,2.0,0.157553,5.904366
+tt5655222,The Hero,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.5,6010,2017-06-09,,,4.077333
+tt5657846,Daddy's Home 2,"('Comedy',)",PG-13,USA,ENGLISH,6.0,39031,2017-11-10,69.0,29.651193,104.029443
+tt5664676,"We Love You, Sally Carmichael!","('Comedy',)",,USA,LATIN,6.0,243,2017-08-04,,0.030951,0.113324
+tt5666304,The Little Hours,"('Comedy', 'Romance')",,CANADA,ENGLISH,5.8,12235,2017-06-30,,,1.647175
+tt5668054,Generational Sins,"('Drama',)",UNRATED,USA,ENGLISH,8.4,469,2017-10-06,,,
+tt5669936,The Recall,"('Horror', 'Sci-Fi', 'Thriller')",,CANADA,ENGLISH,4.5,6373,2017-06-02,,1.16057,1.319566
+tt5687040,Les fantômes d'Ismaël,"('Drama', 'Romance', 'Thriller')",,FRANCE,FRENCH,5.6,1466,2018-03-23,,0.019158,0.10251
+tt5687334,Godard Mon Amour,"('Biography', 'Comedy', 'Drama', 'Romance')",,FRANCE,FRENCH,6.7,2889,2017-09-13,,0.010994,0.082264
+tt5687814,Golden Exits,"('Drama',)",,USA,ENGLISH,5.8,1220,2018-02-09,,0.011719,0.037801
+tt5689068,Killing Gunther,"('Action', 'Comedy')",,USA,ENGLISH,4.7,7692,2017-09-22,,,
+tt5698320,Euphoria,"('Adventure', 'Drama', 'Mystery')",,UK,ENGLISH,5.8,1862,2018-02-02,,,
+tt5704912,A Cowgirl's Story,"('Family',)",,USA,ENGLISH,5.3,365,2017-04-13,,,
+tt5711148,Film Stars Don't Die in Liverpool,"('Biography', 'Drama', 'Romance')",,UK,ENGLISH,6.7,5019,2017-11-16,10.0,,1.026124
+tt5711672,Getting Grace,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.9,253,2017-09-08,,0.107676,0.217812
+tt5715410,The Son of Bigfoot,"('Animation', 'Comedy', 'Family', 'Fantasy')",,BELGIUM,ENGLISH,6.1,3469,2018-05-01,30.0,,0.289308
+tt5715874,The Killing of a Sacred Deer,"('Drama', 'Mystery', 'Thriller')",UNRATED,UK,ENGLISH,7.0,73435,2017-11-03,,0.11512,2.291901
+tt5716464,Breathe,"('Biography', 'Drama', 'Romance')",PG-13,UK,ENGLISH,7.1,12550,2017-10-27,,0.022285,0.490131
+tt5716848,Where's the Money,"('Comedy',)",,USA,ENGLISH,5.2,1301,2017-10-20,,,
+tt5719700,Home Again,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.8,19325,2017-09-08,12.0,,27.020284
+tt5721088,Just Getting Started,"('Action', 'Comedy')",PG-13,USA,ENGLISH,4.3,3862,2017-12-08,22.0,3.201459,6.069605
+tt5722516,Kuleana,"('Drama', 'Mystery')",PG-13,USA,ENGLISH,8.0,43,2017-06-23,,0.035126,0.165254
+tt5723272,In the Fade,"('Crime', 'Drama', 'Thriller')",,GERMANY,GERMAN,7.1,17109,2017-12-27,,,0.321011
+tt5726616,Call Me by Your Name,"('Drama', 'Romance')",,ITALY,ENGLISH,8.0,127300,2018-01-19,,0.412932,18.095701
+tt5727282,Borg vs McEnroe,"('Biography', 'Drama', 'Sport')",,SWEDEN,ENGLISH,7.0,16771,2018-04-13,,,4.113354
+tt5737862,Landline,"('Comedy', 'Drama')",,USA,ENGLISH,6.4,3195,2017-07-21,,0.052555,0.940854
+tt5738152,Stronger,"('Drama',)",PG-13,USA,ENGLISH,5.4,14,,0.15,,
+tt5742374,You Were Never Really Here,"('Crime', 'Drama', 'Mystery', 'Thriller')",UNRATED,UK,ENGLISH,6.9,48151,2018-04-06,,0.132829,2.52361
+tt5748392,Escape Room,"('Horror',)",,USA,ARABIC,4.3,1473,2017-09-01,,,
+tt5751998,Small Town Crime,"('Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,6.6,6804,2018-01-19,,,
+tt5760674,1040 Not So EZ,"('Drama',)",,USA,ENGLISH,8.9,41,2017-05-01,0.1,,
+tt5767628,Kill'em All,"('Action', 'Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,4.3,1540,2017-06-06,,,
+tt5770620,The Lovers,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.1,2438,2017-05-05,,0.066286,2.194521
+tt5776208,Resident Evil: Vendetta,"('Animation', 'Action', 'Adventure', 'Horror', 'Mystery', 'Sci-Fi')",,JAPAN,ENGLISH,6.3,7996,2017-05-27,,,
+tt5776858,Phantom Thread,"('Drama', 'Romance')",,USA,ENGLISH,7.6,71359,2018-01-19,35.0,,21.023275
+tt5788136,The Institute,"('Thriller',)",,USA,ENGLISH,4.1,1848,2017-03-03,3.0,,
+tt5795086,Gemini,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.5,2522,2018-03-30,,0.03298,0.20034
+tt5804314,Let There Be Light,"('Drama',)",PG-13,USA,ENGLISH,4.7,1896,2017-11-03,3.0,1.729535,7.231896
+tt5805752,Brigsby Bear,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.4,11992,2017-09-21,,0.039652,0.532669
+tt5813366,Bleeding Steel,"('Action', 'Sci-Fi', 'Thriller')",,CHINA,ENGLISH,5.2,4751,2018-07-06,65.0,,
+tt5814408,A Witches' Ball,"('Family',)",,CANADA,ENGLISH,5.4,105,2017-05-06,,,
+tt5814530,Mary Goes Round,"('Drama',)",UNRATED,CANADA,ENGLISH,7.1,64,2018-02-01,,,
+tt5814592,The Party,"('Comedy', 'Drama')",,UK,ENGLISH,6.6,11655,2018-02-16,,0.037396,0.749827
+tt5816374,Band Aid,"('Comedy', 'Drama', 'Music', 'Romance')",,USA,ENGLISH,6.6,3929,2017-06-09,,0.029013,0.237535
+tt5816682,Victoria & Abdul,"('Biography', 'Drama', 'History')",PG-13,UK,ENGLISH,6.8,21935,2017-10-06,,0.158845,22.24507
+tt5817022,One Percent More Humid,"('Drama',)",,USA,LATIN,5.4,315,2017-04-21,3.0,,
+tt5825380,Wonder Wheel,"('Drama',)",PG-13,USA,ENGLISH,6.2,16297,2017-12-15,25.0,,1.403237
+tt5829040,Fun Mom Dinner,"('Comedy',)",,USA,ENGLISH,5.1,3262,2017-08-04,,,
+tt5833186,Last Rampage: The Escape of Gary Tison,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.7,985,2017-09-22,,,
+tt5836316,The Last Movie Star,"('Drama',)",,USA,ENGLISH,6.9,2122,2018-03-30,,0.00378,0.01441
+tt5839116,Fall of Grace,"('Horror',)",UNRATED,USA,ENGLISH,4.3,449,2017-10-03,0.015,,
+tt5843838,Max 2: White House Hero,"('Family',)",,USA,ENGLISH,5.2,883,2017-05-12,,,
+tt5843850,Kings,"('Crime', 'Drama', 'Romance', 'Thriller')",,FRANCE,ENGLISH,4.8,1330,2018-04-11,,0.163289,0.274635
+tt5851786,Gnome Alone,"('Animation', 'Action', 'Comedy', 'Fantasy')",,UK,ENGLISH,5.6,581,2017-11-02,,,
+tt5851904,Le grand méchant renard et autres contes...,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",UNRATED,FRANCE,FRENCH,7.3,800,2017-06-21,3.0,,
+tt5858514,Chingisiin huuhduud,"('Adventure', 'Family')",UNRATED,MONGOLIA,MONGOLIAN,9.3,790,,1.2,,0.806
+tt5864288,Todas las mujeres son iguales,"('Comedy',)",UNRATED,DOMINICAN REPUBLIC,LATIN,7.5,92,2017-08-31,,,
+tt5881892,Elizabeth Blue,"('Drama',)",PG-13,USA,ENGLISH,6.0,44,2017-02-16,,0.002286,0.06542
+tt5883570,Bodied,"('Comedy', 'Drama')",,USA,ENGLISH,8.0,355,2018-11-02,,,
+tt5884230,Brad's Status,"('Comedy', 'Drama', 'Music')",,USA,ENGLISH,6.5,11113,2017-09-15,,0.089921,2.133158
+tt5884234,First Kill,"('Action', 'Crime', 'Thriller')",,CANADA,ENGLISH,4.9,6634,2017-07-21,10.0,,
+tt5884784,The Super,"('Thriller',)",,USA,ENGLISH,6.2,110,2018-10-19,2.3,,
+tt5886440,Marrowbone,"('Drama', 'Horror', 'Thriller')",,SPAIN,ENGLISH,6.6,12554,2018-04-13,,0.000624,0.001377
+tt5911546,Hongo,"('Thriller',)",UNRATED,USA,LATIN,6.5,149,2017-12-01,0.006,,
+tt5922124,A Crooked Somebody,"('Drama', 'Thriller')",,USA,ENGLISH,6.9,47,2018-10-05,,,
+tt5929750,Beatriz at Dinner,"('Comedy', 'Drama')",,USA,ENGLISH,6.1,7284,2017-06-09,,0.141958,7.115854
+tt5933560,Permanent,"('Comedy',)",PG-13,USA,ENGLISH,5.5,1179,2017-12-15,,0.005722,0.012847
+tt5940342,Unhinged,"('Horror',)",UNRATED,UK,ENGLISH,4.1,409,2018-02-12,,,
+tt5962210,Ingrid Goes West,"('Comedy', 'Drama')",,USA,ENGLISH,6.6,23816,2017-08-25,,0.135301,3.024308
+tt5963354,The Miranda Murders: Lost Tapes of Leonard Lake and Charles Ng,"('Biography', 'Crime')",UNRATED,USA,ENGLISH,3.8,62,2017-10-13,0.025,,
+tt5966246,The Dead,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,,0,2017-09-22,,,
+tt5978724,Mercy,"('Drama', 'Romance')",,UK,ENGLISH,5.5,221,2018-01-11,,,
+tt5988216,No Postage Necessary,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.0,86,2018-07-06,,,
+tt5999530,Sanpo suru shinryakusha,"('Drama', 'Sci-Fi')",UNRATED,JAPAN,JAPANESE,6.0,873,2017-09-16,,0.00837,0.04519
+tt6000478,"Roman J. Israel, Esq.","('Crime', 'Drama')",PG-13,CANADA,ENGLISH,6.4,19167,2017-11-22,22.0,,11.962712
+tt6003368,Diary of a Wimpy Kid: The Long Haul,"('Comedy', 'Family')",,USA,ENGLISH,4.4,4954,2017-05-19,22.0,7.126084,20.638993
+tt6014472,S.W.A.T.: Under Siege,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,4.5,1446,2017-08-01,,,
+tt6014904,The Strange Ones,"('Drama', 'Thriller')",,USA,ENGLISH,5.0,1678,2018-01-05,,,
+tt6018306,Last Flag Flying,"('Comedy', 'Drama', 'War')",UNRATED,USA,ENGLISH,6.9,16030,2017-11-03,,0.040558,0.965481
+tt6040662,The Children Act,"('Drama',)",,UK,ENGLISH,6.7,2829,2018-09-14,,0.018293,0.432541
+tt6045676,Sinner City,"('Thriller',)",UNRATED,USA,ENGLISH,8.4,8,2017-09-11,,,
+tt6046212,Do It Like An Hombre,"('Comedy',)",,CHILE,SPANISH,5.5,894,2017-09-01,,,2.534252
+tt6053438,First Reformed,"('Drama', 'Thriller')",,USA,ENGLISH,7.1,12972,2018-05-18,,0.097562,3.448256
+tt6054650,A Question of Faith,"('Drama',)",,USA,ENGLISH,5.4,696,2017-09-29,,1.025489,2.587072
+tt6055958,La Memoria de mi Padre,"('Drama', 'Family')",UNRATED,CHILE,SPANISH,7.3,24,2017-09-28,,,
+tt6068788,Nothing to Do,"('Drama',)",UNRATED,USA,ENGLISH,9.2,12,2017-10-01,,,
+tt6069264,Bitch,"('Comedy', 'Drama', 'Thriller')",UNRATED,USA,ENGLISH,5.0,1211,2017-11-10,,,
+tt6086876,The Goblin,"('Fantasy', 'Horror', 'Thriller')",UNRATED,USA,ENGLISH,6.0,24,2017-10-31,0.03,,
+tt6087426,Still/Born,"('Horror', 'Thriller')",,CANADA,ENGLISH,5.3,2175,2018-02-09,,,
+tt6089700,The Hatred,"('Horror', 'Thriller')",,USA,ENGLISH,3.7,1613,2017-11-29,0.8,,
+tt6089870,Do It or Die!,"('Drama',)",UNRATED,USA,ENGLISH,,0,,,,
+tt6096194,Different Flowers,"('Comedy',)",PG-13,USA,ENGLISH,5.2,376,2017-09-29,,,
+tt6108178,Disobedience,"('Drama', 'Romance')",,UK,ENGLISH,6.6,11874,2018-04-27,6.0,0.237393,3.480702
+tt6113488,The Case for Christ,"('Biography', 'Drama', 'History')",,USA,ENGLISH,6.1,5766,2017-04-07,5.0,3.967885,14.678714
+tt6115768,Mississippi Turntup,"('Action',)",UNRATED,USA,ENGLISH,,0,,0.5,,
+tt6126492,Mother Krampus,"('Horror',)",UNRATED,UK,ENGLISH,3.7,446,2017-11-07,,,
+tt6133130,Professor Marston and the Wonder Women,"('Biography', 'Drama')",UNRATED,USA,ENGLISH,7.1,14699,2017-10-13,,0.736883,1.584759
+tt6133700,Visage,"('Drama', 'Thriller')",,USA,ENGLISH,,0,2017-09-14,,,
+tt6143568,The Humanity Bureau,"('Action', 'Adventure', 'Sci-Fi')",,CANADA,ENGLISH,5.3,6655,2018-04-06,,,
+tt6144536,Chez nous,"('Drama',)",UNRATED,FRANCE,FRENCH,6.4,695,2018-04-18,,0.002442,0.011567
+tt6148766,Pure Country Pure Heart,"('Drama', 'Music')",,USA,LATIN,6.3,106,2017-09-01,,,
+tt6155194,Best F(r)iends: Volume 1,"('Comedy', 'Drama', 'Thriller')",,USA,ENGLISH,5.9,1466,2018-09-25,2.5,,
+tt6172696,Once Upon a Time at Christmas,"('Horror',)",,UK,ENGLISH,3.4,243,2017-12-12,1.0,,
+tt6204340,Bullet Head,"('Crime', 'Drama', 'Thriller')",,BULGARIA,ENGLISH,5.3,5087,2017-12-08,,,
+tt6212496,Mr. Roosevelt,"('Comedy',)",UNRATED,USA,ENGLISH,6.2,1656,2017-11-22,,,
+tt6213362,Les gardiennes,"('Drama',)",,FRANCE,FRENCH,7.0,810,2018-05-04,,0.007479,0.177331
+tt6213952,Anything,"('Drama', 'Romance')",,USA,ENGLISH,5.0,200,2018-05-11,,,0.019037
+tt6217608,The Rider,"('Drama', 'Western')",,USA,ENGLISH,7.5,4654,2018-04-13,,0.042244,2.398681
+tt6217804,Boo 2! A Madea Halloween,"('Comedy', 'Horror')",UNRATED,USA,ENGLISH,3.7,2783,2017-10-20,25.0,21.226953,47.319572
+tt6225520,The Man Who Invented Christmas,"('Biography', 'Comedy', 'Drama')",,IRELAND,ENGLISH,7.0,5597,2017-11-22,,1.353297,5.676486
+tt6228640,The Horse Dancer,"('Family',)",UNRATED,USA,ENGLISH,4.6,167,2017-01-07,0.1,,
+tt6247936,Django,"('Biography', 'Drama', 'Music', 'War')",UNRATED,FRANCE,FRENCH,6.2,960,2017-04-26,,0.011722,0.052692
+tt6261048,"Love, Kennedy","('Drama',)",,USA,ENGLISH,6.3,255,2017-06-02,,0.043489,0.407871
+tt6265828,A Ghost Story,"('Drama', 'Fantasy', 'Romance')",,USA,ENGLISH,6.8,40627,2017-07-27,0.1,0.10403,1.596371
+tt6266992,Blood Country,"('Western',)",UNRATED,USA,ENGLISH,6.0,107,2017-09-30,,,
+tt6272828,Mubarakan,"('Comedy', 'Romance')",PG-13,INDIA,HINDI,5.6,2729,2017-07-28,,0.310162,0.757057
+tt6281936,Withdrawn,"('Drama',)",UNRATED,CANADA,ENGLISH,5.2,64,2017-01-21,,,
+tt6288250,Patti Cake$,"('Drama', 'Music')",,USA,ENGLISH,6.6,7629,2017-08-18,,0.067599,0.800148
+tt6288694,Acts Of Vengeance,"('Action', 'Drama', 'Thriller')",,BULGARIA,ENGLISH,5.7,6147,2017-10-27,,,
+tt6290736,Wheeler,"('Drama',)",,USA,ENGLISH,5.8,308,2017-02-03,,,
+tt6293032,Mon garçon,"('Drama', 'Thriller')",UNRATED,FRANCE,FRENCH,5.8,616,,,,
+tt6294822,The Post,"('Biography', 'Drama', 'History', 'Thriller')",PG-13,USA,ENGLISH,7.2,89624,2018-01-12,50.0,0.526011,81.903458
+tt6294892,Awakening the Zodiac,"('Crime', 'Drama', 'Mystery', 'Thriller')",,CANADA,ENGLISH,4.8,1319,2017-06-09,,,
+tt6303866,Beach Rats,"('Drama',)",,USA,ENGLISH,6.4,7735,2018-01-25,,,0.472368
+tt6304162,Loveless,"('Drama',)",,RUSSIA,RUSSIAN,7.7,19962,2017-06-01,,0.030222,0.566356
+tt6319988,Life Between the Waters,"('Drama',)",UNRATED,ALBANIA,ALBANIAN,7.8,5,2017-06-10,,,
+tt6333086,Menashe,"('Drama',)",,USA,YIDDISH,6.5,1270,2017-07-28,,0.062078,1.703036
+tt6335734,Yoru wa mijikashi aruke yo otome,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance')",UNRATED,JAPAN,JAPANESE,7.6,1352,2018-08-22,,0.01438,0.40649
+tt6336356,Mary and the Witch's Flower,"('Animation', 'Adventure', 'Family', 'Fantasy')",,JAPAN,JAPANESE,6.8,5644,2017-07-08,,0.330052,2.418404
+tt6344696,Gekijouban Toriniti sebun: Yuukyuu toshokan to rekinjutsu shoujo,"('Animation', 'Action', 'Comedy', 'Fantasy', 'Romance')",UNRATED,JAPAN,JAPANESE,6.8,86,2017-02-25,,,
+tt6346162,Disney's Newsies the Broadway Musical,"('Musical',)",,USA,ENGLISH,8.6,1274,2017-02-16,2.0,,
+tt6349302,Sniper: Ultimate Kill,"('Action', 'Drama', 'Thriller')",,USA,ENGLISH,5.6,1294,2017-10-03,,,
+tt6352548,Poster Boys,"('Comedy',)",PG-13,INDIA,HINDI,5.6,1158,2017-09-08,,,0.097049
+tt6359956,A Bad Moms Christmas,"('Adventure', 'Comedy')",,USA,ENGLISH,5.5,26325,2017-11-01,28.0,16.759161,72.110659
+tt6363646,Swamp Ape,"('Adventure', 'Comedy', 'Horror', 'Thriller')",UNRATED,USA,ENGLISH,3.6,142,2017-01-01,0.02,,
+tt6365782,Me Familia,"('Drama',)",UNRATED,ALBANIA,ENGLISH,6.0,43,,,,
+tt6371588,The Song of Sway Lake,"('Drama', 'Musical', 'Romance')",,USA,ENGLISH,7.8,57,2017-06-21,,,
+tt6400316,Meditation Park,"('Drama',)",UNRATED,CANADA,ENGLISH,7.2,225,2018-03-09,,,
+tt6401004,Dead Shack,"('Comedy', 'Horror')",,CANADA,ENGLISH,5.6,1317,2017-07-02,,,
+tt6413712,Finding Fatimah,"('Comedy', 'Romance')",PG-13,UK,ENGLISH,8.0,1151,2017-04-21,,,
+tt6427854,Anna,"('Horror',)",UNRATED,USA,ENGLISH,2.6,303,2017-03-01,0.03,,
+tt6433880,Anna and the Apocalypse,"('Comedy', 'Fantasy', 'Horror', 'Musical')",,UK,ENGLISH,6.8,458,2018-11-30,,,
+tt6452332,Yoake tsugeru Rû no uta,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Music')",,JAPAN,JAPANESE,6.9,746,2017-05-19,,0.06077,0.109857
+tt6461888,Foolish Love,"('Comedy', 'Romance')",UNRATED,PHILIPPINES,FILIPINO,5.6,12,2017-01-25,,,
+tt6517046,The Cutting Truth,"('Drama', 'Thriller')",UNRATED,USA,ENGLISH,7.5,8,2017-06-15,0.005,,
+tt6522982,Molly,"('Action', 'Sci-Fi')",UNRATED,NETHERLANDS,ENGLISH,5.4,729,2018-09-25,0.31,,
+tt6539526,Lady Rider,"('Action',)",UNRATED,USA,ENGLISH,4.2,13,2017-07-01,,,
+tt6556890,Batman and Harley Quinn,"('Animation', 'Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi')",PG-13,USA,ENGLISH,5.9,7981,2017-08-15,3.5,,
+tt6572702,Monster Family,"('Animation', 'Comedy', 'Family', 'Horror')",,GERMANY,ENGLISH,4.7,2540,2018-02-09,,,0.112014
+tt6574272,Phoenix Forgotten,"('Horror', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.2,4267,2017-04-21,2.8,1.816499,3.59957
+tt6584902,Wallay,"('Drama',)",UNRATED,FRANCE,FRENCH,6.7,63,2017-06-28,,,
+tt6606998,Volverá El Polvo a La Tierra,"('Mystery',)",UNRATED,MEXICO,SPANISH,,0,,,,
+tt6628298,LeSeurdmin,"('Animation', 'Action', 'Comedy', 'Drama')",UNRATED,USA,ENGLISH,,0,,,,
+tt6648696,Maracaibo,"('Crime', 'Drama', 'Thriller')",UNRATED,ARGENTINA,SPANISH,6.5,134,2017-04-06,0.75,,
+tt6663848,The Girl with No Name,"('Horror',)",UNRATED,USA,ENGLISH,5.7,27,2017-03-03,0.005,,
+tt6686100,Hogan,"('Action', 'Drama', 'Sport', 'Thriller')",UNRATED,USA,ENGLISH,6.0,6,2017-09-18,,,
+tt6737956,Mr Pickpocket,"('Comedy',)",UNRATED,USA,ENGLISH,9.0,5,2017-04-03,,,
+tt6738136,Revenge,"('Action', 'Horror', 'Thriller')",,FRANCE,FRENCH,6.3,17847,2018-05-11,,0.045924,0.102091
+tt6755892,The Neighborhood,"('Drama',)",UNRATED,CANADA,ENGLISH,7.1,2365,2017-08-18,,,
+tt6803170,Saving Christmas,"('Family',)",,USA,ENGLISH,5.2,31,2017-11-06,1.0,,
+tt6808216,The Missing 6,,UNRATED,USA,ENGLISH,2.5,26,2017-12-17,,,
+tt6848602,Til Death Do Us Part,"('Thriller',)",PG-13,USA,ENGLISH,4.3,731,2017-09-29,,1.521803,3.449703
+tt6849826,¿En dónde están los ladrones?,"('Comedy',)",UNRATED,COLOMBIA,SPANISH,4.6,8,2017-04-27,,,
+tt6890828,"Cometa: Him, His Dog and their World","('Adventure', 'Comedy', 'Drama', 'Family')",UNRATED,MEXICO,SPANISH,6.5,50,2017-12-08,,,
+tt6896536,Foxtrot,"('Drama',)",UNRATED,ISRAEL,HEBREW,7.5,3419,2017-09-21,,0.031629,0.618883
+tt6911418,The Midnight Matinee,"('Horror', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,4.0,103,2017-05-19,,,
+tt6958212,Sweet Country,"('Adventure', 'Crime', 'Drama', 'History', 'Thriller', 'Western')",,AUSTRALIA,ENGLISH,6.9,3812,2018-04-06,,,0.095609
+tt6977240,Starship Troopers: Traitor of Mars,"('Animation', 'Action', 'Sci-Fi')",,USA,ENGLISH,5.5,3886,2017-08-21,,,
+tt7014110,Bring It On: Worldwide #Cheersmack,"('Comedy', 'Romance', 'Sport')",PG-13,USA,ENGLISH,4.2,841,2017-08-29,,,
+tt7029854,Le manoir,"('Comedy', 'Horror')",UNRATED,FRANCE,FRENCH,4.6,1019,2017-06-21,,,
+tt7042760,Horseplay,"('Animation',)",UNRATED,USA,ENGLISH,7.0,5,,,,
+tt7048622,L'insulte,"('Drama', 'Thriller')",,FRANCE,ARABIC,7.7,8497,2017-09-14,3.0,,1.001305
+tt7074662,Lust of the Vampire Girls,"('Horror',)",UNRATED,USA,ENGLISH,2.2,6,,,,
+tt7075594,Ming yue ji shi you,"('Drama', 'War')",UNRATED,CHINA,CANTONESE,6.5,528,2017-07-07,,0.050619,0.096552
+tt7123236,Detective Jimmy Apple,"('Sci-Fi',)",UNRATED,USA,ENGLISH,6.7,13,2017-02-02,0.005,,
+tt7165516,So Help Us God,"('Family',)",UNRATED,USA,ENGLISH,5.1,20,2017-04-13,0.05,,
+tt7186092,"Nico, 1988","('Biography', 'Drama', 'Music')",,ITALY,ENGLISH,6.8,736,2018-08-01,,0.012309,0.073304
+tt7234694,The Last Ones,"('Horror', 'Sci-Fi', 'Thriller')",UNRATED,USA,ENGLISH,6.3,7,,,,
+tt7253200,Salomé,"('Drama',)",UNRATED,ALBANIA,LATIN,,0,,,,
+tt7263324,Guerrilla Blood,"('Horror',)",UNRATED,USA,ENGLISH,,0,2017-08-11,0.005,,
+tt7264080,"I Love You, Daddy","('Comedy', 'Drama')",,USA,ENGLISH,6.3,2714,2017-11-30,,,
+tt7275200,Fishtales 2,"('Animation',)",UNRATED,USA,ENGLISH,4.1,26,,,,
+tt7275528,Kung Fu Masters,"('Animation',)",UNRATED,USA,ENGLISH,5.6,10,,,,
+tt7284066,High Fantasy,"('Comedy', 'Drama')",UNRATED,SOUTH AFRICA,AFRIKAANS,4.7,104,2017-11-11,,,
+tt7296862,SPF-18,"('Romance',)",PG-13,USA,ENGLISH,3.3,2143,2017-09-29,,,
+tt7312940,Singularity,"('Action', 'Adventure', 'Drama', 'Sci-Fi')",PG-13,SWITZERLAND,ENGLISH,4.0,11794,2017-11-24,,,0.004176
+tt7339930,THE LAST DAYS of BILLY the KID,"('Western',)",UNRATED,USA,ENGLISH,1.4,57,,,,
+tt7353356,Ricco Da Great: B-Town's Finest,"('Comedy',)",UNRATED,USA,ENGLISH,9.3,6,2017-06-13,0.02,,
+tt7369722,The Sandman,"('Horror',)",,USA,ENGLISH,4.6,904,2017-10-14,,,
+tt7374964,Enjoy Your Trip to Hell,"('Sci-Fi',)",UNRATED,USA,ENGLISH,,0,2017-09-14,0.0004,,
+tt7399158,Baby Fever,"('Comedy',)",UNRATED,USA,ENGLISH,,0,,,,
+tt7420410,Heaven,"('Animation', 'Biography', 'Drama', 'Romance')",UNRATED,MEXICO,ENGLISH,,0,,,,
+tt7427856,The Carmilla Movie,"('Comedy', 'Horror', 'Romance')",UNRATED,CANADA,ENGLISH,6.8,1587,2017-10-26,,,
+tt7436212,Proximity,"('Adventure', 'Sport')",UNRATED,AUSTRALIA,ENGLISH,6.3,18,2017-08-01,,,
+tt7445748,Pretty Girl,"('Drama',)",UNRATED,USA,ENGLISH,,0,,,,
+tt7449324,Last Night,"('Comedy',)",UNRATED,USA,ENGLISH,,0,2017-08-14,0.002,,
+tt7457108,Los Oriyinales,"('Comedy',)",UNRATED,COLOMBIA,SPANISH,4.9,36,2017-01-17,,,
+tt7476954,Anna,"('Drama',)",UNRATED,USA,ENGLISH,,0,,,,
+tt7548896,Apocalyptic Horror,"('Horror',)",UNRATED,UK,ENGLISH,4.6,54,2017-10-24,0.03,,
+tt7641476,System Failure,"('Crime', 'Drama')",UNRATED,USA,ENGLISH,,0,,,,
+tt7645502,Jieyou zahuodian,"('Drama', 'Fantasy')",UNRATED,CHINA,MANDARIN,4.8,208,2017-12-29,,0.039584,0.070814
+tt7659522,Straight Outta Oakland 2,"('Drama',)",UNRATED,USA,LATIN,7.6,142,2017-12-05,,,
+tt7731862,Hager Alatni,"('Adventure', 'Family')",UNRATED,ERITREA,TIGRIGNA,,0,2017-12-08,,,
+tt7756184,eXport,"('Drama',)",UNRATED,GHANA,ENGLISH,,0,2017-12-12,,,
+tt7775906,Live Fast Die Young Chi-bangin,"('Action',)",UNRATED,USA,ENGLISH,,0,,,,
+tt7788492,Real Haunts,"('Horror',)",UNRATED,USA,ENGLISH,6.4,8,2017-12-26,0.25,,
+tt7797926,Parched,"('Horror',)",UNRATED,USA,ENGLISH,3.9,132,2017-12-30,0.005,,
+tt7817234,The Stream,"('Horror',)",UNRATED,USA,ENGLISH,3.7,16,2017-01-14,0.003,,
+tt7830888,Qian ren 3: Zai jian qian ren,"('Comedy', 'Romance')",UNRATED,CHINA,MANDARIN,5.6,264,2017-12-29,,,0.837791
+tt7953580,Punch,"('Sport',)",UNRATED,USA,ENGLISH,,0,2017-12-15,,,
+tt7973688,Dimension Z,"('Horror',)",UNRATED,USA,ENGLISH,,0,,,,
+tt8089116,The Cat in the Hat Knows a Lot About Space!,"('Animation',)",UNRATED,USA,ENGLISH,,0,2017-02-07,,,
+tt8246114,The Fighters Prayer,"('Sport',)",UNRATED,USA,ENGLISH,,0,2017-06-06,0.06,,
+tt8870442,We Need a Little Christmas,"('Family',)",UNRATED,USA,ENGLISH,,0,,0.005,,
