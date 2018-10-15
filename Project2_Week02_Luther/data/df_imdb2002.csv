@@ -1,0 +1,668 @@
+Code,Title,Genre,MPAA,Country,Language,Rating_User,Rating_Count,Release_Date,Budget,Sales_Opening,Sales_Gross
+tt0118926,The Dancer Upstairs,"('Crime', 'Drama', 'Thriller')",R,SPAIN,ENGLISH,7.0,5986,2003-05-23,,0.106142,2.377348
+tt0120679,Frida,"('Biography', 'Drama', 'Romance')",R,USA,ENGLISH,7.4,71974,2002-11-22,12.0,0.205996,25.885
+tt0120804,Resident Evil,"('Action', 'Horror', 'Sci-Fi')",R,UK,ENGLISH,6.7,225404,2002-03-15,33.0,17.707106,40.119709
+tt0120870,Trance,"('Action', 'Comedy', 'Horror', 'Thriller')",R,USA,ENGLISH,4.9,31,,,,
+tt0120912,Men in Black II,"('Action', 'Adventure', 'Comedy', 'Mystery', 'Sci-Fi')",PG-13,USA,ENGLISH,6.1,299550,2002-07-03,140.0,52.148751,190.418803
+tt0121765,Star Wars: Episode II - Attack of the Clones,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",PG ,USA,ENGLISH,6.6,551495,2002-05-16,115.0,80.027814,310.675583
+tt0133240,Treasure Planet,"('Animation', 'Adventure', 'Family', 'Sci-Fi')",PG ,USA,ENGLISH,7.1,86069,2002-11-27,140.0,12.083248,38.176783
+tt0145487,Spider-Man,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,7.3,617783,2002-05-03,139.0,114.844116,403.706375
+tt0146063,The Princess and the Pea,"('Animation', 'Adventure', 'Family', 'Fantasy', 'Romance')",UNRATED,USA,ENGLISH,6.6,220,2002-08-16,,,
+tt0149253,The Good War,"('Drama', 'History', 'War')",R,USA,ENGLISH,6.1,178,2004-11-30,2.2,,
+tt0157472,Clockstoppers,"('Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Thriller')",PG ,USA,ENGLISH,5.2,12377,2002-03-29,26.0,10.108333,36.985501
+tt0160184,Eye See You,"('Crime', 'Horror', 'Mystery', 'Thriller')",R,GERMANY,ENGLISH,5.3,21644,2002-01-17,55.0,0.0323,0.079161
+tt0160905,Spooky House,"('Comedy', 'Family')",PG ,USA,ENGLISH,5.4,359,2004-04-24,,0.022677,0.065238
+tt0161088,White Boy,"('Drama',)",R,USA,ENGLISH,3.2,247,2002-03-10,,,
+tt0162838,Three Days of Rain,"('Drama',)",R,USA,ENGLISH,5.8,210,2002-05-12,3.5,0.002841,0.002841
+tt0164003,City of Ghosts,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,6.0,4620,2003-03-27,17.5,0.030547,0.043061
+tt0164184,The Sum of All Fears,"('Action', 'Drama', 'Thriller', 'War')",PG-13,USA,ENGLISH,6.4,94628,2002-05-31,68.0,31.178526,118.907036
+tt0164810,Pipe Dream,"('Comedy', 'Romance')",R,USA,ENGLISH,6.1,935,2005-12-11,,,
+tt0165361,Highway,"('Crime', 'Drama')",R,USA,ENGLISH,6.3,5693,2002-03-26,14.0,,
+tt0165832,Interstate 60: Episodes of the Road,"('Adventure', 'Comedy', 'Drama', 'Fantasy')",R,CANADA,ENGLISH,7.7,26567,2003-09-10,7.0,,
+tt0166813,Spirit: Stallion of the Cimarron,"('Animation', 'Adventure', 'Family', 'Western')",UNRATED,USA,ENGLISH,7.1,54611,2002-05-24,80.0,23.213736,73.280117
+tt0167116,Desert Saints,"('Action', 'Romance', 'Thriller')",R,USA,ENGLISH,6.1,2762,2002-03-10,,,
+tt0167261,The Lord of the Rings: The Two Towers,"('Adventure', 'Drama', 'Fantasy')",PG-13,NEW ZEALAND,ENGLISH,8.7,1289433,2002-12-18,94.0,62.007528,342.551365
+tt0168786,Antwone Fisher,"('Biography', 'Drama')",PG-13,USA,ENGLISH,7.3,29670,2003-01-10,12.5,0.210013,21.078145
+tt0179098,Moonlight Mile,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.7,12750,2002-10-04,21.0,0.329771,6.835856
+tt0180052,The Adventures of Pluto Nash,"('Comedy', 'Action', 'Sci-Fi')",PG-13,USA,ENGLISH,3.8,22134,2002-08-16,100.0,2.1829,4.42008
+tt0181689,Minority Report,"('Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,7.7,454477,2002-06-21,102.0,35.677125,132.072926
+tt0183649,Phone Booth,"('Crime', 'Thriller')",R,USA,ENGLISH,7.1,230611,2003-04-04,13.0,15.021088,46.566212
+tt0187512,"Slap Her, She's French!","('Comedy', 'Romance')",PG-13,GERMANY,ENGLISH,5.1,5118,2002-02-07,10.0,,
+tt0187738,Blade II,"('Action', 'Horror', 'Sci-Fi', 'Thriller')",R,GERMANY,ENGLISH,6.7,180358,2002-03-22,54.0,32.528016,82.348319
+tt0190938,Swindle,"('Action', 'Crime', 'Thriller', 'Drama')",R,CANADA,ENGLISH,5.5,797,2004-04-12,,,
+tt0191074,New Best Friend,"('Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,5.3,3044,2002-04-12,,0.028658,0.028658
+tt0199007,Secret Pleasures,"('Drama', 'Romance')",R,USA,ENGLISH,4.4,287,2002-09-16,,,
+tt0201844,Survival Island,"('Horror', 'Thriller')",R,USA,ENGLISH,2.4,3785,2002-06-14,,,
+tt0202458,Love.com,"('Thriller',)",R,USA,ENGLISH,2.3,141,2002-07-16,,,
+tt0202623,The Third Wheel,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.5,4294,2002-05-31,,,
+tt0206836,Mystery at Sam's,,PG ,USA,ENGLISH,7.3,15,2002-07-20,,,
+tt0208491,Ginostra,"('Crime', 'Drama')",R,FRANCE,ENGLISH,4.5,666,2003-01-29,,,
+tt0209464,Villa des roses,"('Drama', 'Romance', 'War')",PG-13,BELGIUM,FRENCH,6.1,388,2002-02-27,,,
+tt0210223,Legend of the Phantom Rider,"('Action', 'Western', 'Fantasy', 'Horror')",R,USA,ENGLISH,5.2,189,2003-02-11,1.6,,
+tt0210953,Road Dogz,"('Crime', 'Drama')",R,USA,ENGLISH,5.6,227,2002-01-01,0.2,,
+tt0213266,The Streetsweeper,,R,USA,ENGLISH,7.1,34,2003-06-13,,,
+tt0216196,Angel of Death,"('Thriller', 'Drama')",R,GERMANY,ENGLISH,4.3,662,2002-04-24,,,
+tt0217031,Second to Die,"('Thriller',)",R,USA,ENGLISH,5.8,287,2002-04-23,2.0,,
+tt0217505,Gangs of New York,"('Crime', 'Drama')",R,USA,ENGLISH,7.5,359662,2002-12-20,100.0,9.49687,77.812
+tt0217787,Searching for Paradise,"('Drama',)",R,USA,ENGLISH,5.6,182,2002-06-24,,,
+tt0218390,The Last Place on Earth,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.2,162,2002-01-01,,,
+tt0218864,Buying the Cow,"('Comedy', 'Romance')",R,USA,ENGLISH,5.9,6237,2002-06-08,,,
+tt0219374,Unconditional Love,"('Comedy', 'Drama', 'Musical', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,6.9,3314,2002-08-23,,,
+tt0219400,Waking Up in Reno,"('Comedy', 'Romance')",R,USA,ENGLISH,5.5,5310,2002-12-13,,0.10893,0.267109
+tt0220506,Halloween: Resurrection,"('Comedy', 'Horror', 'Thriller')",R,USA,ENGLISH,4.1,31436,2002-07-12,15.0,12.292121,30.354442
+tt0221637,The Third Society,"('Action', 'Comedy')",R,USA,ENGLISH,5.8,86,2003-11-10,,,
+tt0225865,Glory Glory,"('Action', 'Western')",R,UK,ENGLISH,4.4,214,2002-11-26,,,
+tt0231448,Deuces Wild,"('Action', 'Crime', 'Drama')",R,USA,ENGLISH,5.6,6588,2002-05-03,10.0,2.704682,6.044618
+tt0233230,Après la vie,"('Crime', 'Drama')",R,FRANCE,FRENCH,7.0,815,2003-01-08,,0.006528,0.026165
+tt0233418,Cavale,"('Thriller', 'Crime', 'Drama')",R,FRANCE,FRENCH,7.0,1086,2003-01-08,,0.002425,0.064796
+tt0233469,Collateral Damage,"('Action', 'Drama', 'Thriller')",R,USA,ENGLISH,5.5,67009,2002-02-08,85.0,15.058432,40.077257
+tt0233559,Devious Beings,"('Action', 'Crime', 'Thriller')",R,USA,ENGLISH,3.6,159,,,,
+tt0234940,Un couple épatant,"('Comedy', 'Romance')",PG ,FRANCE,FRENCH,6.5,988,2003-01-01,,0.008572,0.047602
+tt0235048,Wicked Spring,"('Drama', 'War', 'Western')",PG-13,USA,ENGLISH,5.5,534,2007-02-15,0.5,,
+tt0235280,Cheerleader Ninjas,"('Action', 'Comedy')",R,USA,ENGLISH,2.3,915,2003-11-25,,,
+tt0235333,Dead in the Water,"('Crime', 'Thriller')",R,USA,ENGLISH,4.8,745,2002-02-12,,,
+tt0235553,Love and a Bullet,"('Action', 'Comedy', 'Crime', 'Romance')",R,USA,ENGLISH,5.2,1199,2002-08-30,,0.012608,0.016853
+tt0235737,The Salton Sea,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,7.2,28171,2002-06-21,18.0,0.166309,0.764554
+tt0238380,Equilibrium,"('Action', 'Drama', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,7.5,288876,2002-12-06,20.0,0.541512,1.203974
+tt0238546,Queen of the Damned,"('Drama', 'Fantasy', 'Horror')",R,USA,ENGLISH,5.3,48458,2002-02-22,,,
+tt0238924,The Dangerous Lives of Altar Boys,"('Comedy', 'Drama')",R,USA,ENGLISH,7.1,12548,2002-06-28,12.0,0.055,1.779284
+tt0240340,The Angel Doll,"('Drama',)",PG ,USA,ENGLISH,6.9,241,2002-09-14,,,
+tt0240468,Kung Pow: Enter the Fist,"('Action', 'Comedy')",PG-13,USA,ENGLISH,6.2,40769,2002-01-25,10.0,7.017474,16.033556
+tt0240510,The Four Feathers,"('Adventure', 'Drama', 'Romance', 'War')",PG-13,UK,ENGLISH,6.5,30379,2002-09-20,35.0,6.857879,18.306166
+tt0240900,Slackers,"('Comedy', 'Romance')",R,CANADA,ENGLISH,5.3,13083,2002-02-01,11.0,2.785283,4.814244
+tt0240980,Till Human Voices Wake Us,"('Drama', 'Romance')",R,AUSTRALIA,ENGLISH,6.4,2188,2002-09-12,,0.007968,0.120079
+tt0241760,The New Guy,"('Comedy',)",PG-13,USA,ENGLISH,5.9,31234,2002-05-10,13.0,9.007833,28.972187
+tt0242953,A Time for Dancing,"('Drama', 'Music')",PG-13,USA,ENGLISH,6.1,836,2002-09-06,,,
+tt0243585,Stuart Little 2,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",PG ,USA,ENGLISH,5.5,43443,2002-07-19,120.0,15.115152,64.956806
+tt0243736,40 Days and 40 Nights,"('Comedy', 'Romance')",R,USA,ENGLISH,5.6,66062,2002-03-01,17.0,12.229529,37.950822
+tt0243904,The Final Curtain,"('Drama',)",R,UK,ENGLISH,5.8,500,2002-10-12,,,
+tt0244471,Cottonmouth,"('Crime', 'Drama', 'Thriller')",R,USA,LATIN,5.3,78,,,,
+tt0245341,P.S. Your Cat Is Dead!,"('Comedy',)",R,USA,ENGLISH,5.4,553,2002-02-22,2.0,0.0085,0.028454
+tt0245479,Just a Kiss,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,5.1,1321,2003-05-15,,0.007239,0.063797
+tt0245522,Cruel Game,"('Drama', 'Romance')",R,USA,ENGLISH,4.9,98,2004-05-04,,,
+tt0245562,Windtalkers,"('Action', 'Drama', 'War')",R,USA,ENGLISH,6.0,60988,2002-06-14,115.0,14.520412,40.914068
+tt0245573,XX/XY,"('Drama', 'Romance')",R,USA,ENGLISH,6.0,2946,2003-07-18,,0.017089,0.103874
+tt0245844,The Count of Monte Cristo,"('Action', 'Adventure', 'Drama', 'Romance', 'Thriller')",PG-13,UK,ENGLISH,7.8,116617,2002-01-25,35.0,11.37615,54.234062
+tt0246460,Die Another Day,"('Action', 'Adventure', 'Thriller')",PG-13,UK,ENGLISH,6.1,186559,2002-11-22,142.0,47.07204,160.942139
+tt0246464,Big Trouble,"('Comedy', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,6.5,18681,2002-04-05,40.0,3.545204,7.262288
+tt0246592,Dummy,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,6.8,6111,2002-02-21,,0.03012,0.071305
+tt0246677,Heaven,"('Crime', 'Drama', 'Romance', 'Thriller')",R,UK,ITALIAN,7.1,21847,2002-02-21,11.0,0.051909,0.774317
+tt0246719,Julie Walking Home,"('Drama', 'Romance')",R,GERMANY,ENGLISH,6.6,875,2003-09-05,5.0,,
+tt0246890,King Rikki,"('Drama',)",R,USA,ENGLISH,4.8,151,2002-05-03,,,
+tt0246894,Rollerball,"('Action', 'Sci-Fi', 'Sport')",R,USA,ENGLISH,3.0,23725,2002-02-08,70.0,9.013548,18.990798
+tt0247254,The Code Conspiracy,"('Action', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,7.1,2065,,0.73009,,
+tt0247444,Juwanna Mann,"('Comedy', 'Drama', 'Romance', 'Sport')",PG-13,USA,ENGLISH,4.6,5686,2002-06-21,15.6,5.47427,13.571817
+tt0248169,Manna from Heaven,"('Comedy',)",PG ,USA,ENGLISH,5.9,430,2002-09-14,,0.00534,0.505675
+tt0248640,Hard Cash,"('Action', 'Crime', 'Thriller')",R,ARUBA,ENGLISH,4.5,2841,2002-02-15,,,
+tt0248974,Ronnie,"('Thriller',)",R,USA,ENGLISH,5.2,90,,,,
+tt0250067,The Trip,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,7.0,3514,2002-05-05,,0.013774,0.110677
+tt0250223,Asterix and Obelix Meet Cleopatra,"('Adventure', 'Comedy', 'Family', 'Fantasy')",PG ,FRANCE,FRENCH,6.6,43039,2002-01-30,,,3.115188
+tt0250282,Teddy Bears' Picnic,"('Comedy',)",R,USA,ENGLISH,3.3,370,2002-03-29,,,
+tt0250292,Cheats,"('Comedy',)",PG-13,CANADA,ENGLISH,6.2,4142,2002-11-01,,,
+tt0250468,Killing Me Softly,"('Drama', 'Mystery', 'Romance', 'Thriller')",R,USA,ENGLISH,5.5,15827,2002-06-21,25.0,,
+tt0250698,Ritual,"('Horror',)",R,USA,ENGLISH,4.8,1414,2006-05-02,10.0,,
+tt0250797,Unfaithful,"('Drama', 'Thriller')",R,USA,ENGLISH,6.7,71414,2002-05-10,50.0,14.065277,52.801
+tt0250804,Don't Let Go,"('Drama',)",R,USA,ENGLISH,8.0,29,2002-03-14,,,
+tt0251114,Hart's War,"('Drama', 'War')",R,USA,ENGLISH,6.3,47486,2002-02-15,70.0,8.907413,19.076815
+tt0251160,John Q,"('Crime', 'Drama', 'Thriller')",PG-13,USA,ENGLISH,7.1,111744,2002-02-15,36.0,23.612171,71.756802
+tt0251163,Jumping for Joy,"('Comedy', 'Drama', 'Family', 'Sport')",UNRATED,USA,ENGLISH,7.0,96,2002-10-25,,,
+tt0251806,Long Time Dead,"('Horror', 'Thriller')",R,UK,ENGLISH,4.9,5224,2002-01-18,,,
+tt0251901,No Place Like Home,"('Family',)",UNRATED,USA,ENGLISH,5.2,118,2002-12-03,,,
+tt0252076,Maid in Manhattan,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.1,76224,2002-12-13,55.0,18.711407,94.011225
+tt0252266,Beeper,"('Thriller', 'Crime')",R,USA,ENGLISH,4.5,350,2002-10-10,,,
+tt0252444,Rabbit-Proof Fence,"('Adventure', 'Biography', 'Drama', 'History')",PG ,AUSTRALIA,ABORIGINAL,7.5,25422,2003-01-31,6.0,0.088352,6.165429
+tt0253028,Deadly Little Secrets,"('Thriller',)",R,CANADA,ENGLISH,4.5,184,2003-02-11,,,
+tt0253474,The Pianist,"('Biography', 'Drama', 'Music', 'War')",R,FRANCE,ENGLISH,8.5,607783,2003-03-28,35.0,0.111261,32.572577
+tt0253556,Reign of Fire,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.2,116999,2002-07-12,60.0,15.632281,43.061982
+tt0253688,Shoot or Be Shot,"('Comedy',)",PG-13,USA,LATIN,5.0,234,2002-01-25,1.5,,
+tt0253754,Star Trek: Nemesis,"('Action', 'Adventure', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.4,65783,2002-12-13,60.0,18.513305,43.254409
+tt0253867,The Sweetest Thing,"('Comedy', 'Romance')",R,USA,ENGLISH,5.1,50576,2002-04-12,43.0,9.430667,24.718164
+tt0254775,The Red Siren,"('Crime', 'Thriller', 'Action')",R,FRANCE,FRENCH,5.2,1169,2002-08-21,,,
+tt0255432,Now & Forever,"('Drama', 'Romance')",R,CANADA,ENGLISH,6.3,417,2002-08-15,,,
+tt0255477,Pinocchio,"('Comedy', 'Family', 'Fantasy')",UNRATED,ITALY,ITALIAN,4.3,7036,2002-12-25,,1.151463,3.684305
+tt0255702,Wishcraft,"('Horror',)",R,USA,ENGLISH,5.2,1652,2002-09-25,5.0,,
+tt0255797,Angels Crest,"('Thriller',)",R,USA,ENGLISH,5.3,106,2002-10-17,,,
+tt0256276,Possession,"('Drama', 'Mystery', 'Romance')",PG-13,USA,ENGLISH,6.4,12197,2002-08-30,25.0,1.575214,10.103647
+tt0256415,Sweet Home Alabama,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,6.2,92886,2002-09-27,38.0,35.64874,127.223418
+tt0257019,Purpose,"('Drama',)",R,USA,ENGLISH,5.6,856,2002-11-01,,,
+tt0257044,Road to Perdition,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,7.7,222879,2002-07-12,80.0,22.079481,104.454762
+tt0257282,Bolivar soy yo,"('Comedy', 'Drama', 'History')",R,COLOMBIA,SPANISH,6.4,298,2002-06-07,,,
+tt0257360,About Schmidt,"('Comedy', 'Drama')",R,USA,ENGLISH,7.2,115332,2003-01-03,30.0,0.282367,65.016287
+tt0257510,Crocodile 2: Death Swamp,"('Action', 'Adventure', 'Horror', 'Thriller')",R,USA,ENGLISH,3.7,1601,2002-08-13,2.2,,
+tt0257756,High Crimes,"('Crime', 'Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,6.3,34599,2002-04-05,42.0,14.00555,41.543207
+tt0258000,Panic Room,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,6.8,230440,2002-03-29,48.0,30.056751,96.397334
+tt0258068,The Quiet American,"('Drama', 'Mystery', 'Romance', 'Thriller', 'War')",R,UK,ENGLISH,7.1,25581,2003-03-07,30.0,0.101663,12.987647
+tt0258100,Run Ronnie Run,"('Comedy',)",R,USA,ENGLISH,6.4,5040,,,,
+tt0258153,S1m0ne,"('Comedy', 'Drama', 'Sci-Fi')",PG-13,USA,ENGLISH,6.1,55533,2002-08-23,,3.813463,9.680913
+tt0258463,The Bourne Identity,"('Action', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,7.9,462365,2002-06-14,60.0,27.11864,121.661683
+tt0258816,The Reckoning,"('Crime', 'Drama', 'Mystery')",R,UK,ENGLISH,6.5,5391,2004-06-04,,0.018044,0.25662
+tt0258877,The Perfect You,"('Comedy', 'Romance')",R,USA,ENGLISH,5.7,630,2002-03-01,,,
+tt0259017,Swimming Upstream,"('Drama',)",PG-13,USA,ENGLISH,6.3,175,,,,
+tt0259288,Dragonfly,"('Drama', 'Fantasy', 'Mystery', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,6.1,34231,2002-02-22,60.0,10.216025,30.063805
+tt0259446,My Big Fat Greek Wedding,"('Comedy', 'Drama', 'Romance')",PG ,CANADA,ENGLISH,6.6,111406,2002-08-02,5.0,0.597362,241.438208
+tt0259484,Paid in Full,"('Action', 'Crime', 'Drama')",R,USA,ENGLISH,7.1,8926,2002-10-25,,1.328789,3.042188
+tt0259538,Returning Mickey Stern,"('Comedy',)",PG-13,USA,ENGLISH,6.9,73,2002-01-20,,,
+tt0260320,Repli-Kate,"('Comedy', 'Sci-Fi')",R,GERMANY,ENGLISH,5.7,4690,2002-01-29,4.0,,
+tt0260695,Hometown Legend,"('Drama', 'Family', 'Sport')",PG ,USA,ENGLISH,5.7,681,2002-01-25,2.0,,
+tt0260924,A Gentleman's Game,"('Drama', 'Sport')",R,USA,ENGLISH,6.4,759,2002-08-20,,,
+tt0261289,Serving Sara,"('Comedy', 'Romance')",PG-13,GERMANY,ENGLISH,5.3,15591,2002-08-23,29.0,5.758236,16.930185
+tt0262396,Empire,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,6.0,6903,2002-12-06,3.5,6.281415,17.504595
+tt0263053,Alone,"('Horror', 'Mystery', 'Thriller')",R,UK,ENGLISH,4.4,595,2002-04-12,,,
+tt0263734,Men with Brooms,"('Comedy', 'Drama', 'Romance', 'Sport')",R,CANADA,ENGLISH,5.8,3997,2002-11-22,7.5,0.014765,4.239767
+tt0264429,Black Mask 2: City of Masks,"('Action', 'Drama', 'Sci-Fi')",R,HONG KONG,ENGLISH,3.6,1555,2003-01-09,,,
+tt0264464,Catch Me If You Can,"('Biography', 'Crime', 'Drama')",PG-13,USA,ENGLISH,8.1,677520,2002-12-25,52.0,30.082,164.615351
+tt0264472,Changing Lanes,"('Drama', 'Thriller')",R,USA,ENGLISH,6.5,62288,2002-04-12,45.0,17.128062,66.818548
+tt0264683,High Times Potluck,"('Comedy', 'Crime')",R,USA,ENGLISH,5.2,395,2003-10-17,,0.003168,0.004827
+tt0264689,Home Room,"('Crime', 'Drama')",R,USA,ENGLISH,7.3,3078,2002-04-12,,0.003467,0.005216
+tt0264935,Murder by Numbers,"('Crime', 'Mystery', 'Thriller')",R,USA,ENGLISH,6.1,48305,2002-04-19,50.0,9.307394,31.874869
+tt0265010,Girl Fever,"('Comedy', 'Romance')",R,USA,ENGLISH,5.0,2246,2002-10-18,,,
+tt0265298,Big Fat Liar,"('Adventure', 'Comedy', 'Family')",PG ,USA,ENGLISH,5.4,31832,2002-02-08,15.0,11.554015,47.811275
+tt0265349,The Mothman Prophecies,"('Drama', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,6.5,69625,2002-01-25,32.0,11.208851,35.74637
+tt0265459,One Hour Photo,"('Drama', 'Thriller')",R,USA,ENGLISH,6.8,105921,2002-09-13,12.0,0.321515,31.597131
+tt0265591,Pumpkin,"('Comedy', 'Drama', 'Romance', 'Sport')",R,USA,ENGLISH,6.2,7986,2004-03-12,,0.030514,0.30569
+tt0265625,Strange Hearts,"('Comedy', 'Drama')",R,USA,ENGLISH,5.4,424,2002-10-23,,,
+tt0265651,Ripley's Game,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,ITALY,ENGLISH,6.6,16035,2003-02-07,30.0,,
+tt0265662,The Rookie,"('Drama', 'Family', 'Sport')",UNRATED,USA,ENGLISH,7.0,29127,2002-03-29,20.0,16.021684,75.600072
+tt0265787,The Source,"('Thriller', 'Sci-Fi')",R,USA,ENGLISH,4.0,645,2002-09-17,,,
+tt0265803,Anything But Love,"('Musical', 'Romance')",PG-13,USA,ENGLISH,6.1,246,2002-10-10,,0.024641,0.080776
+tt0265808,Stealing Harvard,"('Comedy', 'Crime')",PG-13,USA,ENGLISH,5.1,11817,2002-09-13,25.0,6.041521,13.973532
+tt0266452,Death to Smoochy,"('Comedy', 'Crime', 'Drama', 'Thriller')",R,UK,ENGLISH,6.4,36661,2002-03-29,55.0,4.266463,8.355815
+tt0266971,The Slaughter Rule,"('Drama', 'Sport')",R,USA,ENGLISH,6.0,2170,2002-09-14,0.5,0.001461,0.013134
+tt0267248,Abandon,"('Drama', 'Music', 'Mystery', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,4.9,8602,2002-10-18,25.0,5.064077,10.727683
+tt0267626,K-19: The Widowmaker,"('Drama', 'History', 'Thriller', 'War')",PG-13,UK,ENGLISH,6.7,54200,2002-07-19,100.0,12.778459,35.168966
+tt0267913,Scooby-Doo,"('Adventure', 'Comedy', 'Family', 'Fantasy', 'Mystery')",PG ,USA,ENGLISH,5.0,83462,2002-06-14,84.0,54.155312,153.288182
+tt0268126,Adaptation.,"('Comedy', 'Drama')",R,USA,ENGLISH,7.7,161026,2003-02-14,19.0,0.384478,22.245861
+tt0268130,Capone's Boys,"('Drama', 'Crime')",R,UK,ENGLISH,5.6,281,2002-06-25,,,
+tt0268229,Close Enough to Touch,"('Drama',)",R,USA,ENGLISH,4.7,200,2002-09-14,,,
+tt0268253,Determination of Death,"('Crime', 'Drama')",UNRATED,USA,ENGLISH,4.8,190,2002-04-20,,,
+tt0268261,No somos nadie,"('Drama',)",R,SPAIN,SPANISH,4.7,197,2002-04-26,,,
+tt0268380,Ice Age,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",PG ,USA,ENGLISH,7.5,381401,2002-03-15,59.0,46.312454,176.387405
+tt0268695,The Time Machine,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,5.9,111157,2002-03-08,80.0,22.610437,56.684819
+tt0268762,Wrong Number,"('Thriller',)",R,CANADA,ENGLISH,4.8,145,2002-04-16,1.5,,
+tt0269095,City by the Sea,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,6.1,22865,2002-09-06,60.0,8.935426,22.433915
+tt0269281,Global Heresy,"('Comedy', 'Drama', 'Music')",R,CANADA,ENGLISH,6.2,1391,2002-09-03,12.0,,
+tt0269483,Lone Star State of Mind,"('Comedy', 'Crime')",PG-13,USA,ENGLISH,6.1,2588,2002-12-13,,,
+tt0270197,American Gun,"('Drama',)",R,USA,ENGLISH,6.3,1106,2002-06-13,,,
+tt0270288,Confessions of a Dangerous Mind,"('Biography', 'Comedy', 'Crime', 'Drama', 'Romance', 'Thriller')",R,USA,ENGLISH,7.1,77397,2003-01-24,29.0,0.087199,16.003576
+tt0270688,Teknolust,"('Comedy', 'Drama', 'Romance', 'Sci-Fi')",R,USA,ENGLISH,5.3,1177,2010-10-26,,0.009475,0.028811
+tt0270707,The Truth About Charlie,"('Mystery', 'Thriller')",PG-13,GERMANY,ENGLISH,4.8,9250,2002-10-25,60.0,2.27029,5.350371
+tt0270911,Bad Boy,"('Drama', 'Comedy', 'Romance')",R,USA,ENGLISH,5.0,1757,2002-02-21,,,
+tt0270991,Hollywood Vampyr,"('Drama', 'Thriller', 'Horror')",R,USA,ENGLISH,4.2,174,2003-04-01,,,
+tt0271018,Jane White Is Sick & Twisted,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,3.9,379,2002-01-27,,,
+tt0271045,The Other Brother,"('Comedy', 'Drama')",R,USA,ENGLISH,5.0,111,2002-04-26,,,
+tt0271210,R.S.V.P.,"('Comedy', 'Crime', 'Thriller')",R,USA,ENGLISH,5.2,1046,2002-01-15,1.0,,
+tt0271259,Welcome to Collinwood,"('Comedy', 'Crime')",R,USA,ENGLISH,6.4,13320,2002-10-18,12.0,0.07518,0.333976
+tt0271263,Eight Crazy Nights,"('Animation', 'Comedy', 'Musical')",PG-13,USA,ENGLISH,5.3,19792,2002-11-27,34.0,9.434175,23.443124
+tt0271367,Eight Legged Freaks,"('Action', 'Comedy', 'Horror', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.4,48189,2002-07-17,30.0,6.485458,17.322606
+tt0271451,Descent Into Darkness,"('Action', 'Adventure', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,3.5,324,2002-08-06,,,
+tt0271537,Happy Here and Now,"('Drama',)",R,USA,ENGLISH,5.3,297,2002-06-08,,0.001867,0.002443
+tt0271582,Joshua,"('Drama',)",UNRATED,USA,ENGLISH,6.8,1630,2002-04-19,9.0,0.27674,1.366
+tt0271885,Zig Zag,"('Drama',)",R,USA,ENGLISH,6.0,1266,2002-07-09,,,0.002418
+tt0272036,Deep Freeze,"('Action', 'Horror', 'Sci-Fi')",R,USA,ENGLISH,2.7,569,2003-07-22,,,
+tt0272125,Snapshots,"('Romance',)",R,NETHERLANDS,ENGLISH,6.2,298,2002-08-29,11.0,,
+tt0272147,Vampires: Los Muertos,"('Action', 'Horror', 'Thriller')",R,USA,ENGLISH,4.6,6434,2003-06-27,,,
+tt0272196,Monkey Love,"('Comedy', 'Romance')",R,USA,ENGLISH,5.2,192,2002-06-12,,,
+tt0272207,Narc,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,7.2,36243,2003-01-10,7.5,0.063303,10.460089
+tt0272338,Punch-Drunk Love,"('Comedy', 'Drama', 'Romance', 'Thriller')",R,USA,ENGLISH,7.3,127247,2002-11-01,25.0,0.367203,17.844216
+tt0272557,Contagion,"('Drama', 'Sci-Fi')",PG-13,USA,ENGLISH,4.0,606,2003-10-07,,,
+tt0273041,13th Child,"('Horror', 'Mystery', 'Thriller')",R,USA,ENGLISH,3.0,716,2002-10-25,,,
+tt0273435,Ararat,"('Drama', 'War')",R,CANADA,ENGLISH,6.6,10919,2002-12-06,,0.21113,1.554566
+tt0273453,Bark!,"('Comedy', 'Drama')",R,USA,ENGLISH,5.2,643,2002-01-11,,,
+tt0273457,Beauty Betrayed,"('Crime', 'Drama')",UNRATED,USA,ENGLISH,4.8,126,2002-07-06,,,
+tt0273517,Darkness,"('Horror',)",PG-13,USA,ENGLISH,5.4,17837,2004-12-25,10.6,6.163306,22.163442
+tt0273923,Orange County,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.2,44164,2002-01-11,18.0,15.053226,41.032915
+tt0273982,Poolhall Junkies,"('Comedy', 'Drama', 'Sport', 'Thriller')",R,USA,ENGLISH,7.0,9123,2003-02-28,4.0,0.301856,0.562059
+tt0274309,24 Hour Party People,"('Biography', 'Comedy', 'Drama', 'Music')",R,UK,ENGLISH,7.4,29615,2002-09-20,,0.03494,1.130379
+tt0274407,Callas Forever,"('Biography', 'Drama', 'Music', 'Romance')",PG-13,ITALY,ENGLISH,6.6,1955,2002-09-18,,0.037855,0.445996
+tt0274558,The Hours,"('Drama', 'Romance')",PG-13,USA,ENGLISH,7.6,113634,2003-02-14,25.0,0.338622,41.675994
+tt0274643,Made-Up,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.5,149,2002-03-01,,,
+tt0274661,Mi Amigo,"('Comedy', 'Western')",PG-13,USA,ENGLISH,4.2,52,,,,
+tt0274711,People I Know,"('Crime', 'Drama')",R,USA,ENGLISH,5.5,10485,2002-11-21,22.0,0.034211,0.121972
+tt0274812,Secretary,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,7.0,75371,2002-10-11,4.0,0.182306,4.05968
+tt0275022,Crossroads,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,3.4,36186,2002-02-15,12.0,17.014226,37.191304
+tt0275170,The 4th Tenor,"('Comedy', 'Music', 'Romance')",PG-13,USA,ENGLISH,5.3,300,2004-12-03,,,
+tt0275263,Ciao America,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,7.4,75,2002-09-20,5.0,,
+tt0275847,Lilo & Stitch,"('Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi')",PG ,USA,ENGLISH,7.2,142470,2002-06-21,80.0,35.260212,145.794338
+tt0275947,Avenging Angelo,"('Action', 'Comedy', 'Crime', 'Romance')",R,USA,ENGLISH,5.2,7849,2004-08-11,17.0,,
+tt0276033,The Country Bears,"('Comedy', 'Family', 'Music', 'Musical')",UNRATED,USA,ENGLISH,4.0,4370,2002-07-26,35.0,5.309675,16.988996
+tt0276744,13 Moons,"('Comedy',)",R,USA,ENGLISH,5.9,1137,,2.0,,
+tt0276751,About a Boy,"('Comedy', 'Drama', 'Romance')",PG-13,UK,ENGLISH,7.1,156279,2002-05-17,30.0,8.55763,41.385278
+tt0276816,Below,"('Action', 'Horror', 'Mystery', 'Thriller')",R,USA,ENGLISH,6.2,19423,2002-10-18,40.0,0.201431,0.605562
+tt0276877,Threat of Exposure,"('Thriller',)",R,USA,ENGLISH,4.2,137,2002-11-07,,,
+tt0277184,Never Get Outta the Boat,"('Drama',)",R,USA,ENGLISH,6.6,173,,,,
+tt0277296,The Scorpion King,"('Action', 'Adventure', 'Fantasy', 'Thriller')",PG-13,USA,ENGLISH,5.5,117547,2002-04-19,60.0,36.075875,91.047077
+tt0277412,Unspeakable,"('Horror', 'Thriller')",R,USA,ENGLISH,3.3,1152,,2.0,,
+tt0277434,We Were Soldiers,"('Action', 'Drama', 'History', 'War')",R,USA,ENGLISH,7.2,117317,2002-03-01,75.0,20.212543,78.122718
+tt0277744,Dead Heat,"('Action', 'Comedy', 'Crime', 'Drama')",R,CANADA,ENGLISH,5.4,1183,2002-07-23,,,
+tt0277789,All Night Bodega,"('Drama',)",R,FRANCE,ENGLISH,6.6,68,2004-05-12,0.075,,
+tt0277790,Landspeed,"('Drama', 'Sport')",PG-13,USA,ENGLISH,4.2,437,2002-06-11,7.5,,
+tt0277800,The Little Unicorn,"('Adventure', 'Family', 'Fantasy')",UNRATED,SOUTH AFRICA,ENGLISH,4.3,211,2002-12-16,,,
+tt0277944,Panic,"('Action', 'Drama', 'Thriller')",R,USA,ENGLISH,3.4,689,2003-06-03,,,
+tt0278035,Shooters,"('Crime', 'Drama', 'Thriller')",R,UK,ENGLISH,5.7,1052,2002-01-25,,,
+tt0278295,All About the Benjamins,"('Action', 'Comedy', 'Crime', 'Thriller')",R,USA,ENGLISH,5.8,11633,2002-03-08,14.0,10.007291,25.482931
+tt0278435,Enough,"('Crime', 'Drama', 'Thriller')",PG-13,USA,ENGLISH,5.7,34811,2002-05-24,38.0,17.213137,40.007742
+tt0278500,The Importance of Being Earnest,"('Comedy', 'Drama', 'Romance')",PG ,UK,ENGLISH,6.9,20598,2002-06-21,15.0,0.500447,8.378141
+tt0278504,Insomnia,"('Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,7.2,246940,2002-05-24,46.0,20.930169,67.355513
+tt0278597,The Nugget,"('Comedy',)",R,AUSTRALIA,ENGLISH,6.0,1518,2002-10-17,,,
+tt0278731,Spider,"('Drama', 'Mystery', 'Thriller')",R,CANADA,ENGLISH,6.8,33007,2002-11-13,8.0,0.18935,1.641788
+tt0278823,Hollywood Ending,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,6.6,23957,2002-05-03,16.0,2.017981,4.839383
+tt0279037,Heart of America,"('Drama',)",R,CANADA,ENGLISH,4.2,2455,2003-02-13,3.0,,
+tt0279074,EvenHand,"('Drama',)",R,USA,ENGLISH,7.3,448,2002-11-14,0.5,,
+tt0279113,The Good Girl,"('Drama', 'Romance')",R,USA,ENGLISH,6.5,40724,2002-08-30,8.0,0.151642,14.015786
+tt0279178,Kingston High,"('Comedy',)",R,USA,ENGLISH,5.5,55,2002-02-07,,,
+tt0279331,Dark Blue,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,6.6,18919,2003-02-21,15.0,3.880688,9.059588
+tt0279493,Undercover Brother,"('Action', 'Comedy')",PG-13,USA,ENGLISH,5.8,31507,2002-05-31,25.0,12.037685,38.230435
+tt0279721,The Calling,"('Drama',)",PG ,USA,ENGLISH,4.8,145,,,0.000966,0.006092
+tt0279750,Outta Time,"('Adventure', 'Crime', 'Action')",R,USA,ENGLISH,3.9,213,2002-03-29,1.5,0.004052,0.004052
+tt0279778,Divine Secrets of the Ya-Ya Sisterhood,"('Drama',)",PG-13,USA,ENGLISH,6.0,16677,2002-06-07,27.0,16.167412,69.599016
+tt0279781,Sorority Boys,"('Comedy',)",R,USA,ENGLISH,5.4,12958,2002-03-22,12.0,4.127903,10.198766
+tt0280030,Return to Never Land,"('Animation', 'Adventure', 'Family', 'Fantasy')",UNRATED,USA,ENGLISH,5.8,15700,2002-02-15,20.0,15.623464,48.430258
+tt0280380,Trapped,"('Action', 'Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,6.2,21330,2002-09-20,30.0,3.210765,0.062536
+tt0280438,Ash Wednesday,"('Crime', 'Drama')",R,USA,ENGLISH,5.9,2792,2004-03-19,,0.002942,0.002942
+tt0280460,The Banger Sisters,"('Comedy', 'Drama')",R,USA,ENGLISH,5.6,13519,2002-09-20,10.0,10.037846,30.307416
+tt0280462,The Barber,"('Crime', 'Horror', 'Mystery', 'Thriller')",R,CANADA,ENGLISH,5.8,1180,2002-12-31,1.0,,
+tt0280477,Better Luck Tomorrow,"('Crime', 'Drama', 'Romance')",R,USA,ENGLISH,7.1,8489,2003-04-25,0.25,0.360772,3.80239
+tt0280486,Bad Company,"('Action', 'Adventure', 'Comedy', 'Thriller')",PG-13,USA,ENGLISH,5.6,42403,2002-06-07,70.0,11.007367,30.160161
+tt0280490,The Hard Word,"('Action', 'Comedy', 'Crime', 'Drama', 'Thriller')",R,AUSTRALIA,ENGLISH,6.0,3373,2003-06-27,,0.009422,0.422688
+tt0280491,Bloody Sunday,"('Drama', 'History', 'War')",R,UK,ENGLISH,7.7,21589,2002-04-19,,0.029419,0.768045
+tt0280590,Mr. Deeds,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.8,123320,2002-06-28,50.0,37.162787,126.293452
+tt0280605,Dirty Deeds,"('Comedy', 'Crime')",R,AUSTRALIA,ENGLISH,6.3,3008,2002-07-18,,,
+tt0280609,Dog Soldiers,"('Action', 'Horror', 'Thriller')",R,UK,ENGLISH,6.8,49631,2002-05-10,2.0,,
+tt0280665,Femme Fatale,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,FRANCE,ENGLISH,6.3,31026,2002-11-06,35.0,2.776248,6.592103
+tt0280674,The First $20 Million Is Always the Hardest,"('Comedy',)",PG-13,USA,ENGLISH,5.6,2944,2002-10-11,17.0,0.002535,0.002535
+tt0280696,Garage Days,"('Comedy', 'Music', 'Drama')",R,AUSTRALIA,ENGLISH,5.9,2577,2002-10-03,6.0,0.0206,0.0206
+tt0280720,The Guru,"('Comedy', 'Music', 'Romance')",R,UK,ENGLISH,5.4,14192,2003-02-14,11.0,0.613485,3.034181
+tt0280760,Igby Goes Down,"('Comedy', 'Drama')",R,USA,ENGLISH,7.0,30535,2002-10-04,9.0,0.306705,4.681503
+tt0280870,Liberty Stands Still,"('Action', 'Drama', 'Thriller')",R,GERMANY,ENGLISH,5.8,6869,2002-05-03,11.0,,
+tt0280949,Miranda,"('Comedy', 'Romance', 'Thriller')",R,UK,ENGLISH,5.5,1748,2003-11-07,,,
+tt0280969,My Little Eye,"('Drama', 'Horror', 'Mystery', 'Thriller')",R,UK,ENGLISH,5.6,10971,2002-10-04,,,
+tt0280970,My Name Is Tanino,"('Comedy', 'Romance')",UNRATED,ITALY,ITALIAN,6.6,1441,2003-05-30,,,
+tt0280990,Nid de guêpes,"('Action', 'Crime', 'Thriller')",R,FRANCE,FRENCH,6.8,5001,2002-03-06,,,
+tt0281190,Shottas,"('Action', 'Crime', 'Drama')",R,USA,ENGLISH,6.3,3699,2002-02-27,0.2,,
+tt0281322,Undisputed,"('Action', 'Crime', 'Drama', 'Sport')",R,USA,ENGLISH,6.2,25988,2002-08-23,20.0,4.54875,12.398628
+tt0281358,A Walk to Remember,"('Drama', 'Romance')",PG ,USA,ENGLISH,7.4,182971,2002-01-25,11.0,12.177488,41.227069
+tt0281373,Snow Dogs,"('Adventure', 'Comedy', 'Family', 'Sport')",PG ,CANADA,ENGLISH,5.1,22800,2002-01-18,35.0,23.708174,81.17256
+tt0281686,Bubba Ho-Tep,"('Comedy', 'Fantasy', 'Horror', 'Mystery', 'Western')",R,USA,ENGLISH,7.1,42119,2003-10-10,1.0,0.035636,2.00342
+tt0281726,The Circle,"('Thriller',)",R,CANADA,ENGLISH,5.0,548,2002-12-05,,0.017419,0.661445
+tt0281820,The Good Thief,"('Action', 'Crime', 'Drama', 'Romance', 'Thriller')",R,FRANCE,ENGLISH,6.6,9479,2003-04-25,25.0,0.13158,3.517797
+tt0281865,"Frank McKlusky, C.I.","('Comedy',)",PG-13,USA,ENGLISH,4.1,1286,2002-06-27,,,
+tt0281889,Go for Broke,"('Comedy',)",R,USA,ENGLISH,5.3,111,2002-06-27,,,
+tt0282120,The Wild Thornberrys Movie,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",PG ,USA,ENGLISH,5.3,13130,2002-12-20,25.0,6.013847,40.108697
+tt0282386,Blood Feast 2: All U Can Eat,"('Comedy', 'Horror')",R,USA,ENGLISH,5.9,1251,2003-07-29,,,
+tt0282481,Shattered Lies,"('Action', 'Thriller')",R,USA,ENGLISH,5.1,70,2002-02-21,,,
+tt0282483,Fangs,"('Comedy', 'Horror', 'Sci-Fi')",PG-13,USA,ENGLISH,3.3,615,2002-02-25,,,
+tt0282552,Riders,"('Action', 'Crime', 'Thriller')",R,FRANCE,ENGLISH,5.5,5405,2002-05-08,15.0,,
+tt0282593,I'm with Lucy,"('Comedy', 'Romance')",R,USA,ENGLISH,6.0,3135,2002-09-04,15.0,,
+tt0282613,Inferno,"('Action', 'Drama')",PG ,USA,ENGLISH,3.4,243,2002-06-25,,,
+tt0282687,Life or Something Like It,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.8,21435,2002-04-26,40.0,6.219234,14.448589
+tt0282695,Lone Hero,"('Action', 'Adventure', 'Drama')",R,CANADA,ENGLISH,5.7,659,2002-04-12,5.5,,
+tt0282698,Love Liza,"('Comedy', 'Drama')",R,FRANCE,ENGLISH,7.0,6779,2003-01-31,1.0,0.015522,0.211724
+tt0282883,Quicksand,"('Drama', 'Thriller')",R,USA,ENGLISH,4.8,193,2002-03-15,3.5,,
+tt0282945,The Scoundrel's Wife,"('Drama', 'Romance')",R,USA,ENGLISH,6.2,347,2002-03-09,,,
+tt0283003,Spun,"('Comedy', 'Crime', 'Drama')",R,USA,ENGLISH,6.8,34415,2003-02-07,2.0,0.01516,0.410241
+tt0283026,Swimfan,"('Drama', 'Thriller')",PG-13,USA,ENGLISH,5.0,17659,2002-09-06,8.5,11.326601,28.563926
+tt0283054,Thunderpants,"('Comedy', 'Family', 'Sci-Fi')",PG ,UK,ENGLISH,3.6,4945,2002-05-24,7.0,,
+tt0283077,Triggermen,"('Crime', 'Comedy')",R,GERMANY,ENGLISH,6.0,1176,2003-05-16,12.0,,
+tt0283084,Tuck Everlasting,"('Drama', 'Family', 'Fantasy', 'Romance')",PG ,USA,ENGLISH,6.7,19636,2002-10-11,15.0,5.268764,19.158074
+tt0283090,29 Palms,"('Drama', 'Thriller', 'Comedy', 'Crime')",R,USA,ENGLISH,4.9,1614,2005-07-29,5.0,,
+tt0283111,Van Wilder,"('Comedy', 'Romance')",R,GERMANY,ENGLISH,6.4,96271,2002-04-05,6.0,7.302913,21.005329
+tt0283139,White Oleander,"('Drama',)",PG-13,USA,ENGLISH,7.2,27641,2002-10-11,16.0,5.60748,16.346122
+tt0283143,Wicked Game,"('Action',)",PG-13,USA,ENGLISH,6.4,57,2002-03-12,,,
+tt0283160,Extreme Ops,"('Action', 'Adventure', 'Thriller')",PG-13,UK,ENGLISH,4.5,5087,2002-11-27,40.0,2.233525,4.835968
+tt0283530,The Emperor's Club,"('Drama',)",PG-13,USA,ENGLISH,6.9,15528,2002-11-22,12.5,3.84678,14.06095
+tt0283542,Terminal Error,"('Thriller', 'Sci-Fi')",PG-13,USA,ENGLISH,4.0,458,2002-04-26,,,
+tt0283559,Pressure,"('Action', 'Thriller')",R,USA,ENGLISH,5.9,924,2009-05-03,,,
+tt0283632,They,"('Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,4.8,11635,2002-11-27,17.0,5.14409,12.840842
+tt0283644,Left Behind II: Tribulation Force,"('Action', 'Drama', 'Fantasy', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.2,3360,2002-10-29,3.8,,
+tt0283680,West of Here,"('Drama', 'Music', 'Romance')",R,USA,ENGLISH,6.1,91,2002-06-09,,,
+tt0283832,8 femmes,"('Comedy', 'Crime', 'Musical', 'Romance')",R,FRANCE,FRENCH,7.1,26306,2002-10-04,,0.08846,3.076425
+tt0283883,And Now... Ladies and Gentlemen...,"('Crime', 'Drama', 'Romance', 'Thriller')",PG-13,FRANCE,FRENCH,6.2,1995,2002-05-29,,0.049176,0.736762
+tt0283897,Assassination Tango,"('Crime', 'Drama', 'Romance', 'Thriller')",R,USA,ENGLISH,5.9,2722,2003-09-04,,0.064474,0.970185
+tt0283900,L'auberge espagnole,"('Comedy', 'Drama', 'Romance')",R,FRANCE,FRENCH,7.3,37032,2003-06-20,,0.059309,3.895664
+tt0283942,Black Point,"('Action', 'Crime', 'Drama', 'Mystery', 'Thriller')",R,CANADA,ENGLISH,5.3,525,2002-09-24,6.0,,
+tt0283957,Le boulet,"('Adventure', 'Action', 'Comedy')",PG-13,FRANCE,FRENCH,6.0,4305,2002-04-10,,,
+tt0283991,Children on Their Birthdays,"('Comedy', 'Drama', 'Family')",PG ,USA,ENGLISH,6.5,510,2002-10-18,10.0,,0.054912
+tt0283999,The Climb,"('Action', 'Adventure', 'Drama', 'Family')",PG ,USA,ENGLISH,6.1,606,2002-02-22,2.5,,0.078677
+tt0284034,Demonlover,"('Thriller', 'Drama', 'Mystery')",R,FRANCE,ENGLISH,5.9,4153,2002-11-06,,0.039284,0.231756
+tt0284045,Dead Above Ground,"('Crime', 'Horror')",R,USA,ENGLISH,3.2,327,2002-09-08,,,
+tt0284066,Double Vision,"('Fantasy', 'Horror', 'Mystery')",R,TAIWAN,MANDARIN,6.4,2364,2002-10-25,,,
+tt0284115,Fish Don't Blink,"('Comedy',)",R,USA,ENGLISH,5.0,290,2002-04-13,,,
+tt0284135,Full Ride,"('Comedy', 'Romance', 'Sport')",PG-13,USA,ENGLISH,5.5,259,2002-08-28,,,
+tt0284227,Chaos,"('Sci-Fi',)",R,IRELAND,ENGLISH,3.8,73,2002-09-26,50.0,0.002676,0.204274
+tt0284406,Chopin. Pragnienie milosci,"('Drama', 'Romance', 'Music')",R,POLAND,POLISH,5.0,562,2002-03-01,3.5,,
+tt0284457,Samouraïs,"('Action',)",R,SPAIN,FRENCH,3.3,648,2002-06-19,,,
+tt0284478,Charlotte Sometimes,"('Drama', 'Romance')",R,USA,ENGLISH,6.0,1017,2002-03-11,0.08,0.003284,0.0835
+tt0284490,Showtime,"('Action', 'Comedy', 'Crime')",PG-13,USA,ENGLISH,5.5,56490,2002-03-15,85.0,15.01143,38.082712
+tt0284494,Skins,"('Crime', 'Drama')",R,USA,ENGLISH,7.2,1256,2002-01-14,,0.023439,0.238987
+tt0284655,WiseGirls,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,5.9,2687,2002-12-06,11.0,,
+tt0284837,Ali G Indahouse,"('Comedy',)",R,FRANCE,ENGLISH,6.2,76619,2002-03-22,,,
+tt0284850,The Anarchist Cookbook,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,5.1,1302,2002-06-01,2.5,,
+tt0284929,Ted Bundy,"('Biography', 'Crime', 'Drama', 'Horror', 'Thriller')",R,UK,ENGLISH,5.9,6464,2002-11-22,1.2,0.00171,0.006073
+tt0284971,Coastlines,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,5.9,548,2002-01-16,,0.000736,0.00649
+tt0284978,Cypher,"('Mystery', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,6.8,28650,2003-01-18,7.5,,
+tt0285462,Boat Trip,"('Comedy',)",R,USA,ENGLISH,4.9,28596,2003-03-21,20.0,3.815075,8.586376
+tt0285487,Crazy as Hell,"('Drama', 'Thriller')",R,USA,ENGLISH,6.1,904,2002-02-06,1.8,,
+tt0285492,Cube²: Hypercube,"('Sci-Fi', 'Thriller')",R,CANADA,ENGLISH,5.6,56799,2003-04-15,,,
+tt0285728,Dahmer,"('Biography', 'Crime', 'Drama', 'Horror', 'Thriller')",R,USA,ENGLISH,5.6,8364,2003-03-13,,0.016093,0.144008
+tt0285869,Pandora's Box,"('Romance', 'Thriller')",R,USA,ENGLISH,5.0,586,2002-09-27,0.8,0.08561,0.044792
+tt0285879,Passionada,"('Comedy', 'Romance', 'Drama')",PG-13,USA,ENGLISH,6.2,1237,2002-06-16,,0.123568,0.536906
+tt0285976,Reality Check,"('Horror',)",R,USA,ENGLISH,3.3,209,2002-07-15,,,
+tt0286106,Signs,"('Drama', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.7,304498,2002-08-02,72.0,60.11708,227.966634
+tt0286108,Silence,"('Mystery', 'Thriller')",PG-13,USA,ENGLISH,4.9,215,2003-08-19,5.0,,
+tt0286152,Stark Raving Mad,"('Action', 'Comedy', 'Crime')",R,USA,ENGLISH,6.4,4495,2002-05-23,5.0,,
+tt0286162,Stolen Summer,"('Drama',)",PG ,USA,ENGLISH,6.5,2549,2003-07-25,1.5,0.061613,0.119841
+tt0286179,Sunshine State,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.9,3630,2002-07-12,5.6,0.093072,3.064356
+tt0286261,All or Nothing,"('Drama',)",R,UK,ENGLISH,7.6,8957,2002-10-18,9.0,0.036741,0.121756
+tt0286306,Deathwatch,"('Drama', 'Horror', 'War', 'Thriller')",R,UK,ENGLISH,6.0,9737,2002-12-06,,,
+tt0286493,The Badge,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,6.2,2965,2002-09-07,6.0,,
+tt0286499,Bend It Like Beckham,"('Comedy', 'Drama', 'Romance', 'Sport')",PG-13,UK,ENGLISH,6.7,97413,2003-08-01,,0.161528,32.543449
+tt0286516,Respiro,"('Drama',)",PG-13,ITALY,ITALIAN,7.0,4277,2002-05-22,,0.094452,1.072534
+tt0286594,Close Your Eyes,"('Crime', 'Horror', 'Mystery', 'Thriller')",R,UK,ENGLISH,6.2,2808,2004-05-05,10.0,0.02198,0.039381
+tt0286702,The House Next Door,"('Thriller', 'Drama')",R,USA,ENGLISH,4.4,670,2002-02-24,,,
+tt0286855,Now You Know,"('Comedy', 'Romance')",R,USA,ENGLISH,6.7,1542,2002-12-13,0.38,,
+tt0286915,Duct Tape Forever,"('Comedy',)",PG ,CANADA,ENGLISH,6.0,747,2002-04-12,,,
+tt0287140,Edge of Madness,"('Drama',)",R,CANADA,ENGLISH,6.3,655,2002-02-18,,,
+tt0287425,Emmett's Mark,"('Drama', 'Crime', 'Thriller')",R,USA,ENGLISH,6.1,1702,2002-05-09,4.5,,
+tt0287467,Talk to Her,"('Drama', 'Mystery', 'Romance')",R,SPAIN,SPANISH,8.0,94920,2003-02-14,,0.104396,9.284265
+tt0287497,Infested,"('Horror', 'Sci-Fi')",R,USA,ENGLISH,2.9,1166,2002-10-18,,,
+tt0287665,Eternal Blood,"('Action', 'Horror', 'Thriller')",R,CHILE,SPANISH,4.4,647,2007-02-23,,,
+tt0287717,Spy Kids 2: Island of Lost Dreams,"('Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi')",PG ,USA,ENGLISH,5.1,52377,2002-08-07,38.0,16.711716,85.846429
+tt0287741,Talladega,"('Drama', 'Action')",UNRATED,USA,ENGLISH,,0,,,,
+tt0287914,Angela,"('Crime', 'Drama', 'Romance')",R,ITALY,ITALIAN,6.1,263,2002-10-30,,,
+tt0287944,Brother's Keeper,"('Thriller', 'Crime', 'Drama')",R,CANADA,ENGLISH,4.9,316,2002-01-29,,,
+tt0288243,Taboo,"('Drama', 'Horror', 'Mystery', 'Thriller')",R,USA,ENGLISH,3.6,1690,2002-01-14,,,
+tt0288263,Tom & Thomas,"('Family',)",PG ,NETHERLANDS,ENGLISH,6.8,899,2002-01-24,,,
+tt0288324,The Year That Trembled,"('Drama', 'Romance', 'War')",R,USA,ENGLISH,5.2,175,2002-03-22,,,
+tt0288439,Bang Bang You're Dead,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,7.9,11888,2008-01-21,,,
+tt0288477,Ghost Ship,"('Horror',)",R,USA,ENGLISH,5.5,83962,2002-10-25,35.0,11.503423,30.113491
+tt0288488,Cover Story,"('Thriller',)",R,CANADA,ENGLISH,4.0,226,2002-09-17,,,
+tt0288584,Junk,,R,USA,ENGLISH,7.4,8,,,,
+tt0289043,28 Days Later...,"('Drama', 'Horror', 'Sci-Fi', 'Thriller')",R,UK,ENGLISH,7.6,335954,2003-06-27,8.0,10.061858,45.064915
+tt0289408,The Powerpuff Girls Movie,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi')",PG ,USA,ENGLISH,6.5,8529,2002-07-03,11.0,3.583114,11.411644
+tt0289589,Malevolent,"('Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,5.3,487,2002-06-27,,,
+tt0289616,Whacked!,"('Action', 'Comedy')",R,USA,ENGLISH,5.9,844,,,,
+tt0289668,Between Strangers,"('Drama',)",R,CANADA,ENGLISH,6.1,924,2002-09-13,,,
+tt0289758,Phase IV,"('Action', 'Drama', 'Thriller')",R,CANADA,ENGLISH,5.2,375,2003-06-24,,,
+tt0289765,Red Dragon,"('Crime', 'Drama', 'Thriller')",R,GERMANY,ENGLISH,7.2,225367,2002-10-04,78.0,36.540945,93.149898
+tt0289848,Analyze That,"('Comedy', 'Crime')",R,USA,ENGLISH,5.9,76208,2002-12-06,60.0,11.034422,32.122249
+tt0289864,Big Ain't Bad,"('Drama',)",R,USA,ENGLISH,5.6,59,2005-04-01,,0.008696,0.012288
+tt0290014,Outside the Law,"('Action',)",UNRATED,USA,ENGLISH,4.4,342,2006-10-21,,,
+tt0290095,The Tuxedo,"('Action', 'Comedy', 'Sci-Fi')",PG-13,USA,ENGLISH,5.4,70773,2002-09-27,60.0,15.051028,50.547998
+tt0290145,Blue Car,"('Drama',)",R,USA,ENGLISH,6.7,3243,2003-05-02,1.0,0.030087,0.464126
+tt0290210,Max,"('Drama', 'War')",R,HUNGARY,ENGLISH,6.6,6619,2003-06-20,11.0,0.030157,0.527019
+tt0290212,Full Frontal,"('Comedy', 'Romance')",R,USA,ENGLISH,4.7,9094,2002-08-02,2.0,0.739834,2.506446
+tt0290233,A Light in the Darkness,"('Drama', 'Horror')",R,USA,ENGLISH,6.0,47,2002-04-03,,,
+tt0290249,New Suit,"('Comedy',)",R,USA,ENGLISH,5.8,360,2002-10-03,,0.013258,0.071743
+tt0291180,Angel Blade,"('Thriller',)",R,USA,ENGLISH,3.3,185,2002-02-10,2.0,,
+tt0291213,Big Girls Don't Cry,"('Drama',)",R,GERMANY,GERMAN,7.0,1490,2002-10-24,,,
+tt0291392,Novo,"('Drama', 'Comedy', 'Romance')",R,FRANCE,FRENCH,5.7,2308,2002-12-25,,,
+tt0291502,Swept Away,"('Comedy', 'Romance')",R,UK,ENGLISH,3.6,14225,2002-10-11,10.0,0.354052,0.007876
+tt0291538,Une femme de ménage,"('Comedy', 'Drama', 'Romance')",R,FRANCE,FRENCH,6.3,1519,2002-11-13,,0.042083,0.455026
+tt0291579,À la folie... pas du tout,"('Romance', 'Thriller')",PG-13,FRANCE,FRENCH,7.2,17472,2002-03-27,,0.09163,1.009827
+tt0291823,The Round and Round,"('Drama',)",UNRATED,USA,ENGLISH,1.3,414,2002-06-01,,,
+tt0291928,G,"('Drama', 'Romance')",R,USA,ENGLISH,5.1,632,2005-10-28,,0.248337,3.020784
+tt0292501,Love in the Time of Money,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,5.3,593,2002-01-11,,0.006259,0.01041
+tt0292610,No Good Deed,"('Action', 'Crime', 'Drama', 'Music', 'Thriller')",R,GERMANY,ENGLISH,5.5,6485,2002-10-25,12.0,,0.1816
+tt0292644,The Rules of Attraction,"('Comedy', 'Drama', 'Romance')",R,GERMANY,ENGLISH,6.7,46921,2002-10-11,4.0,2.53241,6.532619
+tt0292886,800 balas,"('Action', 'Comedy', 'Drama', 'Western')",R,SPAIN,SPANISH,6.4,3795,2002-10-18,,0.000866,0.000866
+tt0293019,Castle Eros,"('Fantasy', 'Romance')",R,USA,ENGLISH,5.7,125,2002-06-18,,,
+tt0293020,Until Death,"('Drama', 'Horror', 'Thriller')",R,UK,ENGLISH,4.2,39,2002-01-01,,,
+tt0293116,Décalage horaire,"('Comedy', 'Romance')",R,FRANCE,FRENCH,6.2,5405,2002-10-30,,0.020454,0.544434
+tt0293146,Face,"('Drama',)",R,USA,ENGLISH,6.6,251,,,0.004324,0.106939
+tt0293166,Frogmen Operation Stormbringer,"('Action',)",R,USA,ENGLISH,3.4,212,2002-12-03,,,
+tt0293357,Local Boys,"('Drama',)",PG-13,USA,ENGLISH,6.8,817,2002-02-23,,,
+tt0293509,The Piano Player,"('Action', 'Drama', 'Thriller', 'Crime')",UNRATED,UK,ENGLISH,4.6,770,2004-06-04,10.0,,
+tt0293563,Rub & Tug,"('Comedy',)",R,CANADA,ENGLISH,4.9,543,2002-11-01,,,
+tt0293624,Super Sucker,"('Comedy',)",R,USA,ENGLISH,4.6,831,2002-02-24,,0.1725,
+tt0293660,Tian mai zhuan qi,"('Action', 'Adventure', 'Romance')",PG-13,CHINA,ENGLISH,4.6,1552,,20.0,,
+tt0293662,The Transporter,"('Action', 'Crime', 'Thriller')",PG-13,FRANCE,ENGLISH,6.8,262656,2002-10-11,21.0,9.107816,25.296447
+tt0293815,Friday After Next,"('Comedy', 'Drama')",R,USA,ENGLISH,5.8,22758,2002-11-22,10.0,13.010767,32.983713
+tt0293832,Hansel & Gretel,"('Comedy', 'Family', 'Fantasy', 'Thriller')",PG ,USA,ENGLISH,3.7,1087,2002-10-18,,0.100477,0.100477
+tt0294252,2009: Lost Memories,"('Action', 'Drama', 'Sci-Fi', 'Thriller')",R,SOUTH KOREA,KOREAN,6.2,3139,2002-02-01,7.0,,
+tt0294594,The Gathering,"('Horror', 'Thriller')",R,UK,ENGLISH,5.7,7148,2003-05-15,18.0,,
+tt0294662,Thorns,"('Action', 'Crime', 'Drama', 'Thriller')",R,INDIA,HINDI,6.6,4035,2002-12-20,,0.425975,1.002066
+tt0295178,Austin Powers in Goldmember,"('Action', 'Adventure', 'Comedy', 'Crime')",PG-13,USA,ENGLISH,6.2,178934,2002-07-26,63.0,73.071188,213.307889
+tt0295238,Personal Velocity,"('Drama', 'Romance')",R,USA,ENGLISH,6.6,3277,2002-12-20,0.125,0.029943,0.76554
+tt0295244,Essence of Echoes,"('Thriller', 'Horror')",R,USA,ENGLISH,4.0,61,2002-09-17,,,
+tt0295254,Feardotcom,"('Crime', 'Horror', 'Thriller')",R,UK,ENGLISH,3.3,18363,2002-08-30,42.0,7.087457,13.208023
+tt0295257,Turnaround,"('Drama',)",R,CANADA,ENGLISH,4.9,113,2002-01-01,,,
+tt0295297,Harry Potter and the Chamber of Secrets,"('Adventure', 'Family', 'Fantasy', 'Mystery')",PG ,UK,ENGLISH,7.4,465655,2002-11-15,100.0,88.357488,261.988482
+tt0295303,Heartlands,"('Comedy', 'Drama')",PG-13,UK,ENGLISH,6.9,1045,2003-04-27,,,
+tt0295427,The Master of Disguise,"('Adventure', 'Comedy', 'Family', 'Fantasy')",PG ,USA,ENGLISH,3.3,19803,2002-08-02,16.0,12.55465,40.36353
+tt0295701,xXx,"('Action', 'Adventure', 'Thriller')",PG-13,USA,ENGLISH,5.9,161936,2002-08-09,70.0,44.506103,142.109382
+tt0295725,Time Changer,"('Drama', 'Fantasy', 'Sci-Fi')",PG ,USA,ENGLISH,5.4,2041,2016-12-29,0.825,0.300103,1.284142
+tt0296166,Real Women Have Curves,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.0,6486,2002-11-08,3.0,0.183772,5.844929
+tt0296711,Kiss the Bride,"('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,5.5,1052,2002-10-16,,,
+tt0296745,Master of the Game,"('Drama', 'Thriller')",R,USA,ENGLISH,7.3,78,2004-11-12,,,
+tt0296915,Valentin,"('Comedy', 'Drama', 'Romance')",PG-13,ARGENTINA,SPANISH,7.7,3968,2003-02-06,,0.014048,0.275363
+tt0296933,You Got Nothin',"('Comedy',)",UNRATED,USA,ENGLISH,7.0,60,2002-06-01,,,
+tt0297037,Brown Sugar,"('Romance', 'Comedy', 'Drama', 'Music')",PG-13,USA,ENGLISH,6.5,7763,2002-10-11,8.0,10.738882,27.362712
+tt0297162,Half Past Dead,"('Action', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,4.6,13362,2002-11-15,13.0,7.820536,15.361537
+tt0297181,I Spy,"('Action', 'Adventure', 'Comedy', 'Thriller')",PG-13,USA,ENGLISH,5.4,45291,2002-11-01,70.0,12.752803,33.561137
+tt0297884,Far from Heaven,"('Drama',)",PG-13,USA,ENGLISH,7.4,40195,2003-01-10,13.5,0.211279,15.854988
+tt0298071,Mr. Smith Gets a Hustler,"('Crime', 'Drama', 'Romance')",R,USA,ENGLISH,4.8,199,2003-07-01,0.2,0.001583,0.001583
+tt0298130,The Ring,"('Horror', 'Mystery')",PG-13,USA,ENGLISH,7.1,289251,2002-10-18,48.0,15.015393,129.128133
+tt0298203,8 Mile,"('Drama', 'Music')",R,USA,ENGLISH,7.1,219143,2002-11-08,41.0,51.240555,116.724075
+tt0298228,Whale Rider,"('Drama', 'Family')",PG-13,NEW ZEALAND,ENGLISH,7.6,36944,2003-08-29,,0.137418,20.779666
+tt0298296,Derailed,"('Action', 'Thriller')",R,ARUBA,ENGLISH,3.9,6691,2002-11-05,18.0,,
+tt0298388,Jonah: A VeggieTales Movie,"('Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Musical')",UNRATED,USA,ENGLISH,6.6,3466,2002-10-04,14.0,6.201345,25.581229
+tt0298408,Laurel Canyon,"('Drama',)",R,USA,ENGLISH,6.4,14942,2003-03-28,,0.149099,3.663356
+tt0298504,Undertaking Betty,"('Comedy', 'Romance')",PG-13,UK,ENGLISH,6.6,4482,2003-06-12,8.0,,
+tt0298516,Reckoning,"('Drama', 'Western')",R,USA,ENGLISH,4.9,45,,,,
+tt0298578,Touching Wild Horses,"('Drama',)",PG ,CANADA,ENGLISH,6.7,397,2002-10-18,,,
+tt0298694,Saint Monica,"('Drama', 'Family')",PG ,CANADA,ENGLISH,6.0,112,2002-09-07,,,
+tt0298744,Auto Focus,"('Biography', 'Crime', 'Drama')",R,USA,ENGLISH,6.6,12213,2002-11-01,7.0,0.123761,2.062066
+tt0298798,Cherish,"('Comedy', 'Drama', 'Thriller', 'Mystery')",R,USA,ENGLISH,6.7,2514,2003-01-17,1.5,0.036618,0.179751
+tt0298845,In America,"('Drama',)",PG-13,IRELAND,ENGLISH,7.8,38543,2004-02-06,,0.205229,15.539266
+tt0298856,Evelyn,"('Drama',)",PG ,GERMANY,ENGLISH,7.0,5850,2002-12-25,10.0,0.065344,1.483975
+tt0299117,Roger Dodger,"('Comedy', 'Drama')",R,USA,ENGLISH,7.0,16122,2002-11-22,,0.047431,1.266828
+tt0299203,Sex and the Teenage Mind,"('Comedy',)",R,USA,ENGLISH,4.2,595,,,,
+tt0299422,100 Mile Rule,"('Comedy',)",R,USA,ENGLISH,5.7,672,2002-11-07,1.1,,
+tt0299512,Bedford Springs,"('Comedy',)",UNRATED,USA,ENGLISH,7.0,29,,,,
+tt0299556,Bloody Mallory,"('Action', 'Comedy', 'Horror')",R,FRANCE,FRENCH,4.5,1034,2002-07-17,,,
+tt0299658,Chicago,"('Comedy', 'Crime', 'Musical')",PG-13,USA,ENGLISH,7.2,195154,2003-01-24,45.0,2.074929,170.687518
+tt0299854,The Escapist,"('Action', 'Crime', 'Drama', 'Thriller')",R,UK,ENGLISH,6.2,1526,2006-01-17,,,
+tt0299863,Fabled,"('Drama', 'Mystery', 'Thriller', 'Horror')",R,USA,ENGLISH,5.6,205,2002-08-17,,0.009642,0.025918
+tt0299905,The Frightening,"('Fantasy', 'Horror', 'Mystery', 'Thriller')",R,USA,ENGLISH,2.8,541,2002-04-02,,,
+tt0299977,Ying xiong,"('Action', 'Adventure', 'History')",PG-13,CHINA,MANDARIN,7.9,162528,2004-08-27,31.0,18.004319,53.710019
+tt0300140,Lilya 4-Ever,"('Crime', 'Drama')",R,SWEDEN,RUSSIAN,7.9,38951,2002-08-23,,0.033731,0.181655
+tt0300214,Morvern Callar,"('Drama',)",R,UK,ENGLISH,6.8,8060,2002-11-01,,0.013836,0.267194
+tt0300532,Blue Crush,"('Drama', 'Romance', 'Sport')",PG-13,USA,ENGLISH,5.7,28033,2002-08-16,30.0,14.169455,40.390647
+tt0300620,Xi yang tian shi,"('Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Romance', 'Sci-Fi', 'Thriller')",R,HONG KONG,MANDARIN,6.7,6826,2002-09-12,,0.031702,0.076584
+tt0301199,Dirty Pretty Things,"('Crime', 'Drama', 'Thriller')",R,UK,ENGLISH,7.4,37878,2003-09-05,10.0,0.100512,8.11136
+tt0301390,The Heart of Me,"('Drama', 'Romance')",R,UK,ENGLISH,6.7,2116,2003-05-02,7.0,0.021956,0.196067
+tt0301414,Man on the Train,"('Crime', 'Drama', 'Thriller')",R,FRANCE,FRENCH,7.3,6485,2003-06-20,,0.041138,2.54132
+tt0301524,The Other Side of the Bed,"('Comedy', 'Drama', 'Musical', 'Romance')",R,SPAIN,SPANISH,6.6,4922,2002-07-05,,,
+tt0301684,Once Upon a Time in the Midlands,"('Comedy', 'Drama', 'Romance')",R,UK,ENGLISH,6.2,3813,2002-09-06,,0.029527,0.17183
+tt0301848,Slash,"('Comedy', 'Horror', 'Thriller')",R,SOUTH AFRICA,ENGLISH,4.2,1382,2003-03-14,,,
+tt0301893,State Property,"('Drama', 'Crime', 'Action')",R,USA,ENGLISH,4.4,1755,2002-01-18,,0.555754,2.099719
+tt0301924,Ten Tiny Love Stories,"('Drama',)",R,USA,ENGLISH,6.4,430,2002-08-10,,,
+tt0302017,Warrior Angels,"('Action', 'Adventure')",R,USA,ENGLISH,4.2,295,2010-05-04,0.1,,
+tt0302531,Endangered Species,"('Horror', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,4.3,454,2004-11-16,,,
+tt0302585,Fubar,"('Comedy', 'Music')",R,CANADA,ENGLISH,7.1,3769,2004-05-21,,,
+tt0302640,The Hot Chick,"('Comedy', 'Fantasy')",PG-13,USA,ENGLISH,5.5,82534,2002-12-13,,7.401146,35.081594
+tt0302674,Gerry,"('Adventure', 'Drama', 'Mystery')",R,USA,ENGLISH,6.2,16471,2002-09-20,3.5,0.026285,0.236266
+tt0302889,On_Line,"('Drama',)",UNRATED,USA,ENGLISH,5.7,494,,,0.025658,0.165974
+tt0303010,Savage Messiah,"('Drama', 'Thriller')",R,CANADA,FRENCH,6.5,904,2002-04-26,,,
+tt0303017,Scorcher,"('Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,3.7,1279,2002-10-04,,,
+tt0303361,May,"('Drama', 'Horror')",R,USA,ENGLISH,6.7,29988,2003-04-11,0.5,0.00907,0.150277
+tt0303714,Barbershop,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.3,27111,2002-09-13,12.0,20.627433,75.782105
+tt0303785,Bollywood/Hollywood,"('Romance', 'Comedy', 'Drama', 'Musical')",PG-13,CANADA,ENGLISH,6.0,2371,2002-10-25,,0.018014,1.491083
+tt0303816,Cabin Fever,"('Horror',)",R,USA,ENGLISH,5.6,68564,2003-09-12,1.5,8.633585,21.158188
+tt0303933,Drumline,"('Comedy', 'Drama', 'Romance', 'Music')",PG-13,USA,ENGLISH,5.7,31114,2002-12-13,20.0,12.604705,56.398162
+tt0304120,H,"('Drama', 'Mystery', 'Thriller')",R,SOUTH KOREA,KOREAN,6.0,1616,2002-12-27,,,
+tt0304391,The Code,"('Action', 'Crime', 'Thriller', 'Drama')",R,FRANCE,FRENCH,5.6,875,2002-10-23,,0.008704,0.012842
+tt0304574,Posers,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,CANADA,ENGLISH,4.1,292,2002-09-22,,,
+tt0304669,The Santa Clause 2,"('Comedy', 'Family', 'Fantasy')",UNRATED,USA,ENGLISH,5.6,41810,2002-11-01,65.0,29.008696,139.236327
+tt0304678,Sex Is Comedy,"('Comedy', 'Drama', 'Romance')",R,FRANCE,FRENCH,5.7,2551,2002-06-05,,0.00337,0.040274
+tt0304857,Two Men Went to War,"('Comedy', 'War', 'Drama')",PG ,UK,ENGLISH,6.7,806,2002-11-01,,0.010672,0.151133
+tt0305396,The Crocodile Hunter: Collision Course,"('Action', 'Adventure', 'Comedy', 'Family')",PG ,AUSTRALIA,ENGLISH,5.4,6019,2002-07-12,13.0,9.537123,28.399192
+tt0305973,Sonny,"('Crime', 'Drama')",R,USA,ENGLISH,5.7,3776,2003-03-21,,0.017639,0.017639
+tt0306069,The Singles Ward,"('Comedy', 'Drama', 'Romance')",PG ,USA,ENGLISH,6.3,1218,2002-01-30,0.5,0.046649,1.250798
+tt0306774,Engine Trouble,"('Horror', 'Thriller')",R,BELGIUM,ENGLISH,2.3,347,,,,
+tt0307050,Karlsson på taket,"('Family', 'Animation')",UNRATED,SWEDEN,SWEDISH,5.0,322,2018-01-27,,,
+tt0307479,Solaris,"('Drama', 'Mystery', 'Romance', 'Sci-Fi')",PG-13,USA,ENGLISH,6.2,73429,2002-11-27,47.0,6.752722,14.970038
+tt0307507,The Stickup,"('Action', 'Crime', 'Mystery', 'Romance', 'Thriller')",R,CANADA,ENGLISH,6.5,1397,,7.0,,
+tt0307639,Virginia's Run,"('Drama', 'Family')",PG ,USA,ENGLISH,6.4,666,2002-10-18,,,
+tt0307681,Xiaohai bu ben,"('Drama', 'Comedy')",UNRATED,SINGAPORE,ENGLISH,7.2,994,2002-02-09,,,
+tt0307901,25th Hour,"('Drama',)",R,USA,ENGLISH,7.7,160299,2003-01-10,5.0,0.108865,13.060843
+tt0308208,Ballistic: Ecks vs. Sever,"('Action', 'Crime', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,3.6,17813,2002-09-20,35.0,7.010474,14.294842
+tt0308379,Dark Water,"('Drama', 'Horror', 'Mystery', 'Thriller')",PG-13,JAPAN,JAPANESE,6.7,27051,2002-01-19,,,
+tt0308411,Interview with the Assassin,"('Drama',)",R,USA,ENGLISH,6.6,1710,2002-05-09,0.75,0.018716,0.047329
+tt0308476,Kukushka,"('Drama', 'War', 'Comedy')",PG-13,RUSSIA,SAAMI,7.9,6772,2002-09-12,4.0,0.016473,0.243187
+tt0308496,Leo,"('Drama',)",R,UK,ENGLISH,6.6,914,2004-03-12,,,
+tt0308506,Like Mike,"('Comedy', 'Family', 'Fantasy', 'Sport')",PG ,USA,ENGLISH,5.2,17036,2002-07-03,30.0,12.17942,51.432423
+tt0308671,Tycoon: A New Russian,"('Crime', 'Drama')",UNRATED,RUSSIA,RUSSIAN,6.8,1736,2002-08-02,5.0,0.013342,0.121016
+tt0308772,Pure,"('Drama',)",UNRATED,UK,ENGLISH,7.0,2416,2003-05-02,,0.005154,0.102471
+tt0309047,Voyna,"('Action', 'Drama', 'War')",UNRATED,RUSSIA,RUSSIAN,7.7,3222,2002-03-14,,,
+tt0309377,Blood Work,"('Action', 'Crime', 'Drama', 'Mystery', 'Thriller')",R,USA,ENGLISH,6.4,38291,2002-08-09,50.0,7.312413,26.199517
+tt0309395,The Brooklyn Boys,"('Crime', 'Drama')",R,USA,ENGLISH,5.5,29,2002-04-02,,,
+tt0309452,The Circuit,"('Action', 'Drama', 'Sport')",R,CANADA,ENGLISH,3.8,275,2002-05-16,,,
+tt0309600,Food of Love,"('Drama', 'Music', 'Romance')",R,SPAIN,ENGLISH,5.7,1487,2002-02-08,,0.003692,0.003692
+tt0309622,The Gatekeeper,"('Drama',)",R,USA,ENGLISH,5.0,204,2002-03-01,,0.004027,0.309941
+tt0309813,Love Relations,,R,USA,ENGLISH,5.1,32,2002-02-06,,,
+tt0309912,Nicholas Nickleby,"('Adventure', 'Drama', 'Romance')",PG ,UK,ENGLISH,7.2,10553,2003-06-27,10.0,0.042864,1.587173
+tt0309986,Paper Soldiers,"('Action', 'Comedy', 'Crime')",R,USA,ENGLISH,5.6,1024,,,,
+tt0310154,In This World,"('Drama',)",R,UK,PUSHTO,7.4,3899,2003-03-28,,,
+tt0310298,Vampire Clan,"('Drama', 'Horror')",R,USA,ENGLISH,4.4,777,2002-07-13,,,
+tt0310702,Fizzy Bizness,"('Comedy',)",PG-13,USA,ENGLISH,7.6,63,2002-05-15,2.5,,
+tt0310775,Sympathy for Mr. Vengeance,"('Action', 'Drama', 'Thriller')",R,SOUTH KOREA,KOREAN,7.7,54081,2002-03-29,4.0,0.009827,0.045289
+tt0311231,The Greenskeeper,"('Comedy', 'Horror', 'Thriller')",R,USA,ENGLISH,2.9,612,,0.08,,
+tt0311519,The Man Without a Past,"('Comedy', 'Drama', 'Romance')",PG-13,FINLAND,FINNISH,7.7,19833,2002-03-01,,0.023281,0.921547
+tt0311591,Noro,"('Drama',)",UNRATED,ROMANIA,ROMANIAN,5.2,45,2002-02-15,0.5,,
+tt0311614,Out of Step,"('Drama',)",PG ,USA,ENGLISH,5.4,99,2002-02-15,,,
+tt0311866,Storm Watch,"('Action', 'Sci-Fi')",R,USA,ENGLISH,4.9,667,2002-05-01,,,
+tt0311941,Try Seventeen,"('Comedy', 'Drama')",R,CANADA,ENGLISH,6.1,5691,2003-04-01,,,
+tt0312281,"Tattoo, a Love Story","('Comedy', 'Drama', 'Romance')",R,USA,ENGLISH,6.8,461,2002-04-11,,,
+tt0312354,L'amore imperfetto,"('Drama',)",UNRATED,ITALY,ITALIAN,6.3,22,2002-07-05,,,
+tt0312510,The Burial Society,"('Thriller',)",R,CANADA,ENGLISH,5.9,183,2004-05-28,1.5,,
+tt0312841,Jibeuro,"('Drama',)",PG ,SOUTH KOREA,KOREAN,7.9,4461,2002-04-05,2.0,0.029737,0.444931
+tt0313196,El crimen del Padre Amaro,"('Drama', 'Romance')",R,MEXICO,SPANISH,6.8,11979,2002-12-13,1.8,0.49629,5.709616
+tt0313332,Burning Desires,"('Drama', 'Mystery', 'Thriller', 'Action')",UNRATED,USA,ENGLISH,5.0,29,2002-03-15,,,
+tt0313503,Punch,"('Drama',)",R,CANADA,ENGLISH,5.9,362,2003-02-07,,,
+tt0313670,Sweet Sixteen,"('Crime', 'Drama')",R,UK,ENGLISH,7.5,11883,2002-10-04,,0.026667,0.031538
+tt0313726,Trojan Warrior,"('Action', 'Comedy', 'Crime')",R,AUSTRALIA,ENGLISH,3.3,151,2002-08-08,,,
+tt0313737,Two Weeks Notice,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,6.1,95558,2002-12-20,60.0,14.328494,93.354851
+tt0314166,Hey Arnold! The Movie,"('Animation', 'Adventure', 'Comedy', 'Family')",PG ,USA,ENGLISH,5.9,5583,2002-06-28,3.0,5.706332,13.684949
+tt0314630,The Secret Lives of Dentists,"('Drama',)",R,USA,ENGLISH,6.5,3239,2003-08-29,,0.121769,3.707201
+tt0314871,Washington Heights,"('Drama', 'Romance')",R,USA,ENGLISH,5.5,351,2002-05-09,,0.002814,0.156021
+tt0315355,The Calling,"('Drama', 'Family')",PG ,USA,ENGLISH,8.0,8,2002-02-28,0.16,0.017,0.056
+tt0315543,Open Hearts,"('Drama', 'Romance')",R,DENMARK,DANISH,7.6,8783,2002-09-06,,0.014224,0.122308
+tt0316188,Raising Victor Vargas,"('Drama', 'Romance')",R,FRANCE,ENGLISH,7.1,4982,2003-05-02,0.8,0.033166,2.073984
+tt0316352,One Hell of a Christmas,"('Action', 'Comedy', 'Crime', 'Drama', 'Horror', 'Mystery')",R,DENMARK,ENGLISH,3.3,266,2002-12-10,0.4,,
+tt0316653,Spider's Web,"('Crime', 'Romance', 'Thriller')",R,USA,ENGLISH,4.3,611,2008-07-16,1.0,,
+tt0316829,The Sea Is Watching,"('Romance', 'Drama')",R,JAPAN,JAPANESE,7.1,1425,2002-07-27,,,
+tt0316882,Warriors of Virtue: The Return to Tao,"('Action', 'Adventure', 'Fantasy')",PG ,AUSTRALIA,ENGLISH,3.9,245,2002-10-22,,,
+tt0317052,AKA,"('Drama', 'Romance')",R,UK,ENGLISH,5.6,1126,2002-10-11,,,
+tt0317248,City of God,"('Crime', 'Drama')",R,BRAZIL,PORTUGUESE,8.6,619468,2004-02-13,3.3,0.114442,7.563397
+tt0317521,For da Love of Money,"('Comedy',)",R,USA,ENGLISH,4.6,274,2002-04-12,,0.014,0.014
+tt0317842,Knafayim Shvurot,"('Drama',)",R,ISRAEL,HEBREW,7.5,2259,2002-10-24,,0.024862,0.405858
+tt0317931,Las Vegas Warrior,"('Action',)",R,CANADA,ENGLISH,4.1,57,2002-12-16,,,
+tt0317980,The Hungry Woman,,R,USA,SPANISH,7.9,10,2002-03-18,,,
+tt0318010,Rachel's Attic,"('Drama', 'Action', 'Horror')",R,USA,ENGLISH,3.5,120,2002-07-16,0.083,,
+tt0318292,Amar te duele,"('Drama', 'Romance')",R,MEXICO,SPANISH,6.5,2215,2006-12-26,5.0,,
+tt0318411,The Magdalene Sisters,"('Drama',)",R,IRELAND,ENGLISH,7.8,24216,2003-08-29,,0.084553,4.890878
+tt0318819,WXIII: Patlabor the Movie 3,"('Sci-Fi', 'Animation', 'Action', 'Crime')",R,JAPAN,JAPANESE,6.7,896,2002-03-30,,,
+tt0319470,The Guys,"('Drama',)",PG ,USA,ENGLISH,6.5,1172,2003-11-20,,0.016068,0.016068
+tt0319769,Los lunes al sol,"('Comedy', 'Drama')",R,SPAIN,SPANISH,7.7,11543,2002-09-27,4.0,0.022401,0.146402
+tt0319792,Making a Killing,"('Thriller',)",R,UK,ENGLISH,6.0,61,2002-03-19,,,
+tt0320242,Partners in Action,"('Action', 'Crime', 'Drama')",R,CANADA,ENGLISH,4.4,122,2002-10-31,3.5,,
+tt0320483,Snake Island,"('Action', 'Horror', 'Sci-Fi', 'Thriller')",R,SOUTH AFRICA,ENGLISH,3.5,618,,,,
+tt0320713,Vatos,"('Action', 'Crime')",R,USA,ENGLISH,4.4,65,2002-12-12,0.1,,
+tt0320751,Warrior,"('Action', 'Adventure', 'Fantasy', 'Romance')",R,USA,ENGLISH,4.1,138,2017-12-01,25.0,,
+tt0321505,Speck,"('Crime', 'Horror', 'Mystery', 'Thriller')",R,USA,ENGLISH,3.5,212,,,,
+tt0322241,Fallen Angels,"('Horror', 'Thriller')",R,UK,ENGLISH,4.0,260,2002-08-30,,,
+tt0322674,De tweeling,"('Drama', 'Romance', 'War')",R,NETHERLANDS,DUTCH,7.5,6039,2002-12-12,,0.001207,0.001207
+tt0322824,Japón,"('Drama',)",R,MEXICO,SPANISH,6.9,2736,2003-04-04,0.25005,,
+tt0323248,A Midsummer Night's Rave,"('Drama',)",R,USA,ENGLISH,5.1,465,2002-11-01,1.5,,
+tt0323261,Minimal Knowledge,,R,USA,ENGLISH,5.0,101,2002-01-21,0.25,,
+tt0323415,Nishad,,UNRATED,INDIA,HINDI,5.7,6,,,,
+tt0323630,Pon,"('Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller')",R,SOUTH KOREA,KOREAN,6.2,4567,2002-07-26,,,
+tt0323874,Sam & Janet,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,4.3,203,2002-05-29,,,
+tt0324242,3 Extremes II,"('Horror', 'Mystery')",R,HONG KONG,KOREAN,6.2,3082,2002-07-12,,,
+tt0324572,Winnie the Pooh: A Very Merry Pooh Year,"('Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical')",UNRATED,USA,ENGLISH,6.8,1459,2002-11-11,,,
+tt0325214,Curse of the Forty-Niner,"('Horror',)",R,USA,ENGLISH,3.5,638,,,,
+tt0325534,Hayanbang,"('Horror', 'Mystery')",R,SOUTH KOREA,KOREAN,4.7,393,2002-11-15,,,
+tt0325655,Gin gwai,"('Drama', 'Horror', 'Thriller')",R,HONG KONG,CANTONESE,6.7,26435,2002-05-09,,0.039058,0.503714
+tt0326194,Speakeasy,"('Drama',)",PG-13,USA,ENGLISH,4.4,162,,,,
+tt0326441,Yeseuteodei,"('Action', 'Crime', 'Sci-Fi')",UNRATED,SOUTH KOREA,KOREAN,5.0,691,2002-06-13,5.0,,
+tt0326806,Civil Brand,"('Drama', 'Thriller', 'Crime')",R,USA,ENGLISH,5.3,620,2002-05-26,0.5,0.12358,0.243347
+tt0326992,Joheun saram isseumyeon sogae shikeojwo,"('Comedy', 'Romance')",UNRATED,SOUTH KOREA,KOREAN,5.7,184,2002-08-02,,,
+tt0327408,Alibaba,"('Adventure', 'Animation')",PG ,INDIA,ENGLISH,5.1,52,2002-07-26,,,
+tt0327469,Barrio Wars,"('Action', 'Crime', 'Drama', 'Thriller')",R,USA,ENGLISH,4.9,52,2002-10-15,,,
+tt0327940,In Your Face,"('Action',)",PG-13,USA,ENGLISH,5.7,98,2002-10-12,,,
+tt0327947,In the Wrong Hands,,UNRATED,USA,ENGLISH,8.1,24,2002-01-04,0.25,,
+tt0329297,American Girl,"('Comedy', 'Crime', 'Drama')",R,USA,ENGLISH,6.1,1318,2002-10-16,,,
+tt0329485,The Butterfly,"('Adventure', 'Comedy', 'Drama')",UNRATED,FRANCE,FRENCH,7.2,2649,2002-12-18,,0.001906,0.038438
+tt0329767,Wilbur Wants to Kill Himself,"('Comedy', 'Drama', 'Romance')",R,DENMARK,ENGLISH,6.9,7260,2002-11-08,,0.013747,0.233053
+tt0330136,Charly,"('Comedy', 'Drama', 'Romance')",PG ,USA,ENGLISH,6.8,796,2002-09-20,0.95,0.0569,0.814666
+tt0330187,Cutting Horse,,R,USA,ENGLISH,4.1,17,2002-07-14,0.08,,
+tt0330333,Global Effect,"('Action', 'Drama', 'Thriller')",R,USA,ENGLISH,3.8,295,2002-12-12,,,
+tt0330597,Makin' Baby,"('Comedy', 'Romance')",R,USA,ENGLISH,4.3,47,,,,
+tt0330804,Random Acts of Violence,"('Thriller',)",R,USA,LATIN,4.1,47,2002-04-23,,,
+tt0330904,Rokugatsu no hebi,"('Drama', 'Mystery', 'Thriller')",R,JAPAN,JAPANESE,7.0,3521,2003-06-13,,,
+tt0331525,The Intended,"('Drama', 'Thriller')",R,UK,ENGLISH,6.0,293,2003-07-18,3.8,0.002209,0.007522
+tt0331621,Run,"('Action', 'Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,7.1,725,,0.01,,
+tt0331834,Alive,"('Action', 'Drama', 'Horror', 'Sci-Fi', 'Thriller')",R,JAPAN,JAPANESE,5.8,1286,2004-10-26,,,
+tt0332079,Ghetto Dawg,"('Drama',)",R,USA,LATIN,5.4,97,2002-09-03,,,
+tt0332605,House of Fools,"('Drama', 'Music', 'Romance', 'War')",R,RUSSIA,CHECHEN,7.2,2493,2002-12-06,2.5,0.007246,0.057722
+tt0332639,He ni zai yi qi,"('Drama', 'Music')",PG ,CHINA,MANDARIN,7.4,4066,2003-06-13,,0.069209,0.599227
+tt0332743,Salomé,"('Musical',)",UNRATED,SPAIN,SPANISH,7.2,372,2002-11-22,,,
+tt0332831,Springtime in a Small Town,"('Drama', 'Romance')",PG ,CHINA,MANDARIN,7.0,1195,2003-12-11,,0.007506,0.042258
+tt0334754,Yossi & Jagger,"('Drama', 'Romance', 'War')",R,ISRAEL,HEBREW,7.2,6236,2002-08-01,,,
+tt0335126,Grand Champion,"('Comedy', 'Family')",UNRATED,USA,ENGLISH,4.4,630,,,0.08818,0.1632
+tt0335591,Mary and Joe,,UNRATED,USA,LATIN,4.9,28,2002-10-01,,,
+tt0336910,9 Dead Gay Guys,"('Comedy', 'Crime')",R,UK,ENGLISH,6.3,1388,2003-09-19,,,
+tt0337585,Bomb the System,"('Action', 'Drama')",R,USA,ENGLISH,6.6,957,,0.5,0.009176,0.014865
+tt0337632,Handcart,"('History',)",PG ,USA,ENGLISH,4.7,54,2002-10-11,,0.002711,0.098666
+tt0337797,19 Months,"('Comedy', 'Romance')",R,CANADA,ENGLISH,3.6,161,2004-05-21,,,
+tt0337972,Defiance,"('Western',)",R,USA,ENGLISH,4.1,99,,,,
+tt0338249,Merci Docteur Rey,"('Comedy',)",R,FRANCE,ENGLISH,6.6,436,2003-12-03,,0.000512,0.01959
+tt0338564,Infernal Affairs,"('Crime', 'Drama', 'Mystery', 'Thriller')",R,HONG KONG,CANTONESE,8.1,109087,2002-12-12,6.428966,0.02568,0.169659
+tt0338791,The Black Magic,"('Horror', 'Thriller')",R,USA,ENGLISH,4.1,99,2002-05-05,,,
+tt0339185,Hustlas,,UNRATED,USA,ENGLISH,6.4,43,2002-12-17,1.0,,
+tt0339579,Returner,"('Action', 'Adventure', 'Sci-Fi')",R,JAPAN,JAPANESE,6.5,10714,2002-08-31,,0.029214,0.069886
+tt0339862,La vida de nadie,"('Drama', 'Mystery', 'Thriller')",UNRATED,SPAIN,SPANISH,7.1,805,2003-02-21,,,
+tt0339918,Wolves of Wall Street,"('Action', 'Horror', 'Mystery', 'Thriller')",R,USA,ENGLISH,2.6,563,2002-12-31,,,
+tt0340068,De la mano de un ángel,"('Fantasy', 'Thriller')",UNRATED,PUERTO RICO,LATIN,6.3,14,,,,
+tt0340268,New World,"('Action', 'Drama', 'Fantasy', 'Sci-Fi')",R,USA,ENGLISH,5.5,31,2002-05-12,,,
+tt0341384,Hae anseon,"('Action', 'Drama', 'War')",R,SOUTH KOREA,KOREAN,6.5,3005,2002-11-22,,,
+tt0341495,Naked Weapon,"('Action', 'Crime', 'Drama', 'Romance', 'Thriller')",R,HONG KONG,ENGLISH,5.6,6463,2002-11-15,,,
+tt0341535,Poom-haeong-je-ro,"('Comedy',)",R,SOUTH KOREA,KOREAN,6.6,394,2002-11-14,,,
+tt0342778,Xun qiang,"('Crime', 'Drama', 'Mystery')",PG-13,CHINA,MANDARIN,6.8,1023,2002-10-31,,,
+tt0342835,Nightstalker,"('Crime', 'Horror', 'Thriller')",R,USA,ENGLISH,3.4,1040,2002-11-10,,,
+tt0344942,Bloody Crisis,"('Action', 'Drama', 'Horror', 'Thriller')",R,USA,ENGLISH,5.2,58,,,,
+tt0347618,Neko no ongaeshi,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance')",UNRATED,JAPAN,JAPANESE,7.3,37478,2002-07-19,,,
+tt0347791,Pokémon Heroes,"('Animation', 'Action', 'Adventure', 'Family', 'Fantasy', 'Sci-Fi', 'Thriller')",UNRATED,JAPAN,JAPANESE,6.2,4335,2003-05-16,,0.260372,0.746381
+tt0348857,Only in Hollywood,"('Drama',)",PG ,USA,ENGLISH,8.7,6,2002-06-07,,,
+tt0349193,Bending All the Rules,"('Drama',)",R,USA,ENGLISH,2.4,609,2016-03-30,,,
+tt0349302,D' Uragons,"('Action', 'Comedy')",UNRATED,PHILIPPINES,FILIPINO,6.0,7,2002-08-07,,,
+tt0350003,Punto y aparte,"('Drama',)",R,MEXICO,SPANISH,4.6,65,2002-10-04,,,
+tt0350050,Revenge of the Unhappy Campers,"('Comedy', 'Horror', 'Thriller')",UNRATED,USA,ENGLISH,7.0,73,2003-03-18,0.175,0.038525,
+tt0350051,R.I.C.C.O.,"('Action', 'Thriller')",R,SWITZERLAND,ENGLISH,7.3,35,2002-10-22,,,
+tt0350501,Adam & Eve,"('Drama', 'Romance')",R,CANADA,ENGLISH,4.6,63,2003-04-10,,,
+tt0351506,O'key,"('Comedy', 'Crime')",UNRATED,RUSSIA,RUSSIAN,4.0,11,,,,
+tt0352561,Marathon,"('Drama',)",UNRATED,USA,ENGLISH,6.0,144,2003-04-18,,,
+tt0352600,Mulletville,"('Comedy',)",R,USA,ENGLISH,5.9,70,2002-06-11,,,
+tt0354216,The Wisher,"('Horror', 'Thriller')",R,CANADA,ENGLISH,4.3,1476,2002-12-01,,,
+tt0354243,Zhou Yu de huo che,"('Drama', 'Romance')",PG-13,CHINA,MANDARIN,6.6,1389,2002-08-01,,0.022933,0.141666
+tt0355692,Little Dreams,"('Adventure', 'Animation', 'Family')",UNRATED,USA,ENGLISH,,0,2002-03-30,,,
+tt0359587,Leather and Iron,"('Action', 'Adventure', 'Crime', 'Drama', 'Thriller')",UNRATED,USA,ENGLISH,1.3,536,,0.65,,
+tt0359938,Savage Roses,"('Drama', 'Crime', 'Romance')",R,USA,ENGLISH,6.3,39,2002-08-05,0.015,,
+tt0364385,Ju-on: The Grudge,"('Horror',)",R,JAPAN,JAPANESE,6.7,36036,2003-01-25,3.5,0.017032,0.325661
+tt0365262,GhostWatcher,"('Horror', 'Mystery', 'Sci-Fi', 'Thriller')",R,USA,ENGLISH,4.2,579,2002-10-19,,,
+tt0367995,The M.O. Of M.I.,"('Drama', 'Thriller')",R,USA,ENGLISH,4.9,164,2002-06-13,,,
+tt0372370,Lana's Rain,"('Drama',)",R,USA,ENGLISH,6.5,166,2004-02-27,0.215,,
+tt0379038,Wounded Hearts,"('Drama', 'Family')",UNRATED,USA,ENGLISH,5.6,29,,0.05,,
+tt0381181,Feedback,"('Sci-Fi', 'Thriller')",R,USA,ENGLISH,4.9,250,2002-01-15,,,
+tt0381469,On the Edge,"('Action',)",R,USA,ENGLISH,4.5,126,2002-10-01,,,
+tt0391044,Dark Heaven,"('Fantasy', 'Horror', 'Sci-Fi')",R,USA,ENGLISH,2.9,209,2004-09-10,0.08,,
+tt0395631,Lamb to the Slaughter,"('Mystery',)",UNRATED,USA,ENGLISH,7.5,15,2002-09-14,,,
+tt0403328,The Murder,"('Thriller',)",UNRATED,USA,ENGLISH,8.1,8,2002-11-17,0.1,,
+tt0403890,Boo! The Movie,"('Drama', 'Horror')",UNRATED,USA,ENGLISH,4.8,29,2002-10-27,0.025,,
+tt0413051,No Longer My Twin,"('Mystery',)",UNRATED,USA,ENGLISH,1.5,44,2002-02-10,0.015,,
+tt0442757,Correct Change,"('Crime',)",UNRATED,USA,ENGLISH,9.3,6,2002-04-27,0.2,,
+tt0453313,Wo de mei li xiang chou,"('Drama', 'War')",UNRATED,CHINA,ENGLISH,4.9,20,2002-12-27,,,
+tt0470160,Soliloquy,"('Drama',)",UNRATED,USA,ENGLISH,,0,2002-09-12,0.102,,
+tt1826949,Wheelies,"('Sport',)",UNRATED,USA,ENGLISH,,0,2002-03-01,0.25,,
+tt6447558,Les Etoiles filantes,,UNRATED,ALBANIA,LATIN,,0,2002-10-15,,,

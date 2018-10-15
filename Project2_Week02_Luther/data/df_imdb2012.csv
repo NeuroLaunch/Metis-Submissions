@@ -1,0 +1,681 @@
+Code,Title,Genre,MPAA,Country,Language,Rating_User,Rating_Count,Release_Date,Budget,Sales_Opening,Sales_Gross
+tt0249516,Foodfight!,"('Animation', 'Action', 'Comedy', 'Family', 'Fantasy', 'Mystery', 'Sci-Fi')",,USA,ENGLISH,1.8,7552,2013-02-12,,,
+tt0285252,Life's a Beach,"('Comedy',)",UNRATED,USA,ENGLISH,3.9,215,2012-05-22,4.0,,
+tt0337692,On the Road,"('Adventure', 'Drama', 'Romance')",,FRANCE,ENGLISH,6.1,37105,2012-05-23,25.0,0.03955,0.717753
+tt0383010,The Three Stooges,"('Comedy', 'Family')",,USA,ENGLISH,5.1,27784,2012-04-13,,17.010125,44.338224
+tt0401729,John Carter,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,6.6,233053,2012-03-09,250.0,30.180188,73.0781
+tt0404978,Gambit,"('Comedy', 'Crime')",PG-13,USA,ENGLISH,5.7,21509,2012-11-21,,,
+tt0431021,The Possession,"('Horror', 'Thriller')",PG-13,USA,ENGLISH,5.9,52438,2012-08-31,14.0,17.73248,49.130154
+tt0443272,Lincoln,"('Biography', 'Drama', 'History', 'War')",PG-13,USA,ENGLISH,7.4,222596,2012-11-16,65.0,0.944308,182.207973
+tt0454876,Life of Pi,"('Adventure', 'Drama', 'Fantasy')",,USA,ENGLISH,7.9,513488,2012-11-21,120.0,22.451514,124.987023
+tt0455323,Being Flynn,"('Drama',)",,USA,ENGLISH,6.4,15487,2012-04-19,,0.04399,0.526322
+tt0485985,Red Tails,"('Action', 'Adventure', 'Drama', 'History', 'War')",PG-13,USA,ENGLISH,5.9,31142,2012-01-20,58.0,18.782154,49.876377
+tt0495024,Bad Blood,"('Horror', 'Mystery', 'Romance', 'Thriller')",,USA,ENGLISH,5.6,73,2012-10-26,0.9,0.001872,0.003731
+tt0763831,A Thousand Words,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.9,35091,2012-03-09,40.0,6.17628,18.438149
+tt0787442,The Attack,"('Drama', 'Mystery')",,LEBANON,ARABIC,7.1,3597,2013-05-29,,0.026352,1.71471
+tt0790724,Jack Reacher,"('Action', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,7.0,274088,2012-12-21,60.0,15.210156,80.070736
+tt0811137,The Do-Deca-Pentathlon,"('Comedy',)",,USA,ENGLISH,5.9,1597,2015-10-31,,0.01,0.01
+tt0829176,Gallowwalkers,"('Action', 'Horror', 'Thriller', 'Western')",,USA,ENGLISH,3.6,6597,2014-03-15,17.0,,
+tt0835418,The Babymakers,"('Comedy',)",,USA,ENGLISH,5.0,7995,2012-08-24,,0.005215,0.005215
+tt0837562,Hotel Transylvania,"('Animation', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,7.1,195479,2012-09-28,85.0,42.522194,148.313048
+tt0848228,The Avengers,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,8.1,1127675,2012-05-04,220.0,207.438708,623.35791
+tt0850677,Jack & Diane,"('Drama', 'Horror', 'Romance')",,USA,ENGLISH,4.5,2484,2012-04-20,,0.000294,0.001041
+tt0857190,The Sweeney,"('Action', 'Crime', 'Drama')",,UK,ENGLISH,6.1,17816,2013-03-01,,0.020321,0.026345
+tt0903624,The Hobbit: An Unexpected Journey,"('Adventure', 'Family', 'Fantasy')",PG-13,USA,ENGLISH,7.9,702819,2012-12-14,180.0,84.617303,303.003568
+tt0926170,White Men Can't Dance,"('Drama', 'Family')",,USA,ENGLISH,4.2,44,2012-01-12,,,
+tt0938305,Freaky Deaky,"('Comedy', 'Crime', 'Thriller')",,USA,ENGLISH,6.1,5995,2012-04-22,6.0,,
+tt0938330,Silent Hill: Revelation,"('Horror',)",,CANADA,ENGLISH,5.0,55430,2012-10-26,20.0,8.023036,17.529157
+tt0948470,The Amazing Spider-Man,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,7.0,508580,2012-07-03,230.0,62.004688,262.030663
+tt0975645,Hitchcock,"('Biography', 'Drama')",PG-13,USA,ENGLISH,6.8,66731,2012-12-14,15.7,0.287715,6.008677
+tt0980999,Four,"('Drama', 'Romance')",,USA,ENGLISH,5.8,391,2013-09-13,0.2,,
+tt0983250,You're Nobody 'til Somebody Kills You,"('Horror', 'Thriller')",,USA,ENGLISH,3.1,177,2012-07-10,1.0,,
+tt0995845,The Courier,"('Action', 'Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,4.5,4162,2012-05-17,15.5,,
+tt1024648,Argo,"('Biography', 'Drama', 'Thriller')",,USA,ENGLISH,7.7,518808,2012-10-12,44.5,19.458109,136.025503
+tt1034314,Iron Sky,"('Action', 'Comedy', 'Sci-Fi')",,FINLAND,ENGLISH,5.9,85474,2012-04-04,,,
+tt1045658,Silver Linings Playbook,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.7,602649,2012-12-25,21.0,0.443003,132.092958
+tt1047011,Unfinished Song,"('Comedy', 'Drama', 'Music', 'Romance')",PG-13,UK,ENGLISH,7.0,6531,2013-02-22,,0.025728,1.697294
+tt1047540,Parental Guidance,"('Comedy', 'Family')",,USA,ENGLISH,6.1,23236,2012-12-25,25.0,14.8,77.267296
+tt1059836,Transit,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,5.8,10065,2012-04-20,5.0,,
+tt1071809,The Amazing Adventures of the Living Corpse,"('Animation', 'Action', 'Fantasy', 'Horror')",,USA,ENGLISH,3.7,211,2012-07-14,,,
+tt1074638,Skyfall,"('Action', 'Adventure', 'Thriller')",PG-13,UK,ENGLISH,7.8,577492,2012-11-09,200.0,88.364714,304.360277
+tt1077368,Dark Shadows,"('Comedy', 'Fantasy', 'Horror')",PG-13,USA,ENGLISH,6.2,222561,2012-05-11,150.0,29.685274,79.727149
+tt1079360,The Girl from the Naked Eye,"('Action', 'Crime', 'Mystery', 'Romance', 'Thriller')",,USA,ENGLISH,4.9,1855,2012-06-15,1.1,0.010185,0.017401
+tt1109574,Between Us,"('Drama',)",,USA,ENGLISH,4.6,914,2012-10-05,,,
+tt1121986,Money Fight,"('Action', 'Drama')",PG-13,USA,ENGLISH,4.4,468,,5.0,,
+tt1127883,The Girl,"('Drama', 'Mystery', 'Thriller')",PG-13,USA,SPANISH,6.2,1109,2013-12-06,,,
+tt1132285,The Factory,"('Crime', 'Mystery', 'Thriller')",,FRANCE,ENGLISH,5.8,9820,2013-06-01,25.0,,
+tt1132449,Lay the Favorite,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,4.8,10185,2012-06-22,26.35,0.020998,0.020998
+tt1142977,Frankenweenie,"('Animation', 'Comedy', 'Family', 'Horror', 'Sci-Fi')",,USA,ENGLISH,7.0,85848,2012-10-05,39.0,11.412213,35.291068
+tt1159922,Cheerful Weather for the Wedding,"('Comedy', 'Drama', 'Romance')",,UK,ENGLISH,5.6,2007,2012-08-16,,0.000727,0.001949
+tt1164982,The Message,"('Thriller',)",UNRATED,USA,ENGLISH,7.0,34,2012-04-26,,,
+tt1172587,Delhi Safari,"('Animation', 'Comedy', 'Drama')",,INDIA,HINDI,5.7,1419,2012-12-07,15.0,,
+tt1185838,Easy Rider 2: The Ride Home,"('Adventure', 'Drama')",,USA,ENGLISH,2.9,279,,,,
+tt1194173,The Bourne Legacy,"('Action', 'Adventure', 'Thriller')",PG-13,USA,ENGLISH,6.7,261436,2012-08-10,125.0,38.142825,113.20387
+tt1195478,The Five-Year Engagement,"('Comedy', 'Romance')",,USA,ENGLISH,6.2,85968,2012-04-27,30.0,10.61006,28.835528
+tt1211890,Middle of Nowhere,"('Drama',)",,USA,ENGLISH,6.4,1362,2014-09-01,0.2,0.07803,0.07803
+tt1212450,Lawless,"('Crime', 'Drama')",,USA,ENGLISH,7.3,208312,2012-08-29,26.0,10.001566,37.400127
+tt1217209,Brave,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,7.1,322139,2012-06-22,185.0,66.323594,237.283207
+tt1217213,Secret of the Wings,"('Animation', 'Family', 'Fantasy')",UNRATED,USA,ENGLISH,7.2,9293,2012-08-16,35.0,,
+tt1226240,A Late Quartet,"('Drama', 'Music')",,USA,ENGLISH,7.1,12644,2012-11-23,,0.075279,1.561577
+tt1230215,Not Fade Away,"('Drama',)",,USA,ENGLISH,6.0,4016,2013-07-19,20.0,0.019182,0.607327
+tt1232200,That's My Boy,"('Comedy',)",,USA,ENGLISH,5.6,79950,2012-06-15,70.0,13.453714,36.931089
+tt1232829,21 Jump Street,"('Action', 'Comedy', 'Crime')",,USA,ENGLISH,7.2,463276,2012-03-16,42.0,36.302612,138.447667
+tt1234719,Red Dawn,"('Action', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.4,68143,2012-11-21,65.0,14.276668,44.806783
+tt1258972,The Man with the Iron Fists,"('Action',)",,USA,ENGLISH,5.4,57394,2012-11-02,15.0,7.91098,15.63409
+tt1259521,The Cabin in the Woods,"('Comedy', 'Horror')",,USA,ENGLISH,7.0,324136,2012-04-13,30.0,14.743614,42.073277
+tt1272886,Small Apartments,"('Comedy', 'Crime', 'Drama')",,USA,ENGLISH,6.1,6444,,2.0,,
+tt1276104,Looper,"('Action', 'Crime', 'Drama', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,7.4,484899,2012-09-28,30.0,20.801552,66.486205
+tt1276419,A Royal Affair,"('Biography', 'Drama', 'History', 'Romance')",,DENMARK,DANISH,7.6,39727,2012-03-29,,0.038212,1.546761
+tt1277953,Madagascar 3: Europe's Most Wanted,"('Animation', 'Adventure', 'Comedy', 'Family')",,USA,ENGLISH,6.9,138949,2012-06-08,145.0,60.316738,216.391482
+tt1296881,Overnight,"('Comedy', 'Romance')",,USA,ENGLISH,5.2,544,2012-04-20,2.85,,
+tt1298649,The Watch,"('Action', 'Comedy', 'Horror', 'Sci-Fi')",,USA,ENGLISH,5.7,113405,2012-07-27,68.0,12.750297,35.353
+tt1307068,Seeking a Friend for the End of the World,"('Adventure', 'Comedy', 'Drama', 'Romance', 'Sci-Fi')",,USA,ENGLISH,6.7,99689,2012-06-22,10.0,3.822803,6.619173
+tt1308729,Bullet to the Head,"('Action', 'Thriller')",,USA,ENGLISH,5.7,43682,2013-02-01,55.0,4.548201,9.483821
+tt1310653,Man from Shaolin,"('Action', 'Drama')",,USA,ENGLISH,4.6,112,2012-07-01,,,
+tt1321862,Dino Time,"('Animation', 'Adventure', 'Comedy', 'Family')",,SOUTH KOREA,ENGLISH,4.8,843,2015-06-12,,,
+tt1323044,Freeloaders,"('Comedy',)",,USA,ENGLISH,4.4,1436,2012-12-18,3.0,,
+tt1323529,Nightmare Fuel,"('Horror', 'Music', 'Sci-Fi', 'Thriller')",UNRATED,USA,ENGLISH,6.8,68,2012-10-01,0.02,,
+tt1327194,The Lucky One,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.5,90814,2012-04-20,25.0,22.518358,60.457138
+tt1329404,The Mine,"('Adventure', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,3.8,1099,2012-09-13,,,
+tt1336608,Rock of Ages,"('Comedy', 'Drama', 'Musical', 'Romance')",PG-13,USA,ENGLISH,5.9,68315,2012-06-15,75.0,14.437269,38.518613
+tt1343727,Dredd,"('Action', 'Crime', 'Sci-Fi')",,UK,ENGLISH,7.1,228606,2012-09-21,35.0,6.278491,13.414714
+tt1345836,The Dark Knight Rises,"('Action', 'Thriller')",PG-13,UK,ENGLISH,8.4,1333766,2012-07-20,250.0,160.887295,448.139099
+tt1366365,The Cold Light of Day,"('Action', 'Thriller')",PG-13,USA,ENGLISH,4.9,32282,2012-09-07,20.0,1.831588,3.749061
+tt1368440,Branded,"('Drama', 'Fantasy', 'Thriller')",,USA,ENGLISH,4.7,8363,2012-09-07,,0.240565,0.353468
+tt1368858,The Forger,"('Drama',)",PG-13,USA,ENGLISH,5.4,4223,2012-07-03,,,
+tt1371111,Cloud Atlas,"('Action', 'Drama', 'Mystery', 'Sci-Fi')",,GERMANY,ENGLISH,7.5,318445,2012-10-26,102.0,9.612247,27.108272
+tt1374992,Upside Down,"('Drama', 'Fantasy', 'Romance', 'Sci-Fi')",PG-13,CANADA,ENGLISH,6.4,64877,2013-05-01,60.0,0.028722,0.102118
+tt1381404,The Company You Keep,"('Drama', 'Thriller')",,USA,ENGLISH,6.4,28996,2013-04-26,2.0,0.131718,5.132442
+tt1386703,Total Recall,"('Action', 'Adventure', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.3,223092,2012-08-03,125.0,25.577758,58.877969
+tt1389096,Stand Up Guys,"('Comedy', 'Crime', 'Thriller')",,USA,ENGLISH,6.5,49527,2013-02-01,15.0,1.48639,3.301046
+tt1392170,The Hunger Games,"('Adventure', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,7.2,775950,2012-03-23,78.0,152.535747,408.010692
+tt1396226,Twice Born,"('Drama', 'Romance', 'War')",,ITALY,ENGLISH,7.4,14077,2013-12-06,,0.014947,0.014947
+tt1397280,Taken 2,"('Action', 'Crime', 'Thriller')",PG-13,FRANCE,ENGLISH,6.3,265678,2012-10-05,45.0,49.514769,139.854287
+tt1397514,Journey 2: The Mysterious Island,"('Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,5.8,80063,2012-02-10,79.0,27.335363,103.86029
+tt1405365,Celeste & Jesse Forever,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.6,27010,2012-08-24,,0.107785,3.094687
+tt1409024,Men in Black 3,"('Action', 'Adventure', 'Comedy', 'Sci-Fi')",PG-13,USA,ENGLISH,6.8,297029,2012-05-25,225.0,54.592779,179.020854
+tt1424310,Sap ji sang ciu,"('Action', 'Adventure')",PG-13,HONG KONG,ENGLISH,6.1,18761,2013-10-18,,,
+tt1427220,Heart Land,"('Comedy',)",,USA,ENGLISH,3.3,6,2012-08-03,1.0,,
+tt1430615,Big Miracle,"('Biography', 'Drama', 'Family', 'Romance')",,USA,ENGLISH,6.5,17017,2012-02-03,40.0,7.760205,20.113965
+tt1430626,The Pirates! Band of Misfits,"('Animation', 'Adventure', 'Comedy', 'Family')",,UK,ENGLISH,6.7,40681,2012-04-27,55.0,11.137734,31.051126
+tt1430811,Deadline,"('Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,4.9,394,2012-04-13,,,
+tt1433811,Disconnect,"('Drama', 'Thriller')",,USA,ENGLISH,7.5,68656,2013-07-05,10.0,0.210744,7.43595
+tt1433822,The Apparition,"('Horror', 'Thriller')",PG-13,USA,ENGLISH,4.1,17769,2012-08-24,17.0,2.955,4.930798
+tt1435990,Cendrillon au Far West,"('Animation', 'Family', 'Fantasy', 'Western')",,FRANCE,FRENCH,3.9,205,2012-07-25,,,
+tt1438173,Bait,"('Action', 'Horror', 'Thriller')",,AUSTRALIA,ENGLISH,5.2,13852,2012-09-20,,,
+tt1440129,Battleship,"('Action', 'Adventure', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.8,221307,2012-05-18,209.0,25.534825,65.422625
+tt1440732,Bel Ami,"('Drama', 'History', 'Romance')",,UK,ENGLISH,5.4,16751,2012-03-09,,0.038018,0.119919
+tt1441951,Quartet,"('Comedy', 'Drama')",PG-13,UK,ENGLISH,6.8,17420,2013-03-01,11.0,0.047122,18.390117
+tt1446192,Rise of the Guardians,"('Animation', 'Adventure', 'Family', 'Fantasy', 'Thriller')",,USA,ENGLISH,7.3,140276,2012-11-21,145.0,23.773465,103.412758
+tt1446714,Prometheus,"('Adventure', 'Mystery', 'Sci-Fi')",,USA,ENGLISH,7.0,525475,2012-06-08,130.0,51.050101,126.477084
+tt1462757,The Ghostmaker,"('Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,4.9,1922,2012-11-29,,,
+tt1462769,The Odd Life of Timothy Green,"('Comedy', 'Drama', 'Family', 'Fantasy')",,USA,ENGLISH,6.6,41733,2012-08-15,25.0,10.822903,51.85345
+tt1465533,Columbus Circle,"('Crime', 'Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,6.0,9687,2012-03-06,10.0,,
+tt1470022,Elfie Hopkins: Cannibal Hunter,"('Horror', 'Thriller')",,UK,ENGLISH,4.7,812,2012-04-20,,,
+tt1477855,Hyde Park on Hudson,"('Biography', 'Comedy', 'Drama', 'History')",,UK,ENGLISH,5.9,10409,2013-02-01,,0.081362,6.36778
+tt1480656,Cosmopolis,"('Drama', 'Fantasy')",,CANADA,ENGLISH,5.0,40935,2012-05-25,20.5,0.070339,0.743636
+tt1482459,The Lorax,"('Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical')",,USA,ENGLISH,6.4,87325,2012-03-02,70.0,70.21707,214.0305
+tt1484521,30 Beats,"('Comedy', 'Romance')",,FRANCE,ENGLISH,4.1,845,2012-11-16,1.0,0.008624,0.014686
+tt1485749,Mr. Pip,"('Drama', 'War')",PG-13,PAPUA NEW GUINEA,ENGLISH,7.2,3216,2013-10-03,,,
+tt1486192,The Raven,"('Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,6.4,78436,2012-04-27,26.0,7.289642,16.008272
+tt1488181,Zambezia,"('Animation', 'Adventure', 'Comedy', 'Family')",UNRATED,SOUTH AFRICA,ENGLISH,5.8,5841,2012-12-28,20.0,,
+tt1491044,The Iceman,"('Biography', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.9,63535,2013-05-02,10.0,0.087946,1.939441
+tt1493157,Nature Calls,"('Comedy',)",,USA,ENGLISH,3.9,2070,2012-10-04,,0.000382,0.000382
+tt1496025,Underworld Awakening,"('Action', 'Fantasy', 'Horror')",,USA,ENGLISH,6.4,134895,2012-01-20,70.0,25.306725,62.321039
+tt1496422,The Paperboy,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.8,32993,2012-10-17,12.5,0.102706,0.69264
+tt1497876,House Arrest,"('Comedy', 'Drama')",,USA,ENGLISH,2.7,118,2012-02-11,,,
+tt1507563,Dark Tide,"('Adventure', 'Drama', 'Thriller')",PG-13,USA,ENGLISH,4.3,7456,2012-04-12,25.0,,
+tt1510983,Heathens and Thieves,"('Mystery', 'Thriller', 'Western')",,USA,ENGLISH,5.2,367,,1.2,,
+tt1510989,Paranormal Abduction,"('Thriller',)",UNRATED,USA,ENGLISH,4.1,79,2017-07-11,,,
+tt1520498,The Oogieloves in the Big Balloon Adventure,"('Adventure', 'Family', 'Fantasy', 'Musical')",UNRATED,USA,ENGLISH,6.0,14660,2012-08-29,5.0,0.443901,1.064277
+tt1524137,Contraband,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.5,109200,2012-01-13,25.0,24.349815,66.528
+tt1529635,Crew 2 Crew,"('Drama', 'Music')",,ITALY,ENGLISH,3.7,162,2012-04-17,2.0,,
+tt1531901,Byzantium,"('Drama', 'Fantasy', 'Horror', 'Thriller')",,UK,ENGLISH,6.5,36895,2013-05-31,,0.016643,0.084293
+tt1531914,Smitty,"('Drama', 'Family')",,USA,ENGLISH,5.3,442,2015-07-22,,,
+tt1535438,Hope Springs,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.3,37880,2012-08-08,30.0,14.650121,63.536011
+tt1540128,Playing for Keeps,"('Comedy', 'Romance', 'Sport')",PG-13,USA,ENGLISH,5.7,26804,2012-12-07,35.0,5.750288,13.101142
+tt1540767,Apartment 1303 3D,"('Horror',)",,CANADA,ENGLISH,2.6,5199,2013-07-25,5.0,,
+tt1545106,Vamps,"('Comedy', 'Horror', 'Romance')",PG-13,USA,ENGLISH,5.2,8595,2012-11-02,16.0,0.000548,0.002964
+tt1547234,Premium Rush,"('Action', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,6.5,103608,2012-08-24,35.0,6.3,20.275446
+tt1559036,The Motel Life,"('Animation', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,6.0,3231,2013-11-08,,,
+tt1560747,The Master,"('Drama',)",,USA,ENGLISH,7.1,125354,2012-09-21,32.0,0.736311,16.377274
+tt1560978,Rogue River,"('Horror', 'Thriller')",,USA,ENGLISH,4.3,1676,2012-01-16,2.0,,
+tt1560985,The Devil Inside,"('Horror',)",,USA,ENGLISH,4.2,32866,2012-01-06,0.75,33.732515,53.261944
+tt1562567,Bloodwork,"('Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.2,1688,2012-05-10,,,
+tt1566501,For Greater Glory: The True Story of Cristiada,"('Drama', 'History', 'War')",,MEXICO,SPANISH,6.6,4068,2012-06-01,12.0,1.885608,5.669081
+tt1567609,Get the Gringo,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,7.0,96031,2012-06-22,20.0,,
+tt1568338,Man on a Ledge,"('Action', 'Adventure', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,6.6,135199,2012-01-27,42.0,8.001932,18.62
+tt1568929,The Mooring,"('Horror', 'Thriller')",,USA,ENGLISH,4.4,1007,2013-02-19,,,
+tt1569931,Changing the Game,"('Action', 'Crime', 'Drama')",,USA,ENGLISH,5.8,463,2012-05-11,,,
+tt1572503,Robin Hood: Ghosts of Sherwood,"('Action', 'Adventure', 'Mystery')",,GERMANY,ENGLISH,1.7,454,2012-11-09,,,
+tt1577052,Goats,"('Comedy',)",,USA,ENGLISH,5.9,4676,2012-08-10,5.0,,
+tt1582198,Axed,"('Drama', 'Horror', 'Thriller')",,UK,ENGLISH,3.7,834,2013-02-19,,,
+tt1582507,House at the End of the Street,"('Drama', 'Horror', 'Thriller')",PG-13,CANADA,ENGLISH,5.6,64784,2012-09-21,6.9,12.287234,31.611916
+tt1584146,Sol Invictus,"('Sci-Fi',)",UNRATED,USA,ENGLISH,3.4,186,2012-04-18,0.25,,
+tt1586265,What to Expect When You're Expecting,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.7,64108,2012-05-18,40.0,10.547068,41.152203
+tt1587309,If I Were You,"('Comedy', 'Drama')",,UK,ENGLISH,7.0,1741,2012-01-10,,0.002929,0.009222
+tt1588886,Greystone Park,"('Horror', 'Thriller')",,USA,ENGLISH,3.2,1492,,0.55,,
+tt1591479,Act of Valor,"('Action', 'Adventure', 'Drama', 'Thriller', 'War')",,USA,ENGLISH,6.5,62738,2012-02-24,12.0,24.476632,70.012847
+tt1592525,Lockout,"('Action', 'Adventure', 'Sci-Fi', 'Thriller')",PG-13,FRANCE,ENGLISH,6.1,88119,2012-04-13,20.0,6.231836,14.326864
+tt1592873,LOL,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,4.4,50156,2012-03-01,11.0,0.0465,0.0465
+tt1595656,To the Wonder,"('Drama', 'Romance')",,USA,ENGLISH,5.9,24670,2013-02-22,,0.116551,0.586293
+tt1596350,This Means War,"('Action', 'Comedy', 'Romance')",PG-13,USA,ENGLISH,6.3,163559,2012-02-17,65.0,17.40593,54.760791
+tt1596365,The Woman in Black,"('Drama', 'Fantasy', 'Horror', 'Thriller')",PG-13,UK,ENGLISH,6.4,160979,2012-02-03,17.0,20.874072,54.33329
+tt1598828,One for the Money,"('Action', 'Comedy', 'Crime', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,5.3,37657,2012-01-27,40.0,11.51579,26.414527
+tt1599348,Safe House,"('Action', 'Adventure', 'Crime', 'Thriller')",,SOUTH AFRICA,ENGLISH,6.8,186355,2012-02-10,85.0,40.17272,126.373434
+tt1602472,2 Days in New York,"('Comedy', 'Drama', 'Romance')",,FRANCE,ENGLISH,6.0,13091,2012-03-28,8.0,0.023942,0.632824
+tt1602620,Amour,"('Drama', 'Romance')",PG-13,AUSTRIA,FRENCH,7.9,82069,2012-09-20,8.9,0.068266,6.739492
+tt1603257,ATM,"('Horror', 'Thriller')",,USA,ENGLISH,4.7,21076,2012-03-02,3.0,0.002034,0.002034
+tt1604589,My Uncle Rafael,"('Comedy',)",PG-13,USA,ENGLISH,5.7,183,2012-09-21,1.3,0.109748,0.210156
+tt1605630,American Reunion,"('Comedy',)",,USA,ENGLISH,6.7,187752,2012-04-06,50.0,21.51408,57.011521
+tt1606339,Sushi Girl,"('Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,6.0,4266,2012-11-27,0.75,,
+tt1606389,The Vow,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.8,168085,2012-02-10,30.0,41.202458,125.01403
+tt1610294,A Kiss and a Promise,"('Drama',)",UNRATED,CANADA,ENGLISH,5.2,322,2012-05-25,,,
+tt1611224,Abraham Lincoln: Vampire Hunter,"('Action', 'Fantasy', 'Horror', 'Western')",,USA,ENGLISH,5.9,139738,2012-06-22,69.0,16.306974,37.519139
+tt1613056,The Frontier Boys,"('Action', 'Adventure', 'Family', 'Sport')",PG-13,USA,ENGLISH,5.2,244,2012-03-06,,,
+tt1613750,Kon-Tiki,"('Adventure', 'History')",PG-13,UK,NORWEGIAN,7.2,40309,2013-04-26,16.6,0.022168,1.51741
+tt1614430,Little Red Wagon,"('Drama',)",,USA,ENGLISH,6.4,487,2012-10-05,,,
+tt1614955,Marco Macaco,"('Animation', 'Comedy', 'Family', 'Musical')",,DENMARK,DANISH,3.9,309,2012-10-11,,,
+tt1615065,Savages,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.5,112979,2012-07-06,45.0,16.01691,47.382068
+tt1621045,Think Like a Man,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,6.6,39904,2012-04-20,12.0,33.636303,91.547205
+tt1623288,ParaNorman,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,7.0,83869,2012-08-17,60.0,14.08705,56.003051
+tt1629757,Chasing Mavericks,"('Biography', 'Drama', 'Sport')",,USA,ENGLISH,7.2,28364,2012-10-26,20.0,2.268274,6.002756
+tt1631783,Not That Funny,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,5.3,131,,,,
+tt1634286,Grassroots,"('Comedy', 'Drama')",,USA,ENGLISH,5.3,991,2012-11-09,,0.006497,0.006497
+tt1636826,Project X,"('Comedy',)",,USA,ENGLISH,6.7,173478,2012-03-02,12.0,21.051363,54.731865
+tt1637725,Ted,"('Comedy', 'Fantasy')",,USA,ENGLISH,6.9,523803,2012-06-29,50.0,54.415205,218.815487
+tt1638353,"Syngué sabour, pierre de patience","('Drama', 'War')",,AFGHANISTAN,PERSIAN,7.1,3957,2013-02-20,,0.006232,0.148408
+tt1640218,Evidence,"('Horror', 'Mystery', 'Sci-Fi', 'Thriller')",UNRATED,USA,ENGLISH,5.1,4111,2012-09-27,0.012464,,
+tt1641975,Citadel,"('Drama', 'Horror', 'Thriller')",,IRELAND,ENGLISH,5.5,6183,2013-03-01,,,
+tt1645155,Erased,"('Action', 'Thriller')",,USA,ENGLISH,6.1,26370,2012-09-26,,,
+tt1645170,The Dictator,"('Comedy',)",,USA,ENGLISH,6.4,242431,2012-05-16,65.0,17.435092,59.650222
+tt1646987,Wrath of the Titans,"('Action', 'Adventure', 'Fantasy')",PG-13,SPAIN,ENGLISH,5.7,168029,2012-03-30,150.0,33.457188,83.670083
+tt1648179,Here Comes the Boom,"('Action', 'Comedy', 'Sport')",,USA,ENGLISH,6.4,80360,2012-10-12,42.0,11.816596,45.290318
+tt1649419,The Impossible,"('Drama', 'History', 'Thriller')",PG-13,SPAIN,ENGLISH,7.6,170933,2013-01-04,45.0,0.143818,19.019882
+tt1649444,[REC] 3: Genesis,"('Horror', 'Thriller')",,SPAIN,SPANISH,5.0,29700,2012-03-30,6.4,0.003001,0.008973
+tt1651323,Breaking Wind,"('Comedy',)",,USA,ENGLISH,2.4,4281,2012-01-13,,,
+tt1655460,Wanderlust,"('Comedy', 'Romance')",,USA,ENGLISH,5.6,67708,2012-02-24,,6.52665,17.225675
+tt1656186,Stolen,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.5,40509,2012-09-06,35.0,0.183125,0.304318
+tt1656190,Safe,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,6.5,93656,2012-04-27,30.0,7.892539,17.14208
+tt1658837,The Tall Man,"('Crime', 'Drama', 'Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.9,35245,2012-09-05,18.2,,
+tt1659337,The Perks of Being a Wallflower,"('Drama', 'Romance')",PG-13,USA,ENGLISH,8.0,409700,2012-10-12,13.0,0.228359,17.73857
+tt1659343,Universal Soldier: Day of Reckoning,"('Action', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.0,17783,2012-10-25,11.5,0.003181,0.00546
+tt1663143,Fun Size,"('Adventure', 'Comedy')",PG-13,USA,ENGLISH,5.4,12573,2012-10-26,14.0,4.101017,9.40241
+tt1663673,16-Love,"('Comedy', 'Family', 'Romance')",,USA,ENGLISH,5.8,1487,2012-01-20,,,
+tt1667310,Deadfall,"('Crime', 'Drama', 'Thriller')",UNRATED,FRANCE,ENGLISH,6.3,35715,2012-11-09,12.0,0.019391,0.065804
+tt1667353,Mirror Mirror,"('Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy')",,USA,ENGLISH,5.6,77545,2012-03-30,85.0,18.132085,64.935167
+tt1667889,Ice Age: Continental Drift,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,6.6,167598,2012-07-13,95.0,46.629259,161.321843
+tt1673434,The Twilight Saga: Breaking Dawn - Part 2,"('Adventure', 'Drama', 'Fantasy', 'Romance')",PG-13,USA,ENGLISH,5.5,207200,2012-11-16,120.0,141.067634,292.298923
+tt1673697,The Sapphires,"('Biography', 'Comedy', 'Drama', 'Music', 'Musical')",PG-13,AUSTRALIA,ENGLISH,7.1,11728,2012-08-09,10.0,0.038372,2.448455
+tt1674772,Everybody Has a Plan,"('Crime', 'Drama', 'Thriller')",,ARGENTINA,SPANISH,5.6,1684,2012-08-30,,,
+tt1675313,Mighty Fine,"('Comedy', 'Drama')",,USA,ENGLISH,5.0,304,2012-05-25,,,
+tt1678051,Soldiers of Fortune,"('Action', 'Thriller')",,RUSSIA,ENGLISH,4.3,6666,2012-07-19,8.0,0.024978,0.038842
+tt1682940,Playback,"('Horror', 'Thriller')",,USA,ENGLISH,4.3,4430,2012-03-09,1.6,0.000252,0.000252
+tt1684225,I Heart Shakey,"('Adventure', 'Comedy', 'Family')",,USA,ENGLISH,4.0,153,2012-06-29,1.0,,
+tt1684925,Wish You Were Here,"('Drama', 'Mystery')",,AUSTRALIA,ENGLISH,5.9,4789,2013-06-07,,0.025937,0.045267
+tt1688704,War Flowers,"('Drama', 'History', 'Romance', 'War')",PG-13,USA,ENGLISH,4.1,247,2012-08-31,5.0,,
+tt1690540,Bro',"('Action', 'Crime', 'Drama')",,USA,ENGLISH,3.6,675,2012-12-18,1.0,,
+tt1693039,Pinocchio,"('Animation', 'Family', 'Fantasy')",,BELGIUM,ITALIAN,6.1,203,2018-04-10,,,
+tt1693107,Highway,"('Comedy',)",,USA,ENGLISH,3.4,181,,2.0,,
+tt1693679,Hirokin: The Last Samurai,"('Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,3.4,1679,2012-11-06,,,
+tt1694020,The Guilt Trip,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.8,33127,2012-12-19,40.0,5.39,37.134215
+tt1694118,Memorial Day,"('Action', 'Drama', 'History', 'War')",,USA,ENGLISH,6.1,1995,2012-07-11,4.2,,
+tt1695409,The Newest Pledge,"('Comedy',)",,USA,ENGLISH,4.3,372,2012-08-28,,,
+tt1697973,Mirror Image,"('Thriller',)",UNRATED,USA,ENGLISH,6.7,56,,0.5,,
+tt1698648,Girl Most Likely,"('Comedy',)",PG-13,USA,ENGLISH,5.8,13617,2013-07-18,,0.694477,1.378426
+tt1702016,We the Party,"('Comedy',)",,USA,ENGLISH,4.3,745,2012-04-06,,,
+tt1702425,Casa de mi Padre,"('Comedy', 'Western')",,USA,SPANISH,5.5,18793,2012-05-11,6.0,2.287239,5.895238
+tt1704201,Parasitic,"('Horror', 'Sci-Fi')",,USA,ENGLISH,2.2,615,2012-06-26,,,
+tt1705126,Nesting,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.7,219,2012-05-11,,,
+tt1706593,Chronicle,"('Drama', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,7.1,224600,2012-02-03,12.0,22.004098,64.575175
+tt1707386,Les Misérables,"('Drama', 'History', 'Musical', 'Romance', 'War')",PG-13,UK,ENGLISH,7.6,276541,2012-12-25,61.0,28.027,148.80977
+tt1710396,Joyful Noise,"('Comedy', 'Drama', 'Music')",PG-13,USA,ENGLISH,5.8,7369,2012-01-13,25.0,11.22519,30.920167
+tt1710417,Lola Versus,"('Comedy',)",,USA,ENGLISH,5.5,7825,2012-06-08,,0.031815,0.251913
+tt1712170,Alex Cross,"('Action', 'Crime', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.1,30450,2012-10-19,35.0,11.396768,25.888412
+tt1713476,The Bay,"('Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.6,22753,2012-11-21,,0.019926,0.030474
+tt1714203,Piranha 3DD,"('Comedy', 'Horror')",,USA,ENGLISH,3.7,35797,2012-05-11,5.0,0.182237,0.376512
+tt1714920,We Are Family,"('Comedy',)",,RUSSIA,RUSSIAN,5.0,248,2012-09-28,,,
+tt1715223,The Watermen,"('Horror', 'Thriller')",,USA,ENGLISH,3.0,1134,2012-06-20,1.15,,
+tt1715320,Bending the Rules,"('Comedy', 'Crime')",PG-13,USA,ENGLISH,5.1,1987,2012-03-09,4.2,,
+tt1716777,People Like Us,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.1,38732,2012-06-29,16.0,4.255423,12.412386
+tt1718158,Generation Um...,"('Drama',)",,USA,ENGLISH,4.1,3424,2013-05-28,1.7,,
+tt1719068,Dark Tourist,"('Drama', 'Thriller')",,USA,ENGLISH,5.0,919,2013-08-23,4.0,,
+tt1723642,Sur la piste du Marsupilami,"('Adventure', 'Comedy', 'Family')",UNRATED,FRANCE,FRENCH,5.5,3044,2012-04-04,,,
+tt1724962,Beyond Outrage,"('Action', 'Crime', 'Drama')",,JAPAN,JAPANESE,6.8,4772,2012-10-06,,,
+tt1727373,The Kill Hole,"('Action', 'Thriller', 'War')",UNRATED,USA,ENGLISH,4.0,322,2012-08-28,3.0,,
+tt1728986,Bol Bachchan,"('Action', 'Comedy', 'Drama')",,INDIA,HINDI,5.5,6991,2012-07-06,,0.561996,1.216258
+tt1730294,For the Love of Money,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,4.5,856,2012-06-28,,0.017752,
+tt1730687,Darling Companion,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.1,2973,2012-05-24,,0.039962,0.793352
+tt1731697,The Lords of Salem,"('Horror', 'Thriller')",,USA,ENGLISH,5.1,24106,2013-04-18,2.5,0.642,1.163508
+tt1733582,Born Wild,"('Drama',)",,USA,ENGLISH,4.6,110,,,,
+tt1734433,Eden,"('Crime', 'Drama')",,USA,ENGLISH,6.7,7526,2013-07-19,,,
+tt1734589,Unicorn City,"('Comedy', 'Romance')",,USA,ENGLISH,5.7,1170,2012-02-24,,,
+tt1735862,Dragon Eyes,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,4.5,5182,2014-10-09,3.0,,
+tt1735898,Snow White and the Huntsman,"('Action', 'Adventure', 'Drama', 'Fantasy')",PG-13,USA,ENGLISH,6.1,252793,2012-06-01,170.0,56.2177,155.332381
+tt1738355,Just 45 Minutes from Broadway,"('Drama',)",,USA,ENGLISH,4.9,37,2012-10-17,,0.011899,0.115771
+tt1740002,Che sau,"('Action', 'Crime', 'Drama')",,CHINA,CANTONESE,5.9,1479,2012-06-22,,,
+tt1740476,Butcher Boys,"('Action', 'Comedy', 'Horror', 'Thriller')",,USA,ENGLISH,3.5,1380,2012-10-21,1.5,,
+tt1745958,Rites of Passage,"('Thriller',)",,USA,ENGLISH,4.1,1317,2012-10-16,2.5,,
+tt1748122,Moonrise Kingdom,"('Adventure', 'Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,7.8,281037,2012-06-29,16.0,0.522996,45.512466
+tt1748179,Red Lights,"('Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller')",,SPAIN,ENGLISH,6.2,53959,2012-03-02,,0.01034,0.052624
+tt1748227,The Collection,"('Horror', 'Thriller')",,USA,ENGLISH,6.1,40955,2012-11-30,10.0,3.104269,6.842058
+tt1748260,Tiger Eyes,"('Drama',)",PG-13,USA,ENGLISH,6.4,1759,2013-06-07,,0.010874,0.025163
+tt1753496,Resident Evil: Damnation,"('Animation', 'Action', 'Horror', 'Sci-Fi', 'Thriller')",,JAPAN,LATIN,6.6,16625,2012-10-27,,,
+tt1753521,Blood Money,"('Action', 'Thriller')",,AUSTRALIA,ENGLISH,3.3,523,2012-08-28,2.3,,
+tt1753813,"Farewell, My Queen","('Drama', 'History', 'Romance')",,FRANCE,FRENCH,6.3,7276,2012-03-21,,0.0721,0.0721
+tt1756474,Desperate Endeavors,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.2,39,2012-09-07,,,0.004869
+tt1757746,Extracted,"('Drama', 'Sci-Fi')",,USA,ENGLISH,6.5,10781,2013-09-09,,,
+tt1758575,Blue Like Jazz,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.9,2780,2012-03-13,1.2,0.258653,0.594904
+tt1758610,Unconditional,"('Biography', 'Crime', 'Drama')",PG-13,USA,ENGLISH,7.2,4341,2012-09-21,2.0,0.525192,1.0058
+tt1758830,This Is 40,"('Comedy', 'Romance')",,USA,ENGLISH,6.2,115539,2012-12-21,35.0,12.03069,67.544505
+tt1763264,No One Lives,"('Horror', 'Thriller')",,USA,ENGLISH,6.0,16102,2013-05-10,2.9,0.047798,0.07214
+tt1763303,The First Time,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.9,60720,2013-02-07,2.0,0.017061,0.017061
+tt1764183,Arbitrage,"('Drama', 'Thriller')",,USA,ENGLISH,6.6,45852,2012-09-14,12.0,2.002165,7.918283
+tt1764234,Killing Them Softly,"('Crime', 'Thriller')",,USA,ENGLISH,6.2,121832,2012-11-30,15.0,6.8129,15.026056
+tt1764636,That's What She Said,"('Comedy',)",,USA,ENGLISH,3.8,564,2012-10-19,2.5,,
+tt1764651,The Expendables 2,"('Action', 'Adventure', 'Thriller')",,USA,ENGLISH,6.6,271071,2012-08-17,,,
+tt1764664,C'mon Man,"('Comedy',)",,USA,ENGLISH,3.9,209,2012-06-26,,,
+tt1766094,So Undercover,"('Action', 'Comedy')",PG-13,USA,ENGLISH,5.0,17303,2012-12-06,,,
+tt1769363,The Giant Mechanical Man,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.7,8738,2012-04-27,,0.002831,0.00536
+tt1770734,Shadow Dancer,"('Drama', 'Thriller')",,UK,ENGLISH,6.2,11204,2012-08-24,,0.010672,0.099134
+tt1772341,Wreck-It Ralph,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,7.7,318202,2012-11-02,165.0,49.038712,189.422889
+tt1772408,Trade of Innocents,"('Drama', 'Thriller')",PG-13,USA,ENGLISH,5.4,843,2012-09-28,,0.000588,0.015059
+tt1772770,Book of 1000 Deaths,"('Horror', 'Thriller')",UNRATED,USA,ENGLISH,5.2,30,2012-10-31,0.058,,
+tt1780762,Aftershock,"('Action', 'Adventure', 'Horror', 'Thriller')",,USA,SPANISH,4.8,10051,2014-06-12,2.0,0.040179,0.040179
+tt1780983,Assassin's Bullet,"('Action', 'Drama', 'Thriller')",,USA,ENGLISH,3.6,2947,2012-08-03,5.0,,
+tt1781769,Anna Karenina,"('Drama', 'Romance')",,UK,ENGLISH,6.6,81915,2012-09-07,,0.32069,12.816367
+tt1781840,Jayne Mansfield's Car,"('Drama',)",,USA,ENGLISH,6.3,2600,2013-08-20,,0.00932,0.014376
+tt1783234,40 Point Plan,"('Drama',)",UNRATED,USA,ENGLISH,9.1,33,2012-07-20,0.06,,
+tt1783732,John Dies at the End,"('Comedy', 'Horror', 'Sci-Fi')",,USA,ENGLISH,6.4,33640,2013-01-25,,0.012467,0.141307
+tt1785280,Money Shot,"('Comedy',)",,USA,ENGLISH,2.5,167,2012-12-11,,,
+tt1790885,Zero Dark Thirty,"('Drama', 'Thriller')",,USA,ENGLISH,7.4,242823,2013-01-11,40.0,0.41715,95.720716
+tt1790886,The Campaign,"('Comedy',)",,USA,ENGLISH,6.1,116230,2012-08-10,95.0,26.58846,86.907746
+tt1791614,Struck by Lightning,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,6.3,13854,2013-01-11,,0.01294,0.02293
+tt1792647,Cirque du Soleil: Worlds Away,"('Fantasy',)",,USA,ENGLISH,6.8,7523,2012-12-21,,2.135,12.495865
+tt1793223,Free Samples,"('Comedy', 'Drama')",,USA,ENGLISH,5.6,1910,2012-04-20,,,
+tt1799508,After,"('Drama', 'Fantasy', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.5,4735,2012-09-14,0.65,,
+tt1800671,Beyond,"('Thriller',)",PG-13,USA,ENGLISH,4.8,1163,2012-05-28,,,
+tt1800741,Step Up Revolution,"('Drama', 'Music', 'Romance')",PG-13,USA,ENGLISH,6.5,50182,2012-07-27,33.0,11.731708,35.074677
+tt1807045,The Legend of Black Annie,"('Horror',)",UNRATED,USA,ENGLISH,3.2,32,,0.175,,
+tt1810697,Meeting Evil,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.3,10986,2012-03-30,,0.000181,0.000181
+tt1811315,FDR: American Badass!,"('Action', 'Comedy')",,USA,ENGLISH,5.4,1697,2012-09-24,,,
+tt1815708,Freelancers,"('Action', 'Crime', 'Drama', 'Mystery')",,USA,ENGLISH,4.6,8816,2013-01-12,11.0,,
+tt1816518,Ernest & Celestine,"('Animation', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Family', 'Fantasy')",,FRANCE,FRENCH,7.9,15217,2014-02-28,,0.013078,0.292562
+tt1816597,The Aggression Scale,"('Action', 'Crime', 'Thriller')",,USA,LATIN,5.9,2952,2012-03-10,,,
+tt1817273,The Place Beyond the Pines,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,7.3,218792,2013-04-19,15.0,0.279457,21.383298
+tt1817676,Girl in Progress,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.6,6036,2012-08-10,5.0,1.384078,2.594878
+tt1822302,Sassy Pants,"('Comedy', 'Drama')",,USA,ENGLISH,6.2,1603,2012-10-26,,,
+tt1822394,Paradox Alice,"('Sci-Fi',)",UNRATED,USA,ENGLISH,3.8,230,2013-10-15,,,
+tt1828320,In the Hive,"('Drama',)",,USA,ENGLISH,6.6,367,2012-12-14,,,
+tt1829012,Passion,"('Drama', 'Horror', 'Mystery', 'Thriller')",,FRANCE,ENGLISH,5.3,19445,2013-08-30,20.0,0.0401,0.091186
+tt1831623,Deep in the Heart,"('Drama',)",PG-13,USA,ENGLISH,5.6,193,2012-02-17,,0.819,0.819
+tt1831806,The Thompsons,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,4.7,2006,2012-12-31,3.0,,
+tt1833879,Scary or Die,"('Horror',)",,USA,ENGLISH,4.0,3512,2012-09-11,,,
+tt1836808,Great Expectations,"('Drama', 'Romance')",PG-13,UK,ENGLISH,6.4,11046,2013-11-08,,0.0885,0.258656
+tt1836821,Iniquity,"('Drama', 'History')",UNRATED,USA,ENGLISH,7.2,15,2013-03-26,0.15,,
+tt1836944,The Baytown Outlaws,"('Action', 'Comedy', 'Crime')",,USA,ENGLISH,6.4,12546,2013-06-15,4.0,,
+tt1838544,Gone,"('Action', 'Adventure', 'Drama', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.9,38411,2012-02-24,,4.77036,11.653123
+tt1839492,Ruby Sparks,"('Comedy', 'Drama', 'Fantasy', 'Romance')",,USA,ENGLISH,7.2,89045,2012-09-06,8.0,0.140822,2.540106
+tt1839654,The Magic of Belle Isle,"('Comedy', 'Drama')",,USA,ENGLISH,7.0,15728,2012-07-06,,0.010367,0.10091
+tt1840417,The Words,"('Drama', 'Mystery', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,7.1,68257,2012-09-07,6.0,4.750894,11.494838
+tt1844203,Inescapable,"('Action', 'Drama', 'Mystery', 'Romance', 'Thriller')",,CANADA,ENGLISH,5.2,2351,2014-08-14,,0.001545,0.004063
+tt1844770,Sand Sharks,"('Action', 'Adventure', 'Comedy', 'Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,2.7,4354,2012-07-31,,,
+tt1846479,Black Box,"('Sci-Fi',)",,CANADA,ENGLISH,3.3,123,2012-02-08,,,
+tt1846487,Reality,"('Comedy', 'Drama')",,ITALY,ITALIAN,6.8,4364,2012-09-28,,0.007072,0.055261
+tt1847548,Bad Karma,"('Thriller',)",,USA,ENGLISH,4.5,888,2012-09-11,,,
+tt1847713,Xue di zi,"('Action', 'Drama')",,CHINA,MANDARIN,4.8,1187,2013-06-14,15.0,0.003296,0.00529
+tt1849740,Champions of the Deep,"('Action', 'Adventure', 'Fantasy')",,USA,ENGLISH,7.8,33,2012-08-10,,,
+tt1849810,Mafia,"('Action', 'Crime')",,USA,ENGLISH,4.1,498,2013-03-07,,,
+tt1850418,To Write Love on Her Arms,"('Biography', 'Drama', 'Music')",PG-13,USA,ENGLISH,6.6,2602,2015-03-03,3.4,,
+tt1852114,The Jonas Project,"('Drama',)",UNRATED,USA,ENGLISH,5.5,30,2012-01-26,1.0,,0.25
+tt1853643,Why Stop Now?,"('Comedy', 'Drama')",,USA,ENGLISH,5.6,6931,2012-08-17,,0.001641,0.001641
+tt1853728,Django Unchained,"('Drama', 'Western')",,USA,ENGLISH,8.4,1155000,2012-12-25,100.0,30.688,162.805434
+tt1854236,Den skaldede frisør,"('Comedy', 'Drama', 'Romance')",,DENMARK,ENGLISH,6.5,11760,2012-09-06,,0.036746,1.631306
+tt1854513,Snow White,"('Drama', 'Fantasy')",PG-13,SPAIN,SPANISH,7.6,9327,2012-09-28,,0.025264,0.279735
+tt1854582,No Vacancy,"('Horror',)",,USA,ENGLISH,4.3,1746,2012-01-01,4.0,,
+tt1855199,End of Watch,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,7.6,205861,2012-09-21,7.0,13.152683,41.003371
+tt1855236,Just Like a Woman,"('Drama',)",,UK,ENGLISH,5.5,2385,2013-07-05,,,
+tt1855325,Resident Evil: Retribution,"('Action', 'Horror', 'Sci-Fi', 'Thriller')",,GERMANY,ENGLISH,5.4,121829,2012-09-14,65.0,21.052227,42.345531
+tt1855401,Tim and Eric's Billion Dollar Movie,"('Comedy',)",,USA,ENGLISH,5.4,8786,2012-01-27,3.0,0.087475,0.200803
+tt1856053,"Little Brother, Big Trouble: A Christmas Adventure","('Animation', 'Adventure', 'Comedy', 'Family')",UNRATED,FINLAND,FINNISH,5.8,779,2012-10-12,,,
+tt1857842,Inhuman Resources,"('Horror', 'Thriller')",,AUSTRALIA,ENGLISH,5.8,2074,2012-11-03,,,
+tt1858522,Allegiance,"('Drama', 'Thriller')",,USA,ENGLISH,4.8,555,2012-06-08,,,
+tt1858774,Refuge from the Storm,"('Drama',)",PG-13,USA,ENGLISH,7.6,58,2012-04-05,0.5,,
+tt1859650,To Rome with Love,"('Comedy', 'Music', 'Romance')",,USA,ENGLISH,6.3,77556,2012-07-06,,0.361359,16.685867
+tt1860181,Svartur á leik,"('Crime', 'Thriller')",,ICELAND,ICELANDIC,6.8,3804,2013-02-12,,,
+tt1861279,Barricade,"('Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,4.5,2618,2012-09-25,,,
+tt1862079,Safety Not Guaranteed,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.0,109918,2012-10-18,0.75,0.097762,4.010957
+tt1865393,Hellbenders,"('Comedy', 'Horror', 'Thriller')",,USA,ENGLISH,4.8,1188,2013-05-23,,,
+tt1865573,Bad Kids Go to Hell,"('Comedy', 'Mystery', 'Thriller')",,USA,ENGLISH,4.5,3317,2012-12-07,,,
+tt1866197,Mancation,"('Comedy',)",,USA,ENGLISH,3.8,737,2012-10-09,0.3,,
+tt1866249,The Sessions,"('Biography', 'Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.2,39205,2012-11-16,1.0,0.113467,6.002451
+tt1867086,The Outback,"('Animation', 'Adventure', 'Family')",,SOUTH KOREA,ENGLISH,4.7,803,2012-01-12,5.3,,
+tt1867093,The Samaritan,"('Crime', 'Drama', 'Thriller')",,CANADA,ENGLISH,5.6,8818,2012-04-20,12.0,0.001744,0.001744
+tt1869425,Filly Brown,"('Drama', 'Music')",,USA,ENGLISH,5.7,984,2013-04-19,0.427,1.478323,2.833383
+tt1870425,Mac & Devin Go to High School,"('Comedy',)",,USA,ENGLISH,4.5,6578,2012-07-03,,,
+tt1870529,Won't Back Down,"('Drama',)",,USA,ENGLISH,6.5,5760,2012-09-28,,2.60337,5.308553
+tt1870583,Wolf Dog,"('Drama',)",UNRATED,USA,ENGLISH,,0,2012-10-01,5.0,,
+tt1872818,Liberal Arts,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.7,33324,2012-10-05,2.0,0.027435,0.31719
+tt1876277,Into the White,"('Action', 'Biography', 'Drama', 'History', 'War')",,NORWAY,ENGLISH,7.2,17418,2013-04-12,,9e-05,0.000547
+tt1876451,Sparkle,"('Drama', 'Music')",PG-13,USA,ENGLISH,5.7,5524,2012-08-17,17.0,11.643342,24.397469
+tt1879012,Night of the Living Dead 3D: Re-Animation,"('Action', 'Horror')",,USA,ENGLISH,3.0,1768,2012-10-16,,,
+tt1881024,One in the Chamber,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,5.2,4188,2012-11-15,6.0,,
+tt1884318,Girls Gone Dead,"('Comedy', 'Horror')",,USA,ENGLISH,3.5,2190,2012-03-28,3.5,,
+tt1884369,Noobz,"('Comedy',)",,USA,ENGLISH,4.9,1949,2013-01-25,0.34,,
+tt1885265,Good Deeds,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.5,6882,2012-02-24,,15.583924,35.025791
+tt1885300,Best Man Down,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.4,8675,2013-10-03,1.5,6e-05,0.001842
+tt1887748,Lord of Darkness,"('Horror', 'Thriller')",,UK,ENGLISH,4.6,1106,2013-02-23,,,
+tt1887923,Ambush at Dark Canyon,"('Western',)",,USA,ENGLISH,4.9,349,2012-10-23,,,
+tt1890455,Lost Lake,"('Horror', 'Thriller')",UNRATED,USA,ENGLISH,3.4,250,2013-11-13,0.5,,
+tt1891970,Beyond the Trophy,"('Action', 'Crime', 'Drama')",UNRATED,USA,ENGLISH,5.1,270,,2.3,,
+tt1893371,The Illusionauts,"('Animation', 'Family', 'Fantasy', 'Sci-Fi')",,PERU,SPANISH,2.8,517,2012-01-26,,,
+tt1894561,Cowgirls 'n Angels,"('Adventure', 'Drama', 'Family')",,USA,ENGLISH,6.2,1321,2012-07-06,,0.054675,0.119782
+tt1899285,The Day of the Siege: September Eleven 1683,"('Adventure', 'Drama', 'History')",,ITALY,ENGLISH,4.2,1446,2012-10-12,,,
+tt1899324,The Letter,"('Drama', 'Thriller')",,USA,ENGLISH,3.7,1313,2013-06-27,10.0,,
+tt1900924,Margarine Wars,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,6.2,53,2012-03-29,1.0,,
+tt1904835,La suerte en tus manos,"('Comedy',)",UNRATED,ARGENTINA,SPANISH,5.6,503,2012-03-29,,,
+tt1907614,Alter Egos,"('Comedy',)",,USA,ENGLISH,5.2,1389,2012-11-20,,,
+tt1907639,Hardflip,"('Action', 'Drama')",PG-13,USA,ENGLISH,5.6,668,2012-06-01,1.0,0.049879,0.096734
+tt1907668,Flight,"('Drama', 'Thriller')",,USA,ENGLISH,7.3,293617,2012-11-02,31.0,24.900566,93.772375
+tt1907707,LUV,"('Crime', 'Drama')",,USA,ENGLISH,6.0,1944,2015-09-01,3.0,0.082657,0.138634
+tt1907731,Nobody Walks,"('Drama',)",,USA,ENGLISH,5.3,4515,2012-09-06,,0.007269,0.024995
+tt1907779,The Dinosaur Project,"('Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller')",PG-13,UK,ENGLISH,4.7,4762,2012-08-10,,,
+tt1911553,Le Chef,"('Comedy',)",PG-13,FRANCE,FRENCH,6.7,14583,2014-06-20,,0.01129,0.342667
+tt1912982,A Little Bit Zombie,"('Comedy', 'Horror', 'Sci-Fi')",,CANADA,ENGLISH,5.3,2542,2013-06-08,,,
+tt1915581,Magic Mike,"('Comedy', 'Drama')",,USA,ENGLISH,6.1,120694,2012-06-29,7.0,39.12717,113.721571
+tt1919090,Stash House,"('Thriller',)",,USA,ENGLISH,4.8,2352,2012-05-11,2.0,,
+tt1920849,Bachelorette,"('Comedy', 'Romance')",,USA,ENGLISH,5.3,41967,2012-09-06,3.0,0.181494,0.447954
+tt1921070,Pusher,"('Crime', 'Thriller')",,UK,ENGLISH,5.5,4246,2012-10-12,,,
+tt1922777,Sinister,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,6.8,190291,2012-10-12,3.0,18.007634,48.086903
+tt1924273,Promoción fantasma,"('Adventure', 'Comedy', 'Fantasy')",,SPAIN,SPANISH,6.4,2805,,,,
+tt1924394,The Angels' Share,"('Comedy', 'Crime', 'Drama')",UNRATED,UK,ENGLISH,7.0,20977,2012-06-01,,0.018837,0.304357
+tt1925431,Fire with Fire,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.6,23091,2012-12-05,10.4,,
+tt1928330,Bad Ass,"('Action', 'Comedy', 'Crime', 'Drama')",,USA,ENGLISH,5.5,17384,2012-04-13,,,
+tt1928335,Kill 'em All,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,4.4,1268,2012-12-12,3.2,,
+tt1930294,Black Rock,"('Horror', 'Thriller')",,USA,ENGLISH,4.8,7410,2013-05-17,,,
+tt1930546,Arthur Newman,"('Drama',)",,USA,ENGLISH,5.7,6384,2013-06-13,,,
+tt1931466,Knife Fight,"('Drama',)",,USA,ENGLISH,5.1,1238,2013-01-28,7.0,,
+tt1931533,Seven Psychopaths,"('Comedy', 'Crime')",,UK,ENGLISH,7.2,215729,2012-10-12,15.0,4.174915,15.024049
+tt1932718,Thanks for Sharing,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.4,23782,2013-09-14,,0.540281,1.059239
+tt1932767,What Maisie Knew,"('Drama',)",,USA,ENGLISH,7.5,24690,2013-05-03,6.0,0.02148,1.065
+tt1934248,End Roll,"('Horror', 'Mystery', 'Thriller')",UNRATED,ITALY,ITALIAN,5.7,65,2014-10-31,,,
+tt1934458,Under the Bed,"('Horror',)",,USA,ENGLISH,4.6,2359,2013-07-03,1.0,,
+tt1935065,Not Suitable for Children,"('Comedy', 'Romance')",,AUSTRALIA,ENGLISH,5.9,4656,2012-07-12,,,
+tt1935139,Hannah Has a Ho-Phase,"('Comedy', 'Romance')",UNRATED,USA,ENGLISH,6.1,60,2013-06-07,,,
+tt1935179,Mud,"('Drama',)",PG-13,USA,ENGLISH,7.4,152606,2013-05-10,10.0,2.21546,21.590086
+tt1935231,Slumber Party Slaughter,"('Drama', 'Thriller')",,USA,ENGLISH,6.6,62,2012-04-04,,,
+tt1935902,The Brass Teapot,"('Comedy', 'Fantasy', 'Thriller')",,USA,ENGLISH,6.4,13380,2013-04-15,0.9,0.004468,0.006643
+tt1937133,De l'autre côté du périph,"('Action', 'Comedy', 'Crime', 'Drama')",,FRANCE,FRENCH,5.8,4179,2012-12-19,,0.005923,0.005923
+tt1937222,Least Among Saints,"('Crime', 'Drama')",,USA,ENGLISH,6.5,532,2012-10-12,,0.015774,0.028026
+tt1937264,Now Is Good,"('Drama', 'Romance')",PG-13,UK,ENGLISH,7.2,30598,2012-09-19,,,
+tt1937441,The Burning Within,"('Action', 'Drama', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,3.6,34,,,,
+tt1937449,At Any Price,"('Drama', 'Sport', 'Thriller')",,USA,ENGLISH,5.6,6580,2013-05-01,,0.016095,0.379791
+tt1937506,The Philly Kid,"('Action', 'Drama', 'Sport')",,USA,ENGLISH,5.7,1928,2012-05-11,5.0,,
+tt1941717,Vulnerables,"('Thriller',)",UNRATED,SPAIN,LATIN,4.2,80,2012-10-31,,,
+tt1942828,Children of Sorrow,"('Horror',)",,USA,ENGLISH,4.3,529,2012-10-06,,,
+tt1942989,The Citizen,"('Drama',)",PG-13,USA,ENGLISH,7.0,3050,2013-09-27,,0.011655,0.024296
+tt1945062,About Cherry,"('Drama',)",,USA,ENGLISH,4.8,8959,2012-08-09,2.5,0.00276,0.00276
+tt1946347,Gladiators of Rome,"('Animation', 'Adventure', 'Comedy')",,ITALY,ITALIAN,5.2,1030,2014-11-11,40.0,,
+tt1949137,Buscando a Eimish,"('Drama',)",UNRATED,SPAIN,SPANISH,6.0,105,2012-11-09,,,
+tt1951133,Funeral Kings,"('Comedy', 'Drama')",,USA,ENGLISH,6.3,1098,2012-03-10,,,
+tt1951166,Le capital,"('Drama',)",,FRANCE,FRENCH,6.5,4611,2012-11-14,,0.0224,0.095272
+tt1954204,A Beautiful Soul,"('Drama',)",PG-13,USA,ENGLISH,6.5,83,2012-05-04,,,
+tt1954318,Canela,"('Comedy', 'Drama', 'Family')",,MEXICO,SPANISH,5.5,120,2013-04-12,,,
+tt1954352,Crooked Arrows,"('Drama', 'Sport')",PG-13,USA,ENGLISH,6.0,1709,2012-05-18,13.0,0.251041,1.830475
+tt1954470,Gangs of Wasseypur,"('Action', 'Comedy', 'Crime', 'Drama', 'Thriller')",UNRATED,INDIA,HINDI,8.2,64918,2012-08-02,,,
+tt1957867,Christmas in Compton,"('Comedy',)",PG-13,USA,ENGLISH,4.3,170,2012-11-09,,,
+tt1959332,American Mary,"('Drama', 'Horror')",,CANADA,ENGLISH,6.3,19723,2013-01-11,,,
+tt1959438,Kiss of the Damned,"('Drama', 'Horror', 'Romance')",,USA,ENGLISH,5.6,4207,2013-03-28,,0.002723,0.014325
+tt1964624,Dans la maison,"('Comedy', 'Drama', 'Mystery', 'Thriller')",,FRANCE,FRENCH,7.4,26402,2012-10-10,,0.035214,0.354244
+tt1965065,Save the Date,"('Comedy', 'Romance')",,USA,ENGLISH,5.8,6438,2012-11-08,,0.003755,0.003755
+tt1965115,Stealing Roses,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,5.5,97,2012-10-12,1.3,,
+tt1971352,Compliance,"('Biography', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.4,27929,2012-09-26,0.27,0.016427,0.318622
+tt1971403,General Education,"('Comedy',)",PG-13,USA,ENGLISH,4.5,707,2013-08-22,,0.000282,0.008601
+tt1972819,And While We Were Here,"('Drama', 'Romance')",,USA,ENGLISH,5.8,3238,2013-08-13,,,
+tt1975249,6 Bullets,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.1,12827,2012-11-17,10.0,,
+tt1977881,Overbooked,"('Action', 'Comedy', 'Romance')",UNRATED,SWITZERLAND,GERMAN,6.4,35,2012-09-22,,,
+tt1978567,The Reef 2: High Tide,"('Animation', 'Family', 'Musical')",,SOUTH KOREA,ENGLISH,4.0,738,2012-10-30,,,
+tt1979172,A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman,"('Animation', 'Comedy')",,UK,ENGLISH,5.9,1441,2013-02-08,,0.005102,0.005102
+tt1981080,Tai Chi Zero,"('Action', 'Adventure', 'Drama')",PG-13,CHINA,MANDARIN,6.1,4487,2012-09-27,,0.085094,0.212094
+tt1981677,Pitch Perfect,"('Comedy', 'Music', 'Romance')",PG-13,USA,ENGLISH,7.2,246714,2012-10-05,17.0,5.149433,65.001093
+tt1984110,Among Friends,"('Comedy', 'Horror')",,USA,ENGLISH,4.5,1412,2014-01-07,,,
+tt1985017,Atlas Shrugged II: The Strike,"('Drama', 'Mystery', 'Sci-Fi')",PG-13,USA,ENGLISH,5.4,6103,2012-10-12,10.0,1.746025,3.333823
+tt1986857,Hijacked,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,3.9,3434,2012-12-11,,,
+tt1986953,Storage 24,"('Horror', 'Sci-Fi')",,UK,ENGLISH,4.4,6077,2012-06-29,,,
+tt1988781,7 Below,"('Horror',)",,USA,ENGLISH,3.2,3707,2012-09-13,6.0,,
+tt1989475,Chained,"('Crime', 'Drama', 'Horror', 'Thriller')",,CANADA,ENGLISH,6.4,14557,2013-07-18,,,
+tt1989485,Dead Before Dawn 3D,"('Adventure', 'Comedy', 'Horror')",,CANADA,ENGLISH,4.7,3009,2012-10-11,,,
+tt1989593,Red Hook Summer,"('Drama',)",,USA,ENGLISH,5.0,1417,2013-05-17,,0.04007,0.338803
+tt1990181,Brake,"('Thriller',)",,USA,ENGLISH,6.1,10813,2012-05-17,0.5,0.00433,0.00433
+tt1990216,El Gringo,"('Action', 'Drama')",,USA,ENGLISH,5.5,5341,2012-05-11,7.0,,
+tt1990217,The Artist and the Model,"('Drama',)",,SPAIN,FRENCH,6.7,1379,2013-08-02,,0.0169,0.1073
+tt1990314,Robot & Frank,"('Comedy', 'Crime', 'Drama', 'Sci-Fi')",PG-13,USA,ENGLISH,7.1,57913,2012-09-19,2.5,0.035539,3.325638
+tt1991245,Chernobyl Diaries,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.0,58273,2012-05-25,1.0,7.955307,18.11964
+tt1992147,Love Sick Love,"('Thriller',)",,USA,ENGLISH,5.0,510,2013-04-26,,,
+tt1995260,Battlefield America,"('Drama', 'Musical')",PG-13,USA,ENGLISH,2.7,1365,2012-06-21,15.0,0.113882,
+tt1995304,Fat Kid Rules the World,"('Comedy', 'Drama')",,USA,ENGLISH,6.5,3129,2012-03-09,,,
+tt1995341,It's a Disaster,"('Comedy', 'Drama')",,USA,ENGLISH,6.4,9379,2013-06-07,0.5,0.015305,0.0381
+tt1995346,Crazy Enough,"('Comedy',)",,USA,ENGLISH,3.0,384,2013-04-16,,,
+tt1995466,Firefall: An Epic Family Adventure,"('Adventure', 'Comedy', 'Drama', 'Family')",PG-13,USA,ENGLISH,7.4,86,,,,
+tt1996264,"For a Good Time, Call...","('Comedy',)",,USA,ENGLISH,6.0,14754,2012-11-02,0.85,0.143935,1.243961
+tt1996346,Woman Thou Art Loosed: On the 7th Day,"('Drama',)",UNRATED,USA,ENGLISH,5.0,559,2012-04-13,,0.641542,1.082299
+tt2005153,Backwards,"('Romance', 'Sport')",,USA,ENGLISH,5.5,640,2012-09-21,,0.02319,0.061465
+tt2005164,Breathless,"('Comedy', 'Thriller')",,USA,ENGLISH,5.1,1205,2016-01-09,5.0,,
+tt2006040,A Fantastic Fear of Everything,"('Comedy',)",,UK,ENGLISH,5.9,12911,2012-06-08,,,
+tt2006801,Night of the Living Dead: Resurrection,"('Horror',)",,UK,ENGLISH,2.7,1177,2012-11-30,,,
+tt2008486,Crossroad,"('Drama',)",PG-13,USA,ENGLISH,5.2,184,2012-11-30,0.35,,
+tt2011300,The Kitchen,"('Comedy', 'Drama')",,USA,ENGLISH,5.0,1463,2012-08-14,,,
+tt2014202,Dawn Rider,"('Western',)",,CANADA,ENGLISH,4.8,1749,2012-05-29,5.0,,
+tt2014349,Spare Time Killers,"('Action', 'Thriller')",UNRATED,USA,ENGLISH,7.9,29,2012-04-01,,,
+tt2022410,Greencastle,"('Drama',)",PG-13,USA,ENGLISH,7.2,232,2012-01-21,0.025,,
+tt2023453,Diary of a Wimpy Kid: Dog Days,"('Comedy', 'Family')",,USA,ENGLISH,6.3,18756,2012-08-03,22.0,14.623599,49.008662
+tt2024555,"High Heels, Low Tide","('Drama',)",UNRATED,BELGIUM,DUTCH,4.7,275,2012-04-25,,,
+tt2025667,Smiley,"('Comedy', 'Horror')",,USA,ENGLISH,3.5,7864,2012-10-12,,,
+tt2027138,Kyaa Super Kool Hain Hum,"('Comedy',)",UNRATED,INDIA,HINDI,5.0,3326,2012-07-27,,,
+tt2032557,The Reluctant Fundamentalist,"('Drama', 'Thriller')",,USA,ENGLISH,6.9,12186,2013-05-03,,0.03092,0.519535
+tt2034727,Love Written in Blood,"('Drama',)",UNRATED,USA,ENGLISH,6.2,16,,13.0,,
+tt2034761,Reisen til julestjernen,"('Adventure', 'Family', 'Fantasy')",UNRATED,NORWAY,NORWEGIAN,5.8,1035,2012-11-09,,,
+tt2036376,Girls Against Boys,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,4.8,3086,2013-02-01,,0.006111,0.006111
+tt2039395,The Mystic Tales of Nikolas Winter,"('Adventure', 'Fantasy', 'Thriller')",UNRATED,USA,ENGLISH,,0,2012-03-17,,,
+tt2040307,Chasing Rodriguez,"('Family',)",UNRATED,USA,ENGLISH,,0,2012-08-31,0.125,,
+tt2040560,The Pact,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.8,21803,2012-06-08,0.4,,
+tt2040578,U.F.O.,"('Comedy', 'Horror', 'Sci-Fi')",,UK,ENGLISH,3.2,3086,2012-12-14,2.5,,
+tt2041488,Thunderstruck,"('Comedy', 'Family', 'Fantasy', 'Sport')",,USA,ENGLISH,5.2,4057,2012-08-24,,,
+tt2044729,A Glimpse Inside the Mind of Charles Swan III,"('Comedy',)",,USA,ENGLISH,4.8,4519,2013-03-14,,,
+tt2047890,The Woodcarver,"('Drama',)",,USA,ENGLISH,6.8,337,2012-03-05,3.0,,
+tt2048854,Hercules Saves Christmas,"('Family',)",,USA,ENGLISH,3.2,141,2012-11-19,,,
+tt2050633,The Barrens,"('Horror',)",,USA,ENGLISH,4.6,3954,2012-11-30,,,
+tt2053423,Revenge for Jolly!,"('Comedy', 'Drama')",,USA,ENGLISH,4.6,1165,2013-05-07,,,
+tt2053425,Rust and Bone,"('Drama', 'Romance')",,FRANCE,FRENCH,7.5,57118,2012-05-17,,0.027154,2.061449
+tt2055593,Becoming Redwood,"('Drama',)",,CANADA,ENGLISH,6.0,133,2013-05-28,1.2,,
+tt2056663,No One Will Know,"('Action', 'Crime', 'Thriller')",UNRATED,USA,ENGLISH,3.8,118,2012-08-16,0.05,,
+tt2056740,The Lesser Blessed,"('Drama',)",,CANADA,ENGLISH,6.1,556,2012-09-09,,,
+tt2059255,No,"('Drama',)",,CHILE,SPANISH,7.4,20941,2012-08-09,,0.071742,2.343664
+tt2062495,Doudege Wénkel,"('Action', 'Crime', 'Thriller')",UNRATED,LUXEMBOURG,LUXEMBOURGISH,6.9,120,2012-10-03,,,
+tt2063666,Hello I Must Be Going,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.2,5317,2013-01-31,,0.023904,0.106709
+tt2063781,Smashed,"('Drama',)",,USA,ENGLISH,6.8,15321,2012-12-14,0.5,0.026943,0.375981
+tt2064849,London Paris New York,"('Romance',)",PG-13,INDIA,HINDI,5.7,3533,2012-03-02,,,
+tt2066176,Any Day Now,"('Drama',)",,USA,ENGLISH,7.5,5330,2013-09-06,,0.040489,0.200002
+tt2069708,Abel's Field,"('Drama',)",,USA,ENGLISH,6.6,582,2012-09-15,3.5,,
+tt2069955,Border Run,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,4.3,1563,2013-08-28,5.0,,
+tt2070597,Shanghai Calling,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.3,1465,2013-02-08,,0.010443,0.010443
+tt2070776,Populaire,"('Comedy', 'Romance', 'Sport')",,FRANCE,FRENCH,6.9,10388,2013-09-06,,0.01569,0.175256
+tt2070883,Ultrasonic,"('Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.7,107,2012-06-01,0.022,,
+tt2071648,Vampire Dog,"('Comedy', 'Family')",UNRATED,CANADA,ENGLISH,4.3,972,2012-11-23,,,
+tt2073016,The Other Son,"('Drama',)",PG-13,FRANCE,FRENCH,7.4,3043,2012-04-04,,0.125691,1.160773
+tt2073086,Still Mine,"('Drama',)",PG-13,CANADA,ENGLISH,7.4,3546,2013-06-06,,0.076807,1.154466
+tt2077851,Sleepwalk with Me,"('Comedy',)",PG-13,USA,ENGLISH,6.8,10999,2013-04-04,1.0,0.322677,2.263436
+tt2081266,The Adventures of Huck Finn,"('Adventure', 'Family')",,GERMANY,GERMAN,5.8,237,2012-12-20,,,
+tt2081329,Papa,"('Drama',)",UNRATED,SOUTH KOREA,KOREAN,7.0,85,2012-02-01,,,
+tt2081437,The Liability,"('Comedy', 'Crime', 'Thriller')",,UK,ENGLISH,5.9,6912,2013-05-17,2.0,,
+tt2082415,Saints and Soldiers: Airborne Creed,"('Action', 'Drama', 'War')",PG-13,USA,ENGLISH,5.7,3487,2012-08-17,,,
+tt2083294,Picture Day,"('Comedy', 'Drama')",,CANADA,ENGLISH,6.3,1004,2014-04-07,,,
+tt2083379,A Dark Truth,"('Action', 'Thriller')",,CANADA,ENGLISH,5.6,5427,2012-11-29,,0.00063,0.00575
+tt2083383,Trouble with the Curve,"('Drama', 'Sport')",PG-13,USA,ENGLISH,6.8,54270,2012-09-21,30.0,12.16204,35.763137
+tt2085930,Starship Troopers: Invasion,"('Animation', 'Action', 'Sci-Fi')",,JAPAN,ENGLISH,5.9,9923,2012-07-21,,,
+tt2087850,Les infidèles,"('Comedy',)",,FRANCE,FRENCH,5.3,7163,2012-02-29,,0.006674,0.006674
+tt2089847,Undocumented Executive,"('Comedy',)",UNRATED,USA,ENGLISH,6.8,121,2012-10-20,,,
+tt2090604,This Shining Night,"('Family',)",UNRATED,USA,ENGLISH,,0,,,,
+tt2091243,Bindlestiffs,"('Comedy',)",,USA,ENGLISH,4.5,543,,,,
+tt2091473,Promised Land,"('Drama',)",,USA,ENGLISH,6.6,33769,2013-01-04,15.0,0.173915,7.597898
+tt2093944,Amber Alert,"('Crime', 'Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,4.6,2635,2012-11-02,,,
+tt2094064,Much Ado About Nothing,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,7.2,15130,2013-06-14,,0.171941,4.327763
+tt2094767,Avgust. Vosmogo,"('Action', 'Drama', 'Thriller', 'War')",,RUSSIA,RUSSIAN,5.8,2034,2012-02-21,16.0,,
+tt2094877,Les saveurs du Palais,"('Biography', 'Comedy')",PG-13,FRANCE,FRENCH,6.4,5213,2012-09-19,,0.014387,0.212072
+tt2097307,Hit and Run,"('Action', 'Comedy', 'Romance')",,USA,ENGLISH,6.1,31869,2012-08-22,2.0,5.9,13.74655
+tt2098627,Attack of the 50 Foot Cheerleader,"('Comedy',)",,USA,ENGLISH,4.5,995,,1.0,,
+tt2101441,Spring Breakers,"('Crime', 'Drama')",,USA,ENGLISH,5.3,122395,2013-03-22,5.0,0.263002,14.123773
+tt2103264,Emperor,"('Drama', 'History', 'War')",PG-13,JAPAN,ENGLISH,6.5,11909,2013-07-27,,1.014099,3.345315
+tt2103997,Battle Force,"('Action', 'War')",,USA,ENGLISH,3.3,902,2012-07-01,,,
+tt2104985,Sky Force 3D,"('Animation',)",,USA,ENGLISH,3.3,239,2014-11-09,20.0,,
+tt2105044,V/H/S,"('Horror', 'Thriller')",,USA,ENGLISH,5.8,51298,2012-09-06,,0.036402,0.09977
+tt2106476,The Hunt,"('Drama',)",,DENMARK,DANISH,8.3,227414,2013-01-10,3.8,0.043045,0.687185
+tt2108605,Bigfoot County,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,2.9,488,2012-12-11,,,
+tt2109184,Paranormal Activity 4,"('Horror',)",,USA,ENGLISH,4.6,56856,2012-10-19,5.0,29.003866,53.9213
+tt2113644,Das Haus der Krokodile,"('Adventure', 'Family', 'Mystery')",,GERMANY,GERMAN,6.4,333,2012-03-22,,,
+tt2115295,Ginger & Rosa,"('Drama',)",PG-13,UK,ENGLISH,6.3,9315,2012-10-19,,0.042838,1.0057
+tt2119474,Maximum Conviction,"('Action', 'Adventure', 'Thriller')",,USA,ENGLISH,4.9,5925,2013-01-12,10.0,,
+tt2121377,The Rise & Fall of a White Collar Hooligan,"('Crime',)",,UK,ENGLISH,5.2,1751,2012-05-07,1.0,,
+tt2122484,Taylor Swift: American Beauty,"('Biography',)",UNRATED,USA,ENGLISH,5.7,15,2012-01-03,,,
+tt2125435,Beasts of the Southern Wild,"('Adventure', 'Drama', 'Fantasy')",PG-13,USA,ENGLISH,7.3,76113,2012-07-05,1.8,0.169702,12.795746
+tt2126282,Ekk Deewana Tha,"('Drama', 'Romance')",,INDIA,HINDI,5.9,2606,2012-02-17,,,
+tt2126362,Stitches,"('Comedy', 'Fantasy', 'Horror')",,IRELAND,ENGLISH,5.7,7912,2012-10-26,,,
+tt2131556,Derby Dogs,"('Family',)",,NEW ZEALAND,ENGLISH,5.9,134,2012-09-27,,,
+tt2133333,The Color of Time,"('Biography', 'Drama', 'Romance')",,USA,ENGLISH,4.4,1161,2014-12-09,,,
+tt2136759,Hatfields and McCoys: Bad Blood,"('Drama', 'Western')",PG-13,USA,ENGLISH,4.0,402,2012-06-05,,,
+tt2139843,Electrick Children,"('Drama',)",,USA,ENGLISH,6.8,5235,2012-07-13,,,
+tt2140203,Ookami kodomo no Ame to Yuki,"('Animation', 'Drama', 'Family', 'Fantasy')",,JAPAN,JAPANESE,8.2,28673,2012-07-21,,,
+tt2140315,Secret 3,"('Horror', 'Mystery', 'Romance', 'Thriller')",,INDIA,HINDI,4.0,3064,2012-09-07,,,
+tt2141973,The Doorway,"('Horror',)",UNRATED,USA,ENGLISH,5.1,28,2012-03-12,0.03,,
+tt2146206,Mar de Fondo,"('Drama',)",UNRATED,MEXICO,SPANISH,6.0,19,2012-06-01,10.0,,
+tt2147008,Swan Lake,"('Drama', 'Music', 'Musical', 'Romance', 'Thriller')",UNRATED,UK,LATIN,7.7,118,2012-05-15,,,
+tt2149137,Snow White: A Deadly Summer,"('Horror',)",PG-13,USA,ENGLISH,2.2,666,2012-03-16,1.0,,
+tt2150332,Renoir,"('Biography', 'Drama', 'History', 'Romance')",,FRANCE,FRENCH,6.6,4597,2013-01-02,,0.065194,2.291047
+tt2151893,Un Mundo Secreto,"('Drama',)",UNRATED,MEXICO,SPANISH,5.7,107,2013-03-15,,,
+tt2152731,Generation Me,"('Comedy', 'Music', 'Romance')",UNRATED,USA,ENGLISH,8.0,76,,,,
+tt2154654,Madam Butterfly 3D,"('Music',)",,UK,LATIN,8.2,13,2012-03-05,,,
+tt2156588,Room 13 Part 2,"('Comedy', 'Horror')",UNRATED,USA,ENGLISH,7.8,8,2012-01-13,,,
+tt2157660,Unwitting Victims,"('Drama',)",UNRATED,USA,ENGLISH,,0,2012-01-04,0.029,,
+tt2158686,407 Dark Flight 3D,"('Horror',)",UNRATED,THAILAND,THAI,4.2,731,2012-03-22,,,
+tt2165068,The Worm and the Poodle,"('Drama',)",UNRATED,USA,ENGLISH,,0,2012-05-13,0.01,,
+tt2165735,Du zhan,"('Action', 'Crime', 'Drama', 'Thriller')",,CHINA,MANDARIN,7.0,8220,2013-04-04,,0.005926,0.127877
+tt2170301,Barrio Tales,"('Horror',)",,USA,ENGLISH,4.0,407,2012-01-13,,,
+tt2170325,Broken Faith,"('Action',)",,USA,ENGLISH,7.3,31,,0.5,,
+tt2171416,Life's a Jungle: Africa's Most Wanted,"('Animation', 'Family')",UNRATED,USA,ENGLISH,1.7,246,2012-05-15,230.0,,
+tt2171809,Brother White,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,6.0,536,,1.0,,
+tt2176049,"Strange, Stranger","('Horror',)",UNRATED,USA,ENGLISH,7.0,250,2012-03-20,,,
+tt2178915,6 Plots,"('Horror', 'Thriller')",,AUSTRALIA,ENGLISH,3.8,406,2012-09-13,,,
+tt2178941,Barbara,"('Drama',)",PG-13,GERMANY,GERMAN,7.2,10864,2012-03-08,,,
+tt2179121,What's in a Name?,"('Comedy', 'Drama')",UNRATED,FRANCE,FRENCH,7.3,13021,2013-12-13,,,
+tt2180333,Crowsnest,"('Horror', 'Mystery', 'Thriller')",,CANADA,ENGLISH,3.9,1446,2012-09-07,1.2,,
+tt2181885,Daensing kwin,"('Comedy', 'Drama', 'Family')",UNRATED,SOUTH KOREA,KOREAN,6.4,349,2012-02-03,,,
+tt2181989,King of the Travellers,"('Drama',)",UNRATED,IRELAND,ENGLISH,5.0,204,2013-03-29,,,
+tt2182019,Ritual,"('Thriller',)",,INDONESIA,ENGLISH,5.5,2227,2012-04-26,0.2,,
+tt2186715,Hon zin,"('Action', 'Crime', 'Mystery', 'Thriller')",,HONG KONG,CANTONESE,6.7,3602,2012-11-08,,,
+tt2186819,Ha-wool-ling,"('Action', 'Thriller')",UNRATED,SOUTH KOREA,KOREAN,6.2,1539,2012-02-16,,,
+tt2188885,Sin Reaper 3D,"('Horror', 'Thriller')",,GERMANY,ENGLISH,2.9,249,2013-07-23,,,
+tt2188967,Wordlessness,"('Fantasy',)",UNRATED,USA,ENGLISH,6.9,175,2012-09-30,,,
+tt2190193,Back to the Sea,"('Animation', 'Comedy')",,CHINA,LATIN,4.4,178,2012-01-27,,,
+tt2194870,Camion,"('Drama',)",UNRATED,CANADA,FRENCH,6.7,320,2012-10-04,,,
+tt2197776,Training for a Fight,"('Action', 'Drama', 'Sport')",UNRATED,USA,ENGLISH,1.4,148,2012-07-10,,,
+tt2197881,Cole Younger & The Black Train,"('Western',)",,USA,ENGLISH,3.6,90,,,,
+tt2197886,Que pena tu familia,"('Comedy', 'Romance')",UNRATED,CHILE,SPANISH,5.0,546,2013-01-03,,,
+tt2202361,A Measure of Faith,"('Drama',)",PG-13,USA,ENGLISH,6.8,11,2012-10-19,0.3,,
+tt2202527,Roxy,"('Music',)",UNRATED,USA,ENGLISH,,0,2012-02-10,0.8,,
+tt2202569,Sorority Party Massacre,"('Comedy', 'Horror')",,USA,ENGLISH,3.4,708,2013-12-01,,,
+tt2205697,Stuck in Love,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.3,76953,2013-05-02,,0.034967,0.07895
+tt2206330,La pelea de mi vida,"('Family',)",UNRATED,ARGENTINA,SPANISH,5.5,73,2012-09-06,,,
+tt2207006,The Obama Effect,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,2.0,373,2012-07-13,10.0,0.073,0.110251
+tt2210531,Chick Magnets,"('Comedy', 'Romance')",,USA,ENGLISH,7.1,43,2012-03-16,,,
+tt2211716,Armynel,"('Mystery', 'Thriller')",UNRATED,USA,ENGLISH,5.2,64,2012-05-15,0.25,,
+tt2215285,Madea's Witness Protection,"('Comedy', 'Crime', 'Drama')",PG-13,USA,ENGLISH,4.9,9225,2012-06-29,20.0,25.390575,65.653242
+tt2215395,Paulette,"('Comedy', 'Crime')",,FRANCE,FRENCH,6.6,6070,2015-08-14,,0.001548,0.029494
+tt2215551,Stories of the Paranormal: It Came in the Night,"('Horror',)",UNRATED,USA,ENGLISH,,0,2012-02-26,0.015,,
+tt2216240,Kapringen,"('Drama', 'Thriller')",,DENMARK,DANISH,7.2,14423,2012-09-20,,0.039392,0.413276
+tt2219514,Lemale et ha'halal,"('Drama', 'Romance')",,ISRAEL,HEBREW,6.7,3371,2012-10-18,,0.059164,1.774639
+tt2221715,Knights of Malice,"('Drama', 'Fantasy')",UNRATED,USA,ENGLISH,,0,2012-02-25,0.0007,,
+tt2224307,Les Pee-Wee 3D: L'hiver qui a changé ma vie,"('Comedy', 'Drama', 'Family', 'Sport')",UNRATED,CANADA,FRENCH,6.5,380,2012-12-21,,,
+tt2232332,Killed Mr Killer,"('Action', 'Comedy')",UNRATED,USA,ENGLISH,,0,2012-07-12,,,
+tt2232526,Charly 10th Anniversary Encore,"('Romance',)",UNRATED,USA,ENGLISH,8.5,6,2012-08-10,,,
+tt2240312,Hold Your Breath,"('Horror',)",,USA,ENGLISH,3.3,1621,2012-10-05,,,
+tt2243151,South of Sanity,"('Horror',)",UNRATED,UK,ENGLISH,5.0,65,2012-10-31,,,
+tt2243621,Snow Queen,"('Animation', 'Adventure', 'Family')",,RUSSIA,RUSSIAN,5.5,1952,2013-10-11,7.0,,
+tt2251285,Dire Digest,"('Fantasy', 'Horror', 'Thriller')",UNRATED,USA,ENGLISH,6.0,10,2012-05-20,,,
+tt2253554,The Serpent's Tongue,"('Horror', 'Thriller')",UNRATED,USA,ENGLISH,6.6,5,,,,
+tt2253742,Al-too-bi: Riteon too beiseu,"('Action', 'Drama', 'Romance')",UNRATED,SOUTH KOREA,KOREAN,6.1,1385,2012-08-24,10.0,,
+tt2255735,Angus Buchan's Ordinary People,"('Drama',)",PG-13,SOUTH AFRICA,ENGLISH,5.9,113,2012-04-05,,,
+tt2258858,Wadjda,"('Comedy', 'Drama')",,SAUDI ARABIA,ARABIC,7.6,15926,2013-05-16,,0.041253,1.347578
+tt2270168,En el ombligo del cielo,"('Comedy',)",UNRATED,MEXICO,SPANISH,7.3,97,2012-11-15,0.4,,
+tt2273673,Unstable,"('Crime', 'Mystery')",PG-13,USA,ENGLISH,4.3,248,2012-04-02,,,
+tt2275499,Alien Dawn,"('Action', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,2.4,799,2012-08-06,1.85,,
+tt2275671,El rey de Najayo,"('Crime', 'Drama')",,DOMINICAN REPUBLIC,SPANISH,6.8,218,2015-03-13,0.5,,
+tt2278878,Mommy's Little Monster,"('Drama',)",UNRATED,USA,ENGLISH,4.2,23,,,,
+tt2281251,Gabby's Wish,"('Comedy', 'Drama', 'Family')",UNRATED,USA,LATIN,6.1,15,,,,
+tt2282849,Les Kaïra,"('Comedy',)",UNRATED,FRANCE,FRENCH,5.4,1314,2012-07-11,,,
+tt2284790,Wings,"('Animation', 'Adventure', 'Comedy')",UNRATED,RUSSIA,RUSSIAN,3.2,545,2014-02-04,,,
+tt2297108,100 Ghost Street: The Return of Richard Speck,"('Horror',)",UNRATED,USA,ENGLISH,3.9,895,2012-07-24,0.15,,
+tt2301199,Critical Decisions,"('Drama',)",UNRATED,USA,ENGLISH,,0,2012-02-16,,,
+tt2308659,El eco del miedo,"('Horror', 'Mystery', 'Thriller')",UNRATED,MEXICO,SPANISH,5.4,45,2013-08-15,0.05,,
+tt2308773,Ishaqzaade,"('Action', 'Drama', 'Romance')",UNRATED,INDIA,HINDI,6.6,5758,2012-05-11,,,
+tt2313780,12/12/12,"('Horror',)",,USA,ENGLISH,1.8,1293,2012-12-04,,,
+tt2317734,The Darkening,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,3.9,38,2012-09-07,0.05,,
+tt2318440,Adventure Planet,"('Animation', 'Adventure')",,THAILAND,THAI,5.4,155,,,,
+tt2319739,41,"('Drama', 'Sci-Fi')",UNRATED,AUSTRALIA,ENGLISH,6.8,790,2015-07-21,,,
+tt2319889,Heaven 2,"('Crime', 'Drama', 'Thriller')",,INDIA,HINDI,6.1,4503,2012-05-04,,,
+tt2320924,War of the Worlds: Goliath,"('Animation', 'Action', 'Adventure', 'Sci-Fi')",PG-13,MALAYSIA,ENGLISH,5.5,959,2014-07-03,,0.013385,0.013385
+tt2321501,Saturday Morning Mystery,"('Comedy', 'Horror')",,USA,ENGLISH,4.4,736,2012-06-16,,,
+tt2322457,Ivan the Incredible,"('Animation', 'Comedy', 'Family')",,DENMARK,DANISH,4.4,572,2012-05-16,,,
+tt2325491,12 Dogs of Christmas: Great Puppy Rescue,"('Comedy', 'Family')",,USA,ENGLISH,5.3,327,2012-10-09,5.0,,
+tt2326818,Birds of a Feather,"('Drama',)",,USA,ENGLISH,5.8,44,2013-06-25,0.5,,
+tt2327782,Periods.,"('Comedy',)",UNRATED,USA,ENGLISH,7.8,70,2014-12-05,,,
+tt2328503,Ko-ri-a,"('Drama', 'Sport')",UNRATED,SOUTH KOREA,KOREAN,7.0,909,2012-05-03,,,
+tt2331880,The Fitzgerald Family Christmas,"('Drama',)",PG-13,USA,ENGLISH,6.3,1217,2012-12-07,,0.0138,0.0138
+tt2333408,Christmas Oranges,"('Drama',)",,USA,ENGLISH,6.7,326,2012-06-01,,,
+tt2336373,Moron 5 and the Crying Lady,"('Comedy',)",UNRATED,PHILIPPINES,FILIPINO,5.4,59,2012-04-07,,,
+tt2336960,Inch'Allah,"('Drama',)",,CANADA,FRENCH,6.9,2273,2013-08-16,,0.003391,0.009155
+tt2337981,Geon-chook-hak-gae-ron,"('Drama', 'Romance')",UNRATED,SOUTH KOREA,KOREAN,7.2,2540,2012-03-22,,,
+tt2338778,Rak sud tai pai na,"('Romance',)",UNRATED,THAILAND,THAI,6.6,261,2012-01-26,,,
+tt2341664,Come Out and Play,"('Horror',)",,MEXICO,ENGLISH,4.7,2888,2013-03-22,,,
+tt2342071,Dorothy and the Witches of Oz,"('Action', 'Family', 'Fantasy')",,USA,ENGLISH,4.7,378,2012-02-17,5.0,,
+tt2342207,Mais qui a re-tué Pamela Rose?,"('Comedy',)",UNRATED,FRANCE,FRENCH,5.3,1133,2012-12-05,,,
+tt2342233,No te enamores de mí,"('Comedy', 'Drama', 'Romance')",UNRATED,ARGENTINA,SPANISH,6.0,111,2012-05-10,,,
+tt2342301,Si-che-ga Dol-a-wass-da,"('Comedy', 'Crime')",UNRATED,SOUTH KOREA,KOREAN,6.2,233,2012-03-29,2.6,,
+tt2347497,Silent Night,"('Comedy', 'Horror', 'Mystery', 'Thriller')",,CANADA,ENGLISH,5.2,6491,2012-12-04,5.0,0.009672,0.014567
+tt2347569,Frances Ha,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.4,57089,2013-08-23,,0.137398,4.063238
+tt2353965,Distraction,"('Sci-Fi', 'Thriller')",UNRATED,USA,ENGLISH,5.9,16,,,,
+tt2354069,Hattrick,"('Action', 'Comedy', 'Drama', 'Sport')",UNRATED,INDONESIA,INDONESIAN,7.9,30,2012-05-10,0.2,,
+tt2354196,Croczilla,"('Action', 'Adventure', 'Comedy', 'Drama', 'Horror', 'Thriller')",PG-13,CHINA,CANTONESE,4.3,620,2012-06-08,,,
+tt2354365,Splash Area,"('Horror',)",UNRATED,UK,ENGLISH,4.6,55,2017-05-23,,,
+tt2355921,AquaTales,"('Animation', 'Adventure')",,SPAIN,TAMIL,3.5,58,2012-04-27,,,
+tt2359137,Last Ounce of Courage,"('Drama', 'War')",,USA,ENGLISH,4.0,1855,2012-09-14,1.2,1.585994,3.310439
+tt2360334,Brawl,"('Action',)",,THAILAND,THAI,5.4,148,2012-09-27,,,
+tt2363439,The Frozen,"('Drama', 'Thriller')",PG-13,USA,ENGLISH,4.4,1595,2012-10-10,0.25,,
+tt2364997,Zombies Vs. Strippers,"('Comedy', 'Horror')",,USA,ENGLISH,3.5,645,2012-07-09,0.5,,
+tt2369179,One More Dream,"('Comedy',)",UNRATED,BULGARIA,BULGARIAN,6.3,246,2012-10-19,,,
+tt2378089,Warning: Apocalypse 2012,"('Adventure',)",UNRATED,USA,ENGLISH,6.2,20,2012-01-25,0.06,,
+tt2385001,Android Insurrection,"('Action', 'Sci-Fi')",,USA,ENGLISH,1.9,551,2012-05-24,,,
+tt2401806,Cloistered Honey,"('Comedy',)",UNRATED,USA,ENGLISH,,0,,0.006,,
+tt2404405,The 49th Line,"('Horror',)",UNRATED,USA,ENGLISH,,0,2012-05-25,0.08,,
+tt2410712,Ni un hombre más,"('Comedy',)",UNRATED,ARGENTINA,SPANISH,5.9,150,2012-11-08,,,
+tt2411024,Yong-eui-ja X,"('Drama', 'Thriller')",UNRATED,SOUTH KOREA,KOREAN,7.0,1093,2012-10-18,,,
+tt2414212,Santa Paws 2: The Santa Pups,"('Adventure', 'Family')",UNRATED,USA,ENGLISH,5.1,928,2012-11-20,,,
+tt2418644,Testing Movie,"('Family', 'Mystery')",UNRATED,ICELAND,ENGLISH,7.2,70,2017-05-27,,,
+tt2439190,Rodencia y el Diente de la Princesa,"('Animation', 'Adventure')",,PERU,SPANISH,5.3,305,2012-10-11,,,
+tt2507438,5-baek-man-bool-eui Sa-na-i,"('Comedy', 'Drama')",UNRATED,SOUTH KOREA,KOREAN,6.0,69,2012-07-19,,,
+tt2543698,Jianshi liu baiyuan,"('Action', 'Drama')",PG-13,CHINA,CHINESE,6.4,400,2016-03-11,,,
+tt2573446,Ibiza My Way or the High Way,,UNRATED,UK,ENGLISH,6.3,15,2012-12-01,,,
+tt2587198,Antapal,"('Action', 'Crime', 'Drama', 'History', 'Thriller')",,THAILAND,THAI,6.7,271,2012-06-14,,,
+tt2592336,Na-eui PS pa-teu-neo,"('Comedy', 'Romance')",UNRATED,SOUTH KOREA,KOREAN,6.9,1652,2012-12-06,,,
+tt2605444,Comme un lion,"('Drama',)",UNRATED,FRANCE,FRENCH,6.1,173,2013-01-09,,,
+tt2630526,Yak,"('Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi')",,THAILAND,THAI,5.5,258,2015-12-22,,,
+tt2780998,In a Small World,"('Adventure',)",UNRATED,SRI LANKA,THAI,7.0,56,2012-10-22,1.0,,
+tt3278140,2112,"('Sport',)",UNRATED,USA,ENGLISH,,0,2012-09-30,,,
+tt3657672,Yu Chigong,"('Action', 'Adventure', 'Drama', 'History')",UNRATED,CHINA,MANDARIN,5.4,7,2013-09-29,,,
+tt3707072,Lonely the Film,"('Drama',)",UNRATED,USA,ENGLISH,,0,2012-03-08,,,
+tt3727208,Paper Man,"('Thriller',)",UNRATED,USA,ENGLISH,7.1,14,2012-09-02,0.01,,
+tt4042710,Unleashing Roy,"('Drama',)",UNRATED,USA,ENGLISH,7.7,10,2012-07-21,,,
+tt4381468,Das Racist,,UNRATED,ALBANIA,LATIN,,0,,,,
+tt5038694,Antisocial Old Buggers,,UNRATED,ALBANIA,LATIN,,0,,,,
+tt5156638,The Heaven Is Only Open to the Single!,"('Drama',)",UNRATED,SOUTH KOREA,KOREAN,8.8,6,2012-06-21,,,
+tt5779650,The Adventures of Panda Warrior,"('Animation',)",UNRATED,CHINA,MANDARIN,3.0,87,2016-08-02,,,
+tt6543070,The Rise of Kirmada,"('Animation',)",UNRATED,INDIA,HINDI,,0,,,,

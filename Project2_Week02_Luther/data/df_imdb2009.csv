@@ -1,0 +1,800 @@
+Code,Title,Genre,MPAA,Country,Language,Rating_User,Rating_Count,Release_Date,Budget,Sales_Opening,Sales_Gross
+tt0327597,Coraline,"('Animation', 'Drama', 'Fantasy', 'Thriller')",,USA,ENGLISH,7.7,172350,2009-02-06,60.0,16.849646,75.286229
+tt0346631,Blood and Bone,"('Action', 'Drama')",,USA,ENGLISH,6.7,28635,2009-09-20,3.7,,
+tt0361748,Inglourious Basterds,"('Adventure', 'Drama', 'War')",,GERMANY,ENGLISH,8.3,1067657,2009-08-21,75.0,38.054676,120.540719
+tt0362478,The Box,"('Drama', 'Fantasy', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.6,83316,2009-11-06,16.0,7.571417,15.045676
+tt0365929,Whiteout,"('Action', 'Crime', 'Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.5,34796,2009-09-11,35.0,4.915104,10.275638
+tt0374853,Malice in Wonderland,"('Adventure', 'Drama', 'Fantasy', 'Mystery', 'Thriller')",,UK,ENGLISH,6.0,2844,2010-12-30,,,
+tt0375568,Astro Boy,"('Animation', 'Action', 'Comedy', 'Family', 'Sci-Fi')",,HONG KONG,ENGLISH,6.3,29338,2009-10-23,65.0,6.702923,19.548064
+tt0380510,The Lovely Bones,"('Drama', 'Fantasy', 'Thriller')",PG-13,USA,ENGLISH,6.7,140765,2010-01-15,65.0,0.116616,43.818839
+tt0386117,Where the Wild Things Are,"('Adventure', 'Drama', 'Family', 'Fantasy')",,GERMANY,ENGLISH,6.8,94792,2009-10-16,100.0,32.695407,77.233467
+tt0403702,Youth in Revolt,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.5,69447,2010-01-08,18.0,6.888334,15.281286
+tt0409459,Watchmen,"('Action', 'Drama', 'Mystery', 'Sci-Fi')",,USA,ENGLISH,7.6,439157,2009-03-06,130.0,55.214334,107.509799
+tt0417741,Harry Potter and the Half-Blood Prince,"('Adventure', 'Family', 'Fantasy', 'Mystery')",,UK,ENGLISH,7.6,392807,2009-07-15,250.0,77.835727,301.959197
+tt0421237,Royal Kill,"('Action', 'Thriller')",PG-13,USA,ENGLISH,3.3,508,2009-04-10,0.35,0.026278,0.05009
+tt0432283,Fantastic Mr. Fox,"('Animation', 'Adventure', 'Comedy', 'Crime', 'Family')",,USA,ENGLISH,7.8,169189,2009-11-25,40.0,0.2659,21.002919
+tt0433362,Daybreakers,"('Action', 'Fantasy', 'Horror', 'Sci-Fi', 'Thriller')",,AUSTRALIA,ENGLISH,6.5,114360,2010-01-08,20.0,15.146692,30.101577
+tt0435711,Wild About Harry,"('Drama', 'Family')",PG-13,USA,ENGLISH,5.7,142,,,,
+tt0435716,The Perfect Sleep,"('Action', 'Drama', 'Romance', 'Thriller')",,USA,ENGLISH,4.8,1047,2009-03-13,,,
+tt0436339,G-Force,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,5.1,37665,2009-07-24,150.0,31.706934,119.43677
+tt0437405,Paper Man,"('Comedy', 'Drama')",,USA,ENGLISH,6.6,17018,2014-05-01,,0.008613,0.015388
+tt0438488,Terminator Salvation,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,6.6,312810,2009-05-21,200.0,51.943726,125.322469
+tt0448011,Knowing,"('Drama', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.2,204341,2009-03-20,50.0,24.604751,79.957634
+tt0450336,Blood Creek,"('Horror',)",,USA,ENGLISH,5.4,10570,2009-10-09,,,
+tt0450405,Cirque du Freak: The Vampire's Assistant,"('Action', 'Adventure', 'Fantasy', 'Thriller')",PG-13,USA,ENGLISH,5.9,39412,2009-10-23,40.0,6.293205,13.83813
+tt0452694,The Time Traveler's Wife,"('Drama', 'Fantasy', 'Romance', 'Sci-Fi')",PG-13,USA,ENGLISH,7.1,128719,2009-08-14,39.0,18.623171,63.414846
+tt0453501,It's a Mismatch,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,5.9,77,2009-07-24,2.0,,
+tt0457355,From Mexico with Love,"('Action', 'Drama', 'Sport')",PG-13,USA,ENGLISH,5.3,493,2009-10-09,3.0,0.332726,0.548775
+tt0457400,Land of the Lost,"('Adventure', 'Comedy', 'Sci-Fi')",PG-13,USA,ENGLISH,5.4,58886,2009-06-05,100.0,18.83735,49.43837
+tt0458525,X-Men Origins: Wolverine,"('Action', 'Adventure', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.6,420213,2009-05-01,150.0,85.058003,179.883157
+tt0462232,Cold Storage,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,4.8,343,2010-05-04,0.9,,
+tt0464137,Baja Beach Bums,"('Comedy',)",,USA,ENGLISH,3.1,133,,,,
+tt0465580,Push,"('Action', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.1,98607,2009-02-06,38.0,10.079109,31.8061
+tt0469251,Tripping Forward,"('Comedy',)",UNRATED,USA,ENGLISH,4.4,106,2009-04-26,0.75,,
+tt0469318,Dark Country,"('Crime', 'Mystery', 'Thriller')",,USA,ENGLISH,5.3,4147,2009-10-09,4.0,,
+tt0471041,The Tournament,"('Action', 'Thriller')",,UK,ENGLISH,6.1,32596,2010-07-25,8.0,,
+tt0472033,9,"('Animation', 'Action', 'Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,7.1,122664,2009-09-09,30.0,10.740446,31.743332
+tt0472198,Notorious,"('Biography', 'Crime', 'Drama', 'Music')",,USA,ENGLISH,6.7,36959,2009-01-16,20.0,20.497596,36.842118
+tt0473102,The Perfect Game,"('Comedy', 'Drama', 'Family', 'Sport')",,CANADA,ENGLISH,7.0,2925,2010-04-16,12.5,0.207329,1.089445
+tt0473364,The Heavy,"('Thriller',)",,UK,ENGLISH,5.0,1895,2011-04-16,4.5,,
+tt0473705,State of Play,"('Crime', 'Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,7.1,123216,2009-04-17,,14.07128,37.017955
+tt0474819,Mortal Sin,"('Crime', 'Drama', 'Thriller')",UNRATED,USA,ENGLISH,,0,2009-01-01,,,
+tt0475970,Creature of Darkness,"('Horror', 'Sci-Fi')",,USA,ENGLISH,2.6,704,2010-04-13,,,
+tt0476009,RiffRaff,"('Comedy',)",UNRATED,USA,ENGLISH,8.0,42,2012-07-10,0.4,,
+tt0482525,InSearchOf,"('Drama',)",UNRATED,USA,ENGLISH,5.9,238,,,,
+tt0485947,Mr. Nobody,"('Drama', 'Fantasy', 'Romance', 'Sci-Fi')",,BELGIUM,ENGLISH,7.9,188774,2013-09-26,47.0,0.001612,0.0036
+tt0486619,Lynch Mob,"('Horror',)",,USA,ENGLISH,4.8,183,2009-09-18,0.365,,
+tt0489049,Fanboys,"('Adventure', 'Comedy', 'Drama')",PG-13,USA,ENGLISH,6.6,53411,2009-02-13,3.9,0.171533,0.688529
+tt0489210,Little Hercules in 3-D,"('Family',)",,USA,ENGLISH,2.8,452,,,,
+tt0492044,The Haunting in Connecticut,"('Drama', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.9,55142,2009-03-27,10.0,23.004765,55.389516
+tt0492890,The Wild Stallion,"('Drama', 'Family')",UNRATED,USA,ENGLISH,5.2,454,2009-10-06,,,
+tt0494864,Tenderness,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.5,7156,2009-01-15,,,
+tt0496673,Calvin Marshall,"('Comedy', 'Drama')",,USA,ENGLISH,6.0,635,2011-09-05,,,
+tt0499549,Avatar,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi')",PG-13,UK,ENGLISH,7.8,1004265,2009-12-18,237.0,77.025481,760.507625
+tt0758746,Friday the 13th,"('Horror',)",,USA,ENGLISH,5.6,85916,2009-02-13,19.0,43.585449,65.002019
+tt0758755,Immortally Yours,"('Horror', 'Romance')",,USA,ENGLISH,2.3,641,2009-01-06,1.3,,
+tt0760166,Don't Let Me Drown,"('Drama', 'Romance')",,USA,ENGLISH,6.5,362,2009-04-24,,,
+tt0762073,Thirst,"('Drama', 'Horror', 'Romance')",,SOUTH KOREA,KOREAN,7.2,36228,2009-04-30,5.0,0.055889,0.296441
+tt0762105,I Hate Valentine's Day,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,4.7,7655,2009-04-24,3.0,0.005009,0.01006
+tt0762125,Planet 51,"('Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi')",,SPAIN,ENGLISH,6.1,45940,2009-11-20,,,
+tt0765010,Brothers,"('Drama', 'War')",,USA,ENGLISH,7.1,99986,2009-12-04,26.0,9.527848,28.501651
+tt0775552,Aliens in the Attic,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,5.4,18892,2009-07-31,45.0,8.008423,25.200412
+tt0780511,Everybody's Fine,"('Adventure', 'Drama')",PG-13,USA,ENGLISH,7.1,54953,2009-12-04,21.0,3.852068,8.855646
+tt0780521,The Princess and the Frog,"('Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance')",UNRATED,USA,ENGLISH,7.1,104403,2009-12-11,105.0,0.78619,104.400899
+tt0780567,Imagine That,"('Comedy', 'Drama', 'Family', 'Fantasy')",,USA,ENGLISH,5.6,11969,2009-06-12,55.0,5.503519,16.08861
+tt0785006,Hotel for Dogs,"('Comedy', 'Family')",,GERMANY,ENGLISH,5.4,18994,2009-01-16,35.0,17.012212,73.03446
+tt0787470,Balls Out: Gary the Tennis Coach,"('Comedy', 'Sport')",,USA,ENGLISH,5.5,9020,2009-04-09,,,
+tt0790712,The Messenger,"('Drama', 'Romance', 'War')",,USA,ENGLISH,7.1,31857,2009-12-04,6.5,0.044523,0.066637
+tt0791321,Live Evil,"('Horror',)",UNRATED,USA,ENGLISH,4.1,296,2009-11-01,0.4,,
+tt0791488,Saddle Up with Dick Wrangler & Injun Joe,"('Comedy', 'Drama', 'Western')",UNRATED,USA,ENGLISH,6.4,25,2009-08-28,1.0,,
+tt0795351,Case 39,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,6.2,68869,2010-10-01,26.0,5.35057,13.248477
+tt0795438,Not Easily Broken,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.1,2561,2009-01-09,8.0,5.314278,10.572742
+tt0796345,Orville,"('Horror',)",,USA,ENGLISH,4.3,34,2009-04-15,,,
+tt0796366,Star Trek,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,8.0,547857,2009-05-08,150.0,72.5,257.730019
+tt0804536,Strangers Online,"('Drama', 'Thriller')",UNRATED,USA,ENGLISH,4.6,19,,0.019,0.000968,0.000968
+tt0806027,Blood: The Last Vampire,"('Action', 'Horror', 'Thriller')",,HONG KONG,ENGLISH,5.3,13810,2009-06-04,30.0,0.110029,0.257412
+tt0806203,Carriers,"('Drama', 'Horror', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.0,38773,2009-09-02,,0.09082,0.09082
+tt0807028,The Pool Boys,"('Comedy',)",,USA,ENGLISH,4.7,2299,,15.0,,
+tt0808151,Angels & Demons,"('Mystery', 'Thriller')",PG-13,USA,ENGLISH,6.7,244413,2009-05-15,150.0,46.204168,133.375846
+tt0808285,The Good Heart,"('Comedy', 'Drama')",,ICELAND,ENGLISH,6.9,3944,2010-03-17,3.8,0.005955,0.019959
+tt0808526,Life During Wartime,"('Comedy', 'Drama')",,USA,ENGLISH,6.4,6244,2010-04-16,,0.030507,0.278821
+tt0810784,Bright Star,"('Biography', 'Drama', 'Romance')",,UK,ENGLISH,7.0,23469,2009-10-09,8.5,0.189703,4.444637
+tt0810821,A Day in the Life,"('Action', 'Crime', 'Drama', 'Musical', 'Thriller')",UNRATED,USA,ENGLISH,5.4,518,2009-07-07,3.1,,
+tt0810924,Knife Edge,"('Horror', 'Thriller')",,UK,ENGLISH,4.7,913,2010-04-20,,,
+tt0811124,The Lost Tribe,"('Adventure', 'Horror', 'Thriller')",,USA,ENGLISH,3.9,1387,,1.0,,
+tt0814331,Spring Breakdown,"('Comedy', 'Romance')",,USA,ENGLISH,4.9,4187,2012-08-14,12.0,,
+tt0814335,The Stepfather,"('Crime', 'Thriller')",PG-13,USA,ENGLISH,5.6,26694,2009-10-16,,11.581586,29.062561
+tt0815182,Irene in Time,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,4.5,163,2009-06-19,2.0,0.009332,0.194316
+tt0815245,The Uninvited,"('Drama', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,6.4,69623,2009-01-30,,10.325824,28.573173
+tt0821640,Ghosts of Girlfriends Past,"('Comedy', 'Fantasy', 'Romance')",PG-13,USA,ENGLISH,5.8,75357,2009-05-01,,15.411434,55.250026
+tt0821642,The Soloist,"('Biography', 'Drama', 'Music')",PG-13,UK,ENGLISH,6.7,47672,2009-04-24,60.0,9.716458,31.670931
+tt0824758,The Last Station,"('Biography', 'Drama', 'Romance')",,UK,ENGLISH,7.0,16585,2010-02-26,,0.094093,6.616974
+tt0826593,Pandemic,"('Drama', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,3.4,637,2009-10-27,0.75,,
+tt0826751,Steppin: The Movie,"('Comedy', 'Music')",PG-13,USA,ENGLISH,3.5,307,2009-08-11,1.0,,
+tt0828103,Taking Chances,"('Comedy',)",,USA,ENGLISH,4.5,1241,,,,
+tt0829251,The Haunting,"('Horror', 'Mystery')",,SPAIN,SPANISH,5.3,1172,2010-08-06,,,
+tt0830538,The Seduction of Dr. Fugazzi,"('Thriller',)",UNRATED,USA,ENGLISH,3.3,397,2009-03-31,2.0,,
+tt0830593,Mexican Gold,"('Western',)",PG-13,USA,ENGLISH,4.6,89,2009-03-17,1.1,,
+tt0831279,The Casino Job,"('Crime', 'Drama')",,USA,ENGLISH,3.7,854,2009-03-10,,,
+tt0832318,What Goes Up,"('Drama',)",,USA,ENGLISH,5.7,1728,2009-05-29,,0.00324,0.00205
+tt0834001,Underworld: Rise of the Lycans,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,6.6,138261,2009-01-23,35.0,20.828511,45.802315
+tt0837795,Frame of Mind,"('Drama',)",UNRATED,USA,ENGLISH,4.7,376,2009-02-24,,,
+tt0838232,The Pink Panther 2,"('Adventure', 'Comedy', 'Crime', 'Family', 'Mystery')",,USA,ENGLISH,5.6,37857,2009-02-06,70.0,11.58815,35.922978
+tt0838241,Street Dreams,"('Drama',)",,USA,ENGLISH,6.5,952,,,0.045816,0.084944
+tt0838247,After.Life,"('Drama', 'Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.9,33838,2010-08-26,4.5,0.059946,0.108229
+tt0843876,The Strip,"('Comedy',)",PG-13,USA,ENGLISH,7.6,54,,1.2,0.005107,0.005107
+tt0844471,Cloudy with a Chance of Meatballs,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,7.0,177905,2009-09-18,100.0,30.304648,124.870275
+tt0844479,The Collector,"('Horror', 'Thriller')",,USA,ENGLISH,6.4,50660,2009-07-31,6.0,3.576296,7.706394
+tt0844708,The Last House on the Left,"('Horror', 'Thriller')",,USA,ENGLISH,6.6,77030,2009-03-13,15.0,14.118685,32.721635
+tt0847221,Streetballers,"('Drama', 'Sport')",,USA,ENGLISH,5.7,337,2009-08-21,,0.011581,0.029165
+tt0850648,American Cowslip,"('Comedy',)",,USA,ENGLISH,5.2,440,2010-09-07,3.0,,
+tt0851530,The Lodger,"('Crime', 'Drama', 'Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.8,4336,2009-01-14,,,
+tt0854676,Right Hand Drive,"('Comedy', 'Drama')",,USA,ENGLISH,5.5,35,,,,
+tt0857275,Wonderful World,"('Drama', 'Romance')",,USA,ENGLISH,6.2,2249,2009-04-27,,0.004582,0.008622
+tt0865559,My Life in Ruins,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.9,16863,2009-06-05,17.0,3.223161,8.662318
+tt0870937,Open Graves,"('Horror', 'Thriller')",,SPAIN,ENGLISH,4.3,2647,2009-11-07,6.5,,
+tt0874271,Elsewhere,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.6,2831,2009-01-15,0.5,,
+tt0875034,Nine,"('Drama', 'Musical', 'Romance')",PG-13,UK,ENGLISH,5.8,40207,2009-12-25,80.0,0.257232,19.664021
+tt0878804,The Blind Side,"('Biography', 'Drama', 'Sport')",PG-13,USA,ENGLISH,7.7,257203,2009-11-20,29.0,34.119372,255.959475
+tt0880570,The Ministers,"('Crime', 'Drama')",,USA,ENGLISH,4.5,1217,2009-10-16,7.0,0.002844,0.002844
+tt0881891,All About Steve,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,4.8,36513,2009-09-04,15.0,14.058106,33.86001
+tt0882806,Sugar Boxx,"('Crime', 'Drama')",,USA,ENGLISH,3.6,208,2009-09-05,,,
+tt0884227,Within,"('Drama', 'Thriller')",,USA,ENGLISH,6.0,184,2010-07-31,1.0,,
+tt0884326,Karma Calling,"('Comedy',)",PG-13,USA,ENGLISH,6.4,50,2009-03-13,,,
+tt0889583,Brüno,"('Comedy',)",,USA,ENGLISH,5.8,131179,2009-07-10,42.0,30.61913,60.05453
+tt0891592,Street Fighter: The Legend of Chun-Li,"('Action', 'Crime', 'Thriller')",PG-13,CANADA,ENGLISH,3.7,21339,2009-02-27,18.0,4.72111,8.742261
+tt0892060,Grilling Bobby Hicks,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,8.6,11,,0.1,,
+tt0892094,Ready or Not,"('Comedy',)",,USA,ENGLISH,4.9,853,,1.0,,
+tt0892767,Horsemen,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.6,20208,2009-02-06,20.0,,
+tt0892782,Monsters vs. Aliens,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi')",,USA,ENGLISH,6.5,130916,2009-03-27,175.0,59.321095,198.351526
+tt0892904,White on Rice,"('Comedy',)",PG-13,USA,JAPANESE,6.2,486,2009-03-17,,0.008079,0.06841
+tt0893367,Robodoc,"('Comedy', 'Sci-Fi')",,USA,ENGLISH,4.3,688,2009-11-24,,,
+tt0893532,Kill Theory,"('Horror', 'Thriller')",,USA,ENGLISH,5.5,6427,2009-01-08,6.0,,
+tt0896529,Cairo Time,"('Drama', 'Romance')",,CANADA,ENGLISH,6.7,5860,2009-10-16,,0.066245,1.602045
+tt0896923,The City of Your Final Destination,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.4,2581,2010-06-24,8.3,0.024401,
+tt0898367,The Road,"('Adventure', 'Drama')",,USA,ENGLISH,7.3,201142,2009-12-18,25.0,1.502231,0.056692
+tt0899106,Love Happens,"('Drama', 'Romance')",PG-13,USA,ENGLISH,5.6,28109,2009-09-18,18.0,8.05701,22.92739
+tt0901476,Bride Wars,"('Comedy', 'Romance')",,USA,ENGLISH,5.5,91110,2009-01-09,30.0,21.058173,58.71551
+tt0901494,Life Is Hot in Cracktown,"('Crime', 'Drama')",,USA,ENGLISH,6.2,1650,2009-06-26,4.0,,
+tt0910554,Frequently Asked Questions About Time Travel,"('Comedy', 'Sci-Fi')",UNRATED,UK,ENGLISH,7.1,29599,2009-04-24,,,
+tt0910905,In the Electric Mist,"('Crime', 'Drama', 'Mystery', 'Thriller')",,FRANCE,ENGLISH,6.1,14799,2009-04-15,,,
+tt0913354,Armored,"('Action', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,5.7,28089,2009-12-04,27.0,6.511128,15.988876
+tt0913413,The Marc Pease Experience,"('Comedy', 'Drama', 'Music')",PG-13,USA,ENGLISH,4.1,1972,2010-05-21,,0.002641,0.002641
+tt0913425,Broken Embraces,"('Drama', 'Romance', 'Thriller')",,SPAIN,SPANISH,7.2,34817,2010-01-15,18.0,0.107111,5.014305
+tt0914837,44 Inch Chest,"('Crime', 'Drama')",,UK,ENGLISH,5.8,6217,2010-01-15,,,
+tt0918529,I Do... I Did!,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,3.2,355,2009-08-11,0.18,,
+tt0924129,Crossing Over,"('Crime', 'Drama')",,USA,ENGLISH,6.8,21333,2009-02-26,19.0,0.07737,0.454149
+tt0926380,The Boys Are Back,"('Drama',)",PG-13,AUSTRALIA,ENGLISH,6.9,9461,2009-11-12,,0.049342,0.809752
+tt0928375,Legend of the Bog,"('Horror', 'Thriller')",,IRELAND,ENGLISH,3.4,1016,2009-06-23,1.6,,
+tt0929632,Precious,"('Drama',)",,USA,ENGLISH,7.3,97802,2009-11-20,10.0,1.872458,47.395661
+tt0932661,Brother's War,"('History', 'War')",,USA,ENGLISH,2.7,719,2009-05-26,,,
+tt0933874,Behaving Badly,"('Comedy', 'Drama')",,USA,ENGLISH,5.9,53,,0.7,,
+tt0936471,Transylmania,"('Comedy', 'Horror')",,USA,ENGLISH,3.9,2434,2009-12-04,,,
+tt0940657,Arthur et la vengeance de Maltazard,"('Animation', 'Adventure', 'Family', 'Fantasy')",,FRANCE,ENGLISH,5.3,6771,2009-12-02,,,0.347136
+tt0948745,Fissure,"('Crime', 'Drama', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,6.0,94,2009-08-11,1.0,,
+tt0951335,The New Daughter,"('Horror', 'Thriller')",PG-13,USA,ENGLISH,5.3,12999,2010-10-07,15.0,,
+tt0954544,A Heavenly Vintage,"('Drama', 'Fantasy', 'Romance')",,NEW ZEALAND,ENGLISH,5.7,693,2009-11-12,,,
+tt0960066,The Black Waters of Echo's Pond,"('Fantasy', 'Horror', 'Thriller')",,USA,ENGLISH,4.4,1019,2010-04-09,5.0,0.224409,0.224409
+tt0960097,Wake,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,5.7,1793,2009-02-25,,,
+tt0960098,Winter of Frozen Dreams,"('Crime', 'Drama')",,USA,ENGLISH,4.7,653,2009-04-03,1.0,0.001584,0.007334
+tt0960741,The Canyon,"('Thriller',)",,USA,ENGLISH,5.9,3668,2009-10-23,10.0,0.001785,0.001785
+tt0961722,Cabin Fever 2: Spring Fever,"('Horror', 'Sci-Fi')",,USA,ENGLISH,4.3,11635,2009-10-24,10.0,,
+tt0962736,The Young Victoria,"('Biography', 'Drama', 'History', 'Romance')",,UK,ENGLISH,7.3,52206,2010-01-08,35.0,0.160069,11.001272
+tt0963178,The International,"('Action', 'Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,6.5,85285,2009-02-13,50.0,10.702613,25.450527
+tt0963948,Shroud,"('Action', 'Drama', 'Horror', 'Mystery', 'Thriller', 'Western')",UNRATED,USA,ENGLISH,6.2,29,,,,
+tt0963965,Dolan's Cadillac,"('Crime', 'Thriller')",,CANADA,ENGLISH,5.7,6355,2010-04-01,10.0,,
+tt0964179,B-Girl,"('Drama', 'Music', 'Romance')",PG-13,USA,ENGLISH,4.1,600,2009-07-29,,,
+tt0964185,Tetro,"('Drama',)",,USA,ENGLISH,6.9,11638,2009-06-26,5.0,0.030504,0.518522
+tt0965375,Breaking Point,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.0,606,2009-12-02,2.5,,
+tt0970452,Solomon Kane,"('Action', 'Adventure', 'Fantasy')",,CZECH REPUBLIC,ENGLISH,6.1,64693,2012-08-24,45.0,,
+tt0971209,A Perfect Getaway,"('Adventure', 'Mystery', 'Thriller')",,USA,ENGLISH,6.5,62362,2009-08-07,14.0,5.948555,15.48354
+tt0973785,The Bridge to Nowhere,"('Crime', 'Drama')",,USA,ENGLISH,5.5,921,2009-08-17,4.0,,
+tt0974014,Creation,"('Biography', 'Drama', 'Romance')",PG-13,UK,ENGLISH,6.7,12703,2009-09-25,,0.053073,0.340611
+tt0974661,17 Again,"('Comedy', 'Drama', 'Fantasy')",PG-13,USA,ENGLISH,6.4,162132,2009-04-17,20.0,23.72231,64.167069
+tt0974662,The Velveteen Rabbit,"('Animation', 'Family', 'Fantasy')",UNRATED,USA,ENGLISH,6.4,555,,5.5,0.092536,0.143715
+tt0976222,Bandslam,"('Comedy', 'Drama', 'Family', 'Music', 'Romance')",,USA,ENGLISH,6.4,12927,2009-08-14,20.0,2.231273,5.205343
+tt0976238,Old Dogs,"('Comedy', 'Family')",,USA,ENGLISH,5.4,33787,2009-11-25,35.0,16.894511,49.49206
+tt0976246,Little New York,"('Comedy', 'Crime', 'Drama')",,FRANCE,ENGLISH,5.9,4786,2009-08-05,,,
+tt0981042,Like Dandelion Dust,"('Drama',)",PG-13,USA,ENGLISH,7.1,2572,2010-09-24,2.5,0.07796,0.35281
+tt0985049,Bounty,"('Western',)",PG-13,USA,ENGLISH,3.2,150,2009-08-11,0.082,,
+tt0985695,The Smell of Success,"('Comedy',)",PG-13,USA,ENGLISH,5.3,1016,2009-01-20,9.6,,
+tt0986263,Surrogates,"('Action', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,6.3,160849,2009-09-25,80.0,14.902692,38.577772
+tt0988045,Sherlock Holmes,"('Action', 'Adventure', 'Crime', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,7.6,533536,2009-12-25,90.0,62.304277,209.028679
+tt0990359,Black,"('Action', 'Crime', 'Drama', 'Thriller')",,FRANCE,FRENCH,5.3,324,2018-04-12,,,
+tt0991174,Ingenious,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,5.8,1724,2009-02-01,,,
+tt0995851,In Her Skin,"('Drama', 'Thriller')",,AUSTRALIA,ENGLISH,6.5,4220,,,,
+tt0997143,Bled,"('Horror',)",,USA,ENGLISH,3.1,888,2009-04-07,0.75,,
+tt1001508,He's Just Not That Into You,"('Comedy', 'Drama', 'Romance')",PG-13,GERMANY,ENGLISH,6.4,145906,2009-02-06,40.0,27.785487,93.953653
+tt1001534,A Secret Promise,"('Drama',)",PG-13,USA,ENGLISH,5.4,179,2012-06-07,,,
+tt1002741,Something Blue,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,8.5,11,2009-09-11,,,
+tt1003034,Perrier's Bounty,"('Action', 'Comedy', 'Crime', 'Drama', 'Romance', 'Thriller')",,IRELAND,ENGLISH,6.4,5845,2010-03-26,,0.000828,0.000828
+tt1007018,The Open Road,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,5.5,3184,2009-08-28,10.0,0.003169,0.019348
+tt1009019,Crimes of the Past,"('Drama',)",,USA,ENGLISH,4.5,266,2009-06-10,,,
+tt1012729,Helen,"('Drama',)",,USA,ENGLISH,6.3,1708,2009-11-26,8.0,,
+tt1013752,Fast & Furious,"('Action', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,6.6,234441,2009-04-03,85.0,70.9505,155.064265
+tt1014774,A Shine of Rainbows,"('Drama', 'Family')",,CANADA,ENGLISH,7.2,1973,2010-02-13,,,
+tt1016075,Fame,"('Comedy', 'Drama', 'Musical', 'Romance')",,USA,ENGLISH,5.0,15135,2009-09-25,18.0,10.011682,22.45551
+tt1017460,Splice,"('Drama', 'Horror', 'Sci-Fi')",,CANADA,ENGLISH,5.7,85899,2010-06-04,26.0,7.385277,16.999046
+tt1019452,A Serious Man,"('Comedy', 'Drama')",,USA,ENGLISH,7.0,117050,2009-11-06,7.0,0.251337,9.190525
+tt1020055,Night Train,"('Crime', 'Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.7,8407,2009-04-30,,,
+tt1020543,Infestation,"('Action', 'Comedy', 'Horror', 'Sci-Fi')",,USA,ENGLISH,5.9,8322,2009-11-28,3.5,,
+tt1020885,Vampire Killers,"('Action', 'Comedy', 'Fantasy', 'Horror')",,UK,ENGLISH,5.1,18577,2009-03-20,,,
+tt1022603,(500) Days of Summer,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,7.7,428183,2009-08-07,7.5,0.834501,32.391374
+tt1023441,Coco Chanel & Igor Stravinsky,"('Drama', 'Music', 'Romance')",,FRANCE,FRENCH,6.4,5712,2010-07-23,,0.044454,1.724882
+tt1024876,Amar a morir,"('Drama',)",,MEXICO,SPANISH,6.3,427,2009-04-09,2.5,,
+tt1028532,Hachi: A Dog's Tale,"('Drama', 'Family')",UNRATED,UK,ENGLISH,8.1,211161,2010-03-12,16.0,,
+tt1028581,Love N' Dancing,"('Drama', 'Romance')",PG-13,USA,ENGLISH,5.5,1609,2011-01-06,10.0,,
+tt1031241,From Time to Time,"('Adventure', 'Drama', 'Fantasy')",,UK,ENGLISH,6.7,3944,2010-09-24,,,
+tt1031562,Corked,"('Comedy',)",UNRATED,USA,ENGLISH,6.8,45,2010-06-01,,,
+tt1032747,The Butterfly Tattoo,"('Drama', 'Romance', 'Thriller')",UNRATED,NETHERLANDS,ENGLISH,5.6,425,2009-04-17,,,
+tt1032815,"I Love You, Beth Cooper","('Comedy', 'Romance')",PG-13,CANADA,ENGLISH,5.3,31238,2009-07-10,18.0,4.919433,14.793904
+tt1032819,Powder Blue,"('Drama',)",,USA,ENGLISH,6.3,13224,2009-10-15,,,
+tt1032825,The Other Woman,"('Drama',)",,USA,ENGLISH,6.4,17262,2010-10-28,,0.006224,0.020585
+tt1034032,Gamer,"('Action', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.8,122509,2009-09-04,50.0,11.203761,20.488579
+tt1034090,All's Faire in Love,"('Comedy',)",PG-13,USA,ENGLISH,5.0,775,2009-09-17,,0.01781,0.01781
+tt1034302,The Cry of the Owl,"('Drama', 'Thriller')",,UK,ENGLISH,6.0,4122,2009-08-19,11.5,,
+tt1034305,Don't Look Up,"('Horror',)",,USA,ENGLISH,3.1,1410,2011-01-08,,,
+tt1034324,The Mighty Macs,"('Drama', 'Sport')",UNRATED,USA,ENGLISH,6.5,1258,2011-10-21,7.0,0.963221,1.864952
+tt1035733,Jump,"('Comedy', 'Drama')",,HONG KONG,CANTONESE,5.5,206,2009-12-03,,,
+tt1035736,Coco Before Chanel,"('Biography', 'Drama')",PG-13,FRANCE,FRENCH,6.7,35517,2009-11-06,,0.177399,6.109075
+tt1037154,Deadland,"('Action', 'Drama', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,4.1,553,2009-04-18,,,
+tt1038011,The Tomb,"('Horror', 'Thriller')",,USA,ENGLISH,3.8,1483,2009-11-13,8.8,,
+tt1041829,The Proposal,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.7,261831,2009-06-19,40.0,33.627598,163.958031
+tt1042503,Ghost Month,"('Horror',)",,USA,ENGLISH,3.0,762,2009-05-26,,,
+tt1043756,Falling Awake,"('Romance', 'Thriller')",,USA,ENGLISH,6.1,156,2010-01-29,,0.000847,0.001598
+tt1043844,Eyeborgs,"('Action', 'Crime', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,4.9,2061,2010-07-06,3.7,,
+tt1045772,I Love You Phillip Morris,"('Biography', 'Comedy', 'Crime', 'Drama', 'Romance')",,FRANCE,ENGLISH,6.6,85585,2011-01-07,13.0,0.11252,2.035566
+tt1045778,Year One,"('Adventure', 'Comedy')",PG-13,USA,ENGLISH,4.9,83532,2009-06-19,60.0,19.610304,43.337279
+tt1046173,G.I. Joe: The Rise of Cobra,"('Action', 'Adventure', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.8,188153,2009-08-07,175.0,54.713046,152.267519
+tt1046936,Hurt,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,5.2,1345,2009-11-10,,,
+tt1047102,Endless Bummer,"('Comedy',)",,USA,ENGLISH,3.8,1089,2014-03-04,,,
+tt1049413,Up,"('Animation', 'Adventure', 'Comedy', 'Family')",,USA,ENGLISH,8.3,805373,2009-05-29,175.0,68.10879,293.004164
+tt1050001,Albino Farm,"('Horror',)",,USA,ENGLISH,3.9,1357,2009-09-09,,,
+tt1051226,Frankenhood,"('Comedy', 'Horror')",,USA,ENGLISH,4.3,424,,1.0,,
+tt1052027,Ratko: The Dictator's Son,"('Comedy', 'Thriller')",,CANADA,ENGLISH,3.7,402,,,,
+tt1053859,The Grudge 3,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,4.8,15047,2009-06-02,,,
+tt1053880,"Little Fish, Strange Pond","('Comedy', 'Crime', 'Drama')",,USA,ENGLISH,3.9,1381,2009-10-23,0.485,,
+tt1054580,Desert Flower,"('Biography', 'Drama')",,UK,ENGLISH,7.4,10699,2009-09-24,,0.007657,0.044348
+tt1054606,The Imaginarium of Doctor Parnassus,"('Adventure', 'Comedy', 'Fantasy', 'Mystery')",PG-13,UK,ENGLISH,6.8,136065,2010-01-08,30.0,0.334183,7.689607
+tt1055367,Shark City,"('Comedy', 'Drama', 'Romance')",,CANADA,ENGLISH,4.2,202,2009-11-01,2.0,,
+tt1055369,Transformers: Revenge of the Fallen,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,6.0,355847,2009-06-24,200.0,108.966307,402.11187
+tt1056477,Down for Life,"('Drama',)",,USA,ENGLISH,6.8,285,2011-01-14,,,
+tt1057500,Invictus,"('Biography', 'Drama', 'History', 'Sport')",PG-13,USA,ENGLISH,7.3,137525,2009-12-11,60.0,8.611147,37.491364
+tt1057574,I Got Five on It Too,"('Comedy',)",UNRATED,USA,ENGLISH,4.8,214,2009-04-14,,,
+tt1058017,The Invention of Lying,"('Comedy', 'Fantasy', 'Romance')",PG-13,USA,ENGLISH,6.4,103977,2009-10-02,18.5,7.027472,18.439082
+tt1059925,According to Greta,"('Drama', 'Romance')",PG-13,USA,ENGLISH,6.2,9017,2009-12-11,,,
+tt1063338,Poker Run,"('Thriller',)",,USA,ENGLISH,3.6,321,2009-12-01,0.6,,
+tt1067106,A Christmas Carol,"('Animation', 'Drama', 'Family', 'Fantasy')",,USA,ENGLISH,6.8,86844,2009-11-06,200.0,30.051075,137.855863
+tt1068678,Veronika Decides to Die,"('Drama', 'Romance')",,USA,ENGLISH,6.5,11211,2015-01-20,9.0,,
+tt1069264,Put,"('Action', 'Adventure')",PG-13,RUSSIA,RUSSIAN,4.6,264,2009-05-21,12.0,,
+tt1071808,Killer View,"('Thriller',)",,USA,ENGLISH,,0,,,,
+tt1071812,Mao's Last Dancer,"('Biography', 'Drama', 'Music', 'Romance')",,AUSTRALIA,ENGLISH,7.3,6797,2010-10-01,,0.199657,4.80675
+tt1072438,Not Since You,"('Drama', 'Romance')",PG-13,USA,ENGLISH,5.7,1621,2010-05-14,1.5,0.001469,0.00567
+tt1073105,The Descent: Part 2,"('Adventure', 'Horror', 'Thriller')",,UK,ENGLISH,5.8,38184,2009-12-02,,,
+tt1074214,The Six Wives of Henry Lefay,"('Comedy',)",PG-13,USA,ENGLISH,5.2,2716,2009-06-18,,,
+tt1075417,Race to Witch Mountain,"('Action', 'Adventure', 'Family', 'Fantasy', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.7,49435,2009-03-13,65.0,24.402214,67.172594
+tt1075419,San suk si gin,"('Action', 'Crime', 'Drama', 'Thriller')",,HONG KONG,MANDARIN,7.1,10313,2009-04-02,15.0,,
+tt1075749,Reykjavik Whale Watching Massacre,"('Comedy', 'Horror')",,ICELAND,ENGLISH,4.9,1734,2009-09-04,4.0,,
+tt1078588,My Sister's Keeper,"('Drama', 'Family')",PG-13,USA,ENGLISH,7.4,82999,2009-06-26,30.0,12.442212,49.20023
+tt1078885,Deep in the Valley,"('Comedy',)",,USA,ENGLISH,4.4,2972,,,,
+tt1078912,Night at the Museum: Battle of the Smithsonian,"('Adventure', 'Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,5.9,153071,2009-05-22,150.0,70.052004,177.243721
+tt1078940,Couples Retreat,"('Comedy',)",PG-13,USA,ENGLISH,5.5,91879,2009-10-09,60.0,34.28674,109.20566
+tt1079968,Jack and the Beanstalk,"('Adventure', 'Comedy', 'Family', 'Fantasy')",UNRATED,USA,ENGLISH,4.8,1474,2009-11-06,,,
+tt1080016,Ice Age: Dawn of the Dinosaurs,"('Animation', 'Action', 'Adventure', 'Comedy', 'Family')",,USA,ENGLISH,7.0,193889,2009-07-01,90.0,41.690382,196.573705
+tt1081919,All Ages Night,"('Drama', 'Music', 'Romance')",UNRATED,USA,ENGLISH,6.6,67,,,,
+tt1082601,Fighting,"('Action', 'Drama', 'Sport')",PG-13,USA,ENGLISH,5.6,30138,2009-04-24,,11.02437,23.03632
+tt1083456,Fired Up!,"('Comedy',)",PG-13,USA,ENGLISH,6.2,40010,2009-02-20,20.0,5.483778,17.231291
+tt1085382,Chicago Overcoat,"('Action', 'Adventure', 'Crime', 'Drama')",,USA,ENGLISH,6.1,792,2009-10-10,3.0,,
+tt1085515,Weather Girl,"('Comedy',)",,USA,ENGLISH,5.9,2925,2009-07-10,,0.005772,0.024573
+tt1085518,The Hiding,"('Horror', 'Thriller')",UNRATED,USA,ENGLISH,6.2,23,2009-10-06,,,
+tt1085779,The Hole,"('Adventure', 'Fantasy', 'Thriller')",PG-13,USA,ENGLISH,5.7,20968,2010-06-11,12.0,,
+tt1090674,Opposite Day,"('Comedy', 'Family')",UNRATED,USA,ENGLISH,4.3,711,,1.0,,
+tt1090679,Running on Empty Dreams,"('Drama', 'Romance')",,USA,ENGLISH,4.6,683,,0.2,,
+tt1091172,Bob Funk,"('Comedy',)",,USA,ENGLISH,5.2,791,2009-03-20,,,
+tt1091228,Knuckle Draggers,"('Comedy', 'Romance')",,USA,ENGLISH,5.4,215,2009-04-26,0.62,,
+tt1091229,Chandni Chowk to China,"('Action', 'Comedy', 'Drama', 'Fantasy')",PG-13,INDIA,HINDI,4.0,6837,2009-01-16,,0.629921,0.921738
+tt1091722,Adventureland,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.8,144213,2009-04-03,,5.722039,16.025394
+tt1092633,"The Goods: Live Hard, Sell Hard","('Comedy',)",,USA,ENGLISH,5.8,19090,2009-08-14,,5.642137,15.102127
+tt1093908,Confessions of a Shopaholic,"('Comedy', 'Family', 'Romance')",,USA,ENGLISH,5.9,69273,2009-02-13,,17.809053,44.27735
+tt1094296,For Sale by Owner,"('Drama', 'Horror', 'Thriller')",PG-13,USA,ENGLISH,4.2,523,2009-10-27,,,
+tt1095174,New in Town,"('Comedy', 'Romance')",,USA,ENGLISH,5.6,19733,2009-01-30,8.0,6.74153,16.734283
+tt1095217,Bad Lieutenant: Port of Call New Orleans,"('Crime', 'Drama')",,USA,ENGLISH,6.6,69656,2009-12-11,20.0,0.245398,1.697956
+tt1097013,Next Day Air,"('Action', 'Comedy', 'Crime')",,USA,ENGLISH,5.9,9690,2009-05-08,3.0,4.111043,10.017041
+tt1097015,Red Hook,"('Comedy', 'Horror', 'Thriller')",,USA,ENGLISH,3.2,461,2009-10-03,1.5,,
+tt1098327,Dragonball: Evolution,"('Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,2.6,63950,2009-04-10,30.0,4.756488,9.353573
+tt1100053,Tormented,"('Comedy', 'Horror')",UNRATED,UK,ENGLISH,5.2,5730,2009-05-22,,,
+tt1100119,Shorts,"('Comedy', 'Family', 'Fantasy')",,USA,ENGLISH,4.8,6041,2009-08-21,40.0,6.410339,20.916309
+tt1103256,Red Sands,"('Action', 'Horror', 'Thriller', 'War')",,USA,ENGLISH,4.3,3128,2009-02-24,,,
+tt1103982,The Girlfriend Experience,"('Drama',)",,USA,ENGLISH,5.5,14891,2009-07-08,1.7,0.204112,0.695417
+tt1104006,Walled In,"('Horror', 'Thriller')",,USA,ENGLISH,4.8,5281,2009-06-19,10.0,,
+tt1107816,Giallo,"('Horror', 'Thriller')",,USA,ENGLISH,4.4,4675,2011-07-01,14.0,,
+tt1107860,The Maiden Heist,"('Comedy', 'Crime')",PG-13,USA,ENGLISH,6.1,14155,2010-07-08,20.0,,
+tt1107948,Saving Grace B. Jones,"('Drama', 'Thriller')",,USA,ENGLISH,5.3,217,2009-03-28,3.5,,
+tt1111422,The Taking of Pelham 123,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,6.4,167769,2009-06-12,100.0,23.373102,65.452312
+tt1111918,La linea,"('Action', 'Crime', 'Drama', 'Thriller')",,MEXICO,SPANISH,5.2,3346,2011-12-22,7.5,,
+tt1112782,Thick as Thieves,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,6.0,31359,2009-01-09,25.0,,
+tt1114677,Hannah Montana: The Movie,"('Comedy', 'Drama', 'Family', 'Music', 'Romance')",UNRATED,USA,ENGLISH,4.3,35729,2009-04-10,30.0,32.324487,79.566871
+tt1114680,That Evening Sun,"('Drama',)",PG-13,USA,ENGLISH,7.1,2464,2009-03-16,,0.00733,0.280343
+tt1114740,Paul Blart: Mall Cop,"('Action', 'Comedy', 'Crime', 'Family')",,USA,ENGLISH,5.2,92970,2009-01-16,26.0,31.832636,20.819129
+tt1119123,Accidents Happen,"('Comedy', 'Drama')",,AUSTRALIA,ENGLISH,6.1,2466,2010-04-22,,,
+tt1119191,The Killing Room,"('Mystery', 'Thriller')",,USA,ENGLISH,5.7,12650,2009-11-14,,,
+tt1119646,The Hangover,"('Comedy',)",,USA,ENGLISH,7.7,649168,2009-06-05,35.0,44.979319,277.322503
+tt1121786,Formosa Betrayed,"('Thriller',)",,USA,ENGLISH,6.3,1258,2010-02-26,,0.077326,0.225341
+tt1121931,Crank: High Voltage,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,6.2,127491,2009-04-17,20.0,6.963565,13.630226
+tt1121977,Mother and Child,"('Drama', 'Romance')",,USA,ENGLISH,7.2,10707,2010-07-02,4.825,0.04304,1.110286
+tt1122596,Love Conquers Paul,"('Comedy', 'Romance')",UNRATED,USA,ENGLISH,7.1,47,,,,
+tt1122775,Rosencrantz and Guildenstern Are Undead,"('Comedy',)",UNRATED,USA,ENGLISH,5.1,705,2009-01-19,0.6,0.01437,0.071007
+tt1122836,Alien Trespass,"('Comedy', 'Horror', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.7,3393,,,0.043437,0.104526
+tt1124039,Echelon Conspiracy,"('Action', 'Crime', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.8,17920,2009-02-27,,0.500154,0.500154
+tt1124048,The Last Resort,"('Horror', 'Thriller')",,USA,ENGLISH,3.0,1213,,,,
+tt1124052,Nanjing! Nanjing!,"('Drama', 'History', 'War')",,CHINA,MANDARIN,7.7,9343,2009-04-22,12.0,0.00561,0.119922
+tt1124388,Play the Game,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,6.5,2415,2009-08-28,1.1,0.051197,0.661209
+tt1127180,Drag Me to Hell,"('Horror', 'Thriller')",PG-13,USA,ENGLISH,6.6,172976,2009-05-29,30.0,15.82548,42.100625
+tt1127221,Not Forgotten,"('Horror', 'Thriller')",,USA,ENGLISH,4.8,2356,2009-09-11,,0.018468,0.053723
+tt1127715,Sin Nombre,"('Adventure', 'Crime', 'Drama', 'Thriller')",,MEXICO,SPANISH,7.6,28824,2009-04-17,,0.081446,2.534351
+tt1127877,Cold Souls,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,6.5,9105,2010-05-05,,0.063302,0.903148
+tt1127896,Taking Woodstock,"('Biography', 'Comedy', 'Drama', 'Music')",,USA,ENGLISH,6.7,26614,2009-08-28,30.0,3.45776,7.443007
+tt1129445,Amelia,"('Adventure', 'Biography', 'Drama', 'Romance')",,USA,ENGLISH,5.8,11070,2009-10-23,40.0,3.904047,14.241034
+tt1130080,The Informant!,"('Biography', 'Comedy', 'Crime', 'Drama')",,USA,ENGLISH,6.5,58293,2009-09-18,22.0,10.464314,33.313582
+tt1130993,Ultimate Heist,"('Crime', 'Drama', 'Thriller')",,FRANCE,FRENCH,5.4,2960,2009-03-04,,,
+tt1131727,Against the Current,"('Drama',)",,USA,ENGLISH,6.2,1094,2009-01-18,3.0,,
+tt1131729,Pirate Radio,"('Comedy', 'Drama', 'Music')",,UK,ENGLISH,7.4,99400,2009-11-13,50.0,2.90438,7.994115
+tt1131732,Flying By,"('Drama', 'Family', 'Music')",PG-13,USA,ENGLISH,4.6,229,2009-04-18,,,
+tt1131734,Jennifer's Body,"('Comedy', 'Horror')",,USA,ENGLISH,5.2,103230,2009-09-18,16.0,6.868397,16.204793
+tt1132193,(Untitled),"('Comedy', 'Drama', 'Music')",,USA,ENGLISH,6.4,1995,2011-06-02,,0.018002,0.2306
+tt1132286,Mandie and the Secret Tunnel,"('Adventure', 'Drama', 'Family', 'Mystery')",UNRATED,USA,ENGLISH,5.6,269,,0.75,,
+tt1132588,Gooby,"('Family', 'Fantasy')",,CANADA,ENGLISH,3.2,608,2009-04-17,,0.000706,0.003234
+tt1132620,The Girl with the Dragon Tattoo,"('Crime', 'Drama', 'Mystery', 'Thriller')",,SWEDEN,SWEDISH,7.8,192230,2010-04-30,13.0,0.335502,10.09517
+tt1133993,Serious Moonlight,"('Comedy', 'Crime', 'Romance')",,USA,ENGLISH,5.4,7298,2009-12-04,,0.011636,0.025137
+tt1133995,The Way of War,"('Action', 'Thriller')",,USA,ENGLISH,3.3,2389,2009-02-10,5.0,,
+tt1134629,The Private Lives of Pippa Lee,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.4,12044,2009-07-10,,,
+tt1134664,Boogie Woogie,"('Comedy', 'Drama')",,UK,ENGLISH,5.2,3306,2017-09-29,6.0,0.001776,0.001776
+tt1134674,ZMD: Zombies of Mass Destruction,"('Comedy', 'Horror', 'Sci-Fi')",,USA,ENGLISH,5.1,3836,2011-08-17,0.5,,
+tt1134854,Survival of the Dead,"('Comedy', 'Drama', 'Horror', 'Thriller')",,USA,ENGLISH,4.9,18962,2010-05-06,4.0,0.054605,0.10174
+tt1135089,H2O Extreme,"('Action', 'Sport')",PG-13,USA,ENGLISH,4.2,110,,,,
+tt1135092,The Limits of Control,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,6.3,17705,2009-09-19,,0.05582,0.425025
+tt1135095,Tell Tale,"('Drama', 'Horror', 'Sci-Fi', 'Thriller')",,UK,ENGLISH,5.5,4530,2009-12-31,12.0,,
+tt1135487,Duplicity,"('Comedy', 'Crime', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,6.2,44480,2009-03-20,60.0,13.96511,40.572825
+tt1135500,Homecoming,"('Drama', 'Horror', 'Sport', 'Thriller')",,USA,ENGLISH,5.4,3912,2009-09-26,1.5,,8.5
+tt1135503,Julie & Julia,"('Biography', 'Drama', 'Romance')",PG-13,USA,ENGLISH,7.0,92047,2009-08-07,40.0,20.027956,94.125426
+tt1135525,The Slammin' Salmon,"('Comedy',)",,USA,ENGLISH,6.5,11974,2009-01-17,,0.026167,0.041588
+tt1136608,District 9,"('Sci-Fi', 'Thriller')",,SOUTH AFRICA,ENGLISH,7.9,588956,2009-08-14,30.0,37.354308,115.646235
+tt1137455,Fire from Below,"('Adventure',)",PG-13,USA,ENGLISH,2.7,814,2009-11-22,1.0,,
+tt1138489,Personal Effects,"('Drama',)",,USA,ENGLISH,6.3,7743,2009-03-27,,,
+tt1139282,Stolen,"('Crime', 'Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,6.2,5048,2009-10-10,2.0,0.001391,0.007306
+tt1139668,The Unborn,"('Drama', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,4.8,45913,2009-01-09,16.0,19.810585,42.67041
+tt1142433,Post Grad,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.3,12836,2009-08-21,15.0,2.651996,6.373693
+tt1142800,Madea Goes to Jail,"('Comedy', 'Crime', 'Drama')",PG-13,USA,ENGLISH,4.3,10552,2009-02-20,,41.030947,90.485233
+tt1142988,The Ugly Truth,"('Comedy', 'Romance')",,USA,ENGLISH,6.5,184201,2009-07-24,38.0,27.605576,88.915214
+tt1143110,High Life,"('Comedy', 'Crime')",,CANADA,ENGLISH,6.2,3006,2010-03-16,,0.001088,
+tt1144541,Coyote County Loser,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.2,173,2009-02-16,0.25,,
+tt1144545,Four Boxes,"('Thriller',)",,USA,ENGLISH,4.7,306,,,,
+tt1144797,Death Warrior,"('Action', 'Drama', 'Horror')",,USA,ENGLISH,2.9,620,2009-12-01,3.0,,
+tt1144884,The Final Destination,"('Horror', 'Thriller')",,USA,ENGLISH,5.2,85900,2009-08-28,40.0,27.408309,66.4777
+tt1145157,The Jerk Theory,"('Comedy', 'Music', 'Romance')",PG-13,USA,ENGLISH,5.6,3382,,,,
+tt1146320,Mutants,"('Drama', 'Horror', 'Sci-Fi')",,FRANCE,FRENCH,5.6,3684,2009-05-06,,,
+tt1147684,Forget Me Not,"('Horror', 'Romance', 'Thriller')",,USA,ENGLISH,5.2,5347,2011-08-03,1.3,,
+tt1147687,The Devil's Tomb,"('Action', 'Horror', 'Sci-Fi')",,USA,ENGLISH,3.8,6076,2009-10-24,10.0,,
+tt1148165,Bran Nue Dae,"('Comedy', 'Drama', 'Musical')",PG-13,AUSTRALIA,ENGLISH,6.3,1569,2010-01-14,,0.023527,0.110029
+tt1148200,Chain Letter,"('Horror', 'Thriller')",,USA,ENGLISH,4.2,4711,2010-11-11,5.0,0.143,0.143
+tt1148204,Orphan,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,7.0,169429,2009-07-24,,12.871483,41.596251
+tt1149361,Mic Macs à Tire-Larigot,"('Action', 'Comedy', 'Crime')",,FRANCE,FRENCH,7.2,26996,2010-06-11,,0.051914,1.260917
+tt1149362,The White Ribbon,"('Drama', 'History', 'Mystery', 'Thriller')",,GERMANY,GERMAN,7.8,60931,2010-03-05,,0.059848,2.222647
+tt1151359,Leaves of Grass,"('Comedy', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.5,25318,2010-09-17,9.0,0.020987,0.068009
+tt1151410,Tanner Hall,"('Drama', 'Romance')",,USA,ENGLISH,5.9,2857,2015-01-15,3.0,0.002803,0.005005
+tt1151911,Cornered!,"('Horror',)",,USA,ENGLISH,4.3,1117,2009-11-22,3.25,,
+tt1151922,Miss March,"('Comedy', 'Romance')",,USA,ENGLISH,5.0,19716,2009-03-13,6.0,2.409156,4.542775
+tt1152254,Black Russian,"('Crime',)",UNRATED,USA,ENGLISH,7.0,22,2009-07-26,,,
+tt1152835,Palo Pinto Gold,"('Western',)",PG-13,USA,ENGLISH,4.7,111,,0.2,,0.05
+tt1152836,Public Enemies,"('Biography', 'Crime', 'Drama', 'History', 'Romance')",,USA,ENGLISH,7.0,254735,2009-07-01,100.0,25.271675,97.10462
+tt1153040,Tidal Wave,"('Action', 'Drama')",,SOUTH KOREA,KOREAN,5.7,3295,2009-07-22,,,
+tt1153043,The Least Among You,"('Biography', 'Drama')",PG-13,USA,ENGLISH,4.8,129,2009-01-12,2.0,,
+tt1153053,Today's Special,"('Comedy',)",,USA,ENGLISH,6.6,5578,2009-11-11,,0.090639,0.400654
+tt1153102,The Devil's Ground,"('Horror', 'Thriller')",,CANADA,ENGLISH,4.5,1314,2009-05-19,,,
+tt1153537,The Gold & the Beautiful,"('Adventure', 'Comedy', 'Family')",UNRATED,USA,ENGLISH,5.6,498,2009-02-28,4.2,,
+tt1153706,Dance Flick,"('Action', 'Comedy', 'Music')",PG-13,USA,ENGLISH,3.5,10864,2009-05-22,25.0,12.62245,25.615792
+tt1155056,"I Love You, Man","('Comedy', 'Romance')",,USA,ENGLISH,7.0,181719,2009-03-20,40.0,17.81027,71.440011
+tt1156067,The Lightkeepers,"('Comedy',)",,USA,ENGLISH,5.4,520,2010-03-19,4.5,,
+tt1156143,Les herbes folles,"('Drama', 'Romance')",,FRANCE,FRENCH,6.3,3401,2009-11-04,,0.039162,0.403649
+tt1156398,Zombieland,"('Adventure', 'Comedy', 'Horror', 'Sci-Fi')",,USA,ENGLISH,7.7,441516,2009-10-02,23.6,24.733155,75.590286
+tt1156519,The Three Investigators and the Secret of Terror Castle,"('Adventure', 'Family', 'Mystery')",,GERMANY,ENGLISH,5.7,827,2009-03-19,,,
+tt1157600,Aussie and Ted's Great Adventure,"('Family',)",UNRATED,USA,ENGLISH,5.3,155,,,,
+tt1158933,Cayman Went,"('Drama', 'Family')",,USA,ENGLISH,4.7,143,2009-06-05,0.8,,
+tt1160368,12 Rounds,"('Action', 'Crime', 'Thriller')",PG-13,USA,ENGLISH,5.6,25277,2009-03-27,22.0,5.32924,12.232937
+tt1161064,Super Capers: The Origins of Ed and the Missing Bullion,"('Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi')",,USA,ENGLISH,3.1,971,2009-03-20,2.0,0.021463,0.030955
+tt1161404,Blood Night: The Legend of Mary Hatchet,"('Horror',)",,USA,ENGLISH,4.5,2051,2009-10-10,3.0,,
+tt1161418,Gentlemen Broncos,"('Adventure', 'Comedy', 'Sci-Fi')",PG-13,USA,ENGLISH,6.2,10071,2010-05-27,,0.011502,0.113155
+tt1169133,American Bully,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.0,286,2009-03-27,1.0,,
+tt1169809,Book of Blood,"('Drama', 'Horror', 'Mystery', 'Thriller')",,UK,ENGLISH,5.3,6452,2009-05-08,6.0,,
+tt1170350,Crush,"('Horror', 'Mystery', 'Thriller')",,AUSTRALIA,ENGLISH,4.6,1324,,1.5,,
+tt1170389,Amar,"('Drama',)",,MEXICO,ENGLISH,4.7,262,2009-02-27,,,
+tt1170391,Beautiful,"('Drama', 'Thriller')",,AUSTRALIA,ENGLISH,5.3,1563,2009-03-05,,,
+tt1172060,It's Alive,"('Horror', 'Sci-Fi')",,USA,ENGLISH,3.5,2540,2009-04-02,10.0,,
+tt1172233,Whip It,"('Drama', 'Sport')",PG-13,USA,ENGLISH,6.9,60217,2009-10-02,15.0,4.650812,13.043363
+tt1172994,The House of the Devil,"('Horror',)",,USA,ENGLISH,6.4,35395,2012-05-04,0.9,0.025195,0.100659
+tt1172997,Babysitters Beware,"('Comedy', 'Family')",,USA,ENGLISH,4.6,302,2009-12-03,0.15,,
+tt1172998,Hurricane Season,"('Drama', 'Sport')",PG-13,USA,ENGLISH,6.7,2358,2009-12-08,15.0,,
+tt1174730,City Island,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,7.4,28889,2010-04-30,6.0,0.032001,6.670712
+tt1174732,An Education,"('Drama',)",PG-13,UK,ENGLISH,7.3,121050,2010-02-05,,0.159017,12.574715
+tt1176161,Fatal Secrets,"('Drama', 'Thriller')",,USA,ENGLISH,3.8,241,,,,
+tt1176252,Hunger,"('Action', 'Crime', 'Horror', 'Thriller')",,USA,ENGLISH,5.3,4248,2009-05-15,0.625,,
+tt1176724,Across the Hall,"('Horror', 'Thriller')",,USA,ENGLISH,6.1,3831,2009-12-04,,,
+tt1176740,Away We Go,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,7.1,48981,2009-06-26,17.0,0.130411,9.451946
+tt1178663,Whatever Works,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,7.2,65651,2009-07-03,15.0,0.266162,5.306447
+tt1179258,Chéri,"('Comedy', 'Drama', 'Romance')",,UK,ENGLISH,6.2,9703,2009-07-17,23.0,0.405701,2.708188
+tt1179794,TiMER,"('Comedy', 'Drama', 'Fantasy', 'Romance', 'Sci-Fi')",,USA,ENGLISH,6.5,11546,2010-05-14,,,
+tt1179891,My Bloody Valentine,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,5.5,49504,2009-01-16,15.0,21.241456,51.545952
+tt1182345,Moon,"('Drama', 'Mystery', 'Sci-Fi')",,UK,ENGLISH,7.9,301842,2009-07-10,5.0,0.136046,5.009677
+tt1182609,Direct Contact,"('Action', 'Thriller')",,BULGARIA,ENGLISH,4.3,2560,2009-08-20,6.0,,
+tt1182921,Ninja,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.5,10919,2009-10-22,10.0,,
+tt1183251,Beyond a Reasonable Doubt,"('Crime', 'Drama', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.9,11530,2009-07-10,25.0,0.017164,0.032409
+tt1183665,Cracks,"('Drama', 'Thriller')",,UK,ENGLISH,6.7,17556,2011-03-18,,0.009467,0.017595
+tt1183921,The Vicious Kind,"('Comedy', 'Drama')",,USA,ENGLISH,7.0,7127,2009-01-17,,,
+tt1185242,Finding Bliss,"('Comedy', 'Romance')",,USA,ENGLISH,5.3,2192,2011-12-15,1.5,0.002115,0.008983
+tt1185266,Stan Helsing,"('Comedy', 'Horror')",,CANADA,ENGLISH,3.6,10892,2010-03-25,,,
+tt1185344,Princess Kaiulani,"('Drama',)",,USA,ENGLISH,6.2,1449,2010-05-14,9.0,0.18698,0.883887
+tt1185376,Map of the Sounds of Tokyo,"('Drama', 'Thriller')",UNRATED,SPAIN,JAPANESE,6.1,1993,2009-08-28,8.0,,
+tt1185431,My One and Only,"('Adventure', 'Biography', 'Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.6,7870,2009-09-25,,0.058692,2.47597
+tt1185836,Adam,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,7.2,31823,2009-08-28,,0.068377,2.277396
+tt1186363,Frozen Kiss,"('Drama',)",,USA,ENGLISH,2.7,283,,,,
+tt1186367,Ninja Assassin,"('Action', 'Crime', 'Fantasy', 'Thriller')",,GERMANY,ENGLISH,6.4,63071,2009-11-25,40.0,13.316158,38.105077
+tt1186370,Spread,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,5.9,35530,2009-07-08,,0.122948,0.24959
+tt1186371,Fung wan II,"('Action', 'Adventure', 'Fantasy')",PG-13,HONG KONG,CANTONESE,5.2,1539,2009-12-17,22.0,,
+tt1186788,Baby on Board,"('Comedy', 'Romance')",,USA,ENGLISH,4.2,3106,2010-04-16,8.0,,
+tt1186830,Agora,"('Adventure', 'Biography', 'Drama', 'History', 'Romance')",,SPAIN,ENGLISH,7.2,59744,2009-10-09,70.0,0.044313,0.61784
+tt1187041,The Answer Man,"('Comedy', 'Romance')",,USA,ENGLISH,6.4,6004,2009-12-30,,0.012998,0.025589
+tt1187043,3 Idiots,"('Comedy', 'Drama')",PG-13,INDIA,HINDI,8.4,282769,2009-12-25,,1.645502,6.532908
+tt1187064,Triangle,"('Fantasy', 'Mystery', 'Thriller')",,UK,ENGLISH,6.9,84958,2009-10-16,12.0,,
+tt1188729,Pandorum,"('Action', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller')",,GERMANY,ENGLISH,6.8,134153,2009-09-25,33.0,4.424126,10.330853
+tt1189072,New Brooklyn,"('Drama',)",UNRATED,USA,SPANISH,6.0,17,2009-02-26,0.075,,
+tt1190080,2012,"('Action', 'Adventure', 'Sci-Fi')",PG-13,USA,ENGLISH,5.8,318148,2009-11-13,200.0,65.237614,166.112167
+tt1190536,Black Dynamite,"('Action', 'Comedy')",,USA,ENGLISH,7.4,41236,2010-01-13,2.9,0.131862,0.228477
+tt1190858,Amreeka,"('Drama',)",PG-13,USA,ENGLISH,7.1,3256,2009-06-17,,0.061176,0.622164
+tt1190910,The Beacon,"('Action', 'Fantasy', 'Horror', 'Thriller')",,USA,ENGLISH,4.8,945,2011-09-13,2.5,,
+tt1191971,Zone of the Dead,"('Action', 'Horror', 'Sci-Fi')",,SERBIA,ENGLISH,4.1,2910,2010-10-01,1.0,,
+tt1192620,Call of the Wild,"('Adventure', 'Drama', 'Family')",,USA,ENGLISH,5.3,607,2009-06-12,,0.010713,0.028682
+tt1193138,Up in the Air,"('Drama', 'Romance')",,USA,ENGLISH,7.4,294362,2009-12-23,25.0,1.18145,83.823381
+tt1194103,The Broken Hearts Club,"('Romance',)",UNRATED,USA,ENGLISH,7.3,22,2009-06-02,0.3,,
+tt1194263,Get Low,"('Drama', 'Mystery')",PG-13,USA,ENGLISH,7.1,20519,2010-08-27,7.5,0.088182,9.176553
+tt1196334,After Last Season,"('Animation', 'Drama', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.5,7475,2009-06-05,5.0,,
+tt1197613,The Hitmen Diaries: Charlie Valentine,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,5.5,583,2009-03-01,6.0,,
+tt1197624,Law Abiding Citizen,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,7.4,243671,2009-10-16,50.0,21.039502,73.343413
+tt1197628,Observe and Report,"('Comedy', 'Crime', 'Drama')",,USA,ENGLISH,5.8,56003,2009-04-10,18.0,11.017334,23.993605
+tt1198138,Obsessed,"('Drama', 'Romance', 'Thriller')",PG-13,USA,ENGLISH,4.9,25965,2009-04-24,20.0,28.61273,68.261644
+tt1198153,The Assassin Next Door,"('Action', 'Drama', 'Thriller')",,ISRAEL,HEBREW,5.8,2118,2009-12-03,3.0,,
+tt1198189,The Boxer,"('Action', 'Drama', 'Sport')",,GERMANY,ENGLISH,5.2,529,2009-04-18,,,
+tt1198333,Autumn,"('Horror', 'Sci-Fi', 'Thriller')",,CANADA,ENGLISH,3.2,1444,,,,
+tt1198396,Chawu,"('Action', 'Comedy', 'Horror', 'Thriller')",,SOUTH KOREA,KOREAN,5.7,895,2009-07-15,,,
+tt1199561,Two Million Stupid Women,"('Comedy',)",,USA,ENGLISH,5.5,138,2009-02-27,,,
+tt1200272,La Mission,"('Drama',)",,USA,ENGLISH,7.1,1622,2009-01-19,3.0,0.049046,1.04
+tt1200273,Spooner,"('Comedy', 'Drama')",,USA,ENGLISH,5.8,524,2009-01-18,,,
+tt1201152,Lofty Intentions,"('Drama',)",UNRATED,USA,ENGLISH,3.4,9,2009-01-31,,,
+tt1201167,Funny People,"('Comedy', 'Drama')",,USA,ENGLISH,6.3,107349,2009-07-31,75.0,22.65778,51.855045
+tt1202222,Lies & Illusions,"('Action', 'Thriller')",,USA,ENGLISH,3.5,2735,2009-08-27,4.5,,
+tt1203517,The Graves,"('Adventure', 'Horror', 'Thriller')",,USA,ENGLISH,3.7,1876,2010-01-29,,,
+tt1203532,Subdivision,"('Comedy', 'Drama')",UNRATED,AUSTRALIA,ENGLISH,5.7,97,2009-08-20,,,
+tt1205535,The Rebound,"('Comedy', 'Romance')",,USA,ENGLISH,6.3,43208,2009-09-16,,,
+tt1206086,Rain Fall,"('Action', 'Crime', 'Drama', 'Thriller')",,JAPAN,JAPANESE,4.8,1130,2009-04-25,7.0,,
+tt1206541,El delfín: La historia de un soñador,"('Animation', 'Adventure', 'Family')",,GERMANY,SPANISH,3.8,544,2009-10-08,3.0,,
+tt1206881,The Bleeding,"('Action', 'Horror')",,USA,ENGLISH,3.0,934,2009-11-02,7.0,,
+tt1209361,Sutures,"('Horror', 'Thriller')",,USA,ENGLISH,4.4,1229,2009-10-04,,,
+tt1209377,Beautiful Kate,"('Drama', 'Mystery')",,AUSTRALIA,ENGLISH,6.7,3023,2009-08-06,4.3,,
+tt1210042,Brooklyn's Finest,"('Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.7,56713,2010-03-05,17.0,13.350299,27.154426
+tt1210071,The Janky Promoters,"('Comedy', 'Crime', 'Music')",,USA,ENGLISH,5.3,1267,2009-10-16,,0.005702,
+tt1210801,Command Performance,"('Action', 'Drama', 'Thriller')",,USA,ENGLISH,5.7,2920,,6.0,,
+tt1212016,All for Liberty,"('Drama',)",UNRATED,USA,ENGLISH,6.9,43,,,,
+tt1212023,Dark Fields,"('Horror',)",,USA,ENGLISH,3.8,373,2009-10-25,,,
+tt1212451,April Showers,"('Crime', 'Drama')",,USA,ENGLISH,5.9,913,2009-04-18,1.1,,
+tt1212909,Broken Hill,"('Drama', 'Family', 'Music')",,USA,ENGLISH,6.3,584,2009-09-11,2.5,0.03214,0.050076
+tt1212974,Bitch Slap,"('Action', 'Comedy', 'Crime', 'Thriller')",,USA,ENGLISH,4.5,12811,2009-11-06,,0.012254,0.017365
+tt1213825,Love Hurts,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,5.7,1239,2010-03-19,2.0,,
+tt1213929,White Wedding,"('Comedy', 'Romance')",PG-13,SOUTH AFRICA,ZULU,5.6,560,2009-04-29,,0.007005,0.010908
+tt1215523,Street Boss,"('Crime', 'Drama')",,USA,ENGLISH,3.4,232,2009-05-29,2.0,,
+tt1216487,The Girl Who Played with Fire,"('Crime', 'Drama', 'Mystery', 'Thriller')",,SWEDEN,SWEDISH,7.2,82275,2010-08-27,,0.904998,9.081782
+tt1216496,Mother,"('Crime', 'Drama', 'Mystery', 'Thriller')",,SOUTH KOREA,KOREAN,7.8,35077,2009-05-28,5.0,0.035858,0.547292
+tt1217070,Triage,"('Drama', 'Mystery', 'War')",,IRELAND,ENGLISH,6.5,9328,2009-11-13,,,
+tt1217616,Endgame,"('Drama', 'History')",PG-13,UK,ENGLISH,6.3,2501,2009-01-18,,0.001608,0.009645
+tt1217645,You Might as Well Live,"('Comedy',)",,CANADA,ENGLISH,5.4,348,,,,
+tt1219336,The Donner Party,"('Drama',)",,USA,ENGLISH,5.2,900,2009-10-23,,,
+tt1219828,Happy Tears,"('Comedy', 'Drama')",,USA,ENGLISH,5.2,1300,2009-10-16,,0.013011,0.022377
+tt1219834,Rough Winds,"('Drama',)",UNRATED,USA,ENGLISH,7.6,65,,,,
+tt1220198,The Fourth Kind,"('Mystery', 'Sci-Fi', 'Thriller')",PG-13,USA,ENGLISH,5.9,68526,2009-11-06,10.0,12.23116,25.46448
+tt1220213,Grace,"('Drama', 'Horror', 'Thriller')",,USA,ENGLISH,5.2,7235,2009-11-07,5.0,0.006174,0.006174
+tt1220220,Motherhood,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,4.6,4041,2009-08-28,5.0,0.050081,0.0929
+tt1220628,I Hope They Serve Beer in Hell,"('Comedy',)",,USA,ENGLISH,5.3,7883,2009-09-25,,0.366909,1.425993
+tt1220633,Pastor Brown,"('Drama', 'Family')",PG-13,USA,ENGLISH,6.3,255,2009-06-26,,,
+tt1221932,Abduction,"('Horror', 'Thriller')",UNRATED,USA,ENGLISH,3.5,180,2009-08-01,0.5,,
+tt1222329,Wild Cherry,"('Comedy',)",,CANADA,ENGLISH,4.2,1671,2009-05-15,3.5,,
+tt1223082,Oy Vey! My Son Is Gay!!,"('Comedy',)",PG-13,USA,ENGLISH,5.1,517,2010-12-24,,0.004042,0.087154
+tt1225698,The Nail: The Story of Joey Nardone,"('Drama',)",,USA,ENGLISH,6.3,384,2009-08-03,,,
+tt1225822,Extract,"('Comedy', 'Crime', 'Romance')",,USA,ENGLISH,6.2,41903,2009-09-04,8.0,5.513634,10.814185
+tt1225902,The Hungry Ghosts,"('Drama',)",,USA,ENGLISH,5.5,137,2010-02-05,,,
+tt1226232,The Greatest,"('Drama', 'Romance')",,USA,ENGLISH,6.7,8168,2009-11-05,6.0,0.033616,0.115862
+tt1226236,Io sono l'amore,"('Drama', 'Romance')",,ITALY,ITALIAN,7.1,17473,2010-07-23,,0.121504,5.005465
+tt1226271,The Damned United,"('Biography', 'Drama', 'Sport')",,UK,ENGLISH,7.6,37058,2009-03-27,10.0,0.032065,0.449558
+tt1228933,Laid to Rest,"('Horror', 'Thriller')",,USA,ENGLISH,5.3,7081,2009-03-18,,,
+tt1228953,Big Fan,"('Comedy', 'Crime', 'Drama', 'Sport')",,USA,ENGLISH,6.7,8473,2009-01-18,,0.024266,0.234422
+tt1230126,Minor Details,"('Adventure', 'Family', 'Mystery')",,USA,ENGLISH,4.8,744,2009-02-05,,,
+tt1230155,Nobody,"('Comedy',)",PG-13,USA,ENGLISH,6.8,79,2009-10-01,1.0,0.013232,0.014271
+tt1230206,Slaughter,"('Horror', 'Thriller')",,USA,ENGLISH,4.6,1987,2009-01-09,4.0,,
+tt1230211,Perkins' 14,"('Horror', 'Thriller')",,USA,ENGLISH,5.1,2030,2010-03-24,,,
+tt1230214,Stuntmen,"('Comedy',)",,USA,ENGLISH,5.4,611,2009-08-18,,,
+tt1230380,The Job,"('Comedy', 'Drama', 'Thriller')",,USA,ENGLISH,5.1,738,2009-09-26,3.1,,
+tt1230414,It's Complicated,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.6,78160,2009-12-25,85.0,22.100822,112.735375
+tt1231277,S. Darko,"('Mystery', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,3.6,12162,2009-08-21,4.0,,
+tt1231287,Labor Pains,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,4.8,9887,2009-06-19,10.0,,
+tt1231580,Alvin and the Chipmunks: The Squeakquel,"('Animation', 'Comedy', 'Family', 'Fantasy', 'Music')",,USA,ENGLISH,4.5,37344,2009-12-23,75.0,48.875415,219.614612
+tt1231593,Dark Moon Rising,"('Crime', 'Horror', 'Romance', 'Thriller')",,USA,ENGLISH,4.1,569,2009-10-10,3.0,,
+tt1232201,In the Eyes of a Killer,"('Mystery', 'Thriller')",UNRATED,USA,ENGLISH,5.7,102,2009-05-31,1.0,,
+tt1232783,Sorority Row,"('Horror', 'Mystery')",,USA,ENGLISH,5.1,26334,2009-09-11,16.0,5.059802,11.956207
+tt1232823,Diamond Dawgs,"('Action', 'Crime', 'Drama')",UNRATED,USA,ENGLISH,1.8,122,2009-08-15,2.0,,
+tt1232824,Into Temptation,"('Drama',)",,USA,ENGLISH,6.6,770,2009-04-26,,,
+tt1233219,"My Son, My Son, What Have Ye Done","('Drama', 'Thriller')",,USA,ENGLISH,6.3,8590,2010-07-08,2.0,,
+tt1233227,Saw VI,"('Horror', 'Mystery', 'Thriller')",,CANADA,ENGLISH,6.0,90102,2009-10-23,11.0,14.118444,27.693292
+tt1234541,The Butterfly Effect 3: Revelations,"('Crime', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.6,17186,2009-07-31,4.5,,
+tt1234548,The Men Who Stare at Goats,"('Comedy', 'War')",,USA,ENGLISH,6.2,119163,2009-11-06,25.0,12.706654,32.416109
+tt1235124,Dorian Gray,"('Drama', 'Fantasy', 'Thriller')",,UK,ENGLISH,6.3,56648,2009-09-09,,,
+tt1235166,A Prophet,"('Crime', 'Drama')",,FRANCE,FRENCH,7.9,86303,2010-03-26,,0.163773,2.084637
+tt1235200,Mercy,"('Drama', 'Romance')",,USA,ENGLISH,6.1,1195,,,0.001776,0.005096
+tt1235404,31 North 62 East,"('Thriller',)",,UK,ENGLISH,4.2,299,2009-09-18,3.1,,
+tt1235448,The Thaw,"('Horror', 'Sci-Fi', 'Thriller')",,CANADA,ENGLISH,5.2,10372,2010-09-29,,,
+tt1235796,Ondine,"('Drama', 'Mystery', 'Romance')",PG-13,IRELAND,ENGLISH,6.8,18527,2010-03-05,12.0,0.027497,0.548934
+tt1235807,Stay Cool,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,5.2,3053,2011-09-16,4.5,,
+tt1236199,The Greatest Song,"('Romance',)",PG-13,USA,ENGLISH,7.1,47,2009-07-07,,,
+tt1236471,Attack on Darfur,"('Drama', 'War')",,CANADA,ENGLISH,5.9,2270,2010-04-29,,,
+tt1237838,Mystery Team,"('Comedy', 'Crime', 'Mystery')",,USA,ENGLISH,6.8,8262,2009-01-17,,0.00784,0.077126
+tt1238291,Five Minutes of Heaven,"('Drama', 'Thriller')",,UK,ENGLISH,6.7,11463,2009-02-27,,0.005364,0.013217
+tt1238304,Table for Three,"('Comedy', 'Romance')",,USA,ENGLISH,5.5,2880,2009-06-23,,,
+tt1239357,One Good Man,"('Drama', 'Family')",,USA,ENGLISH,7.0,97,2009-10-09,,,
+tt1239462,La véritable histoire du Chat Botté,"('Animation', 'Adventure', 'Comedy')",UNRATED,FRANCE,ENGLISH,3.0,846,2009-04-01,25.0,,
+tt1241316,Dare,"('Drama', 'Romance')",,USA,ENGLISH,5.9,3838,2011-05-05,,,
+tt1242423,Dear Lemon Lima,"('Comedy',)",PG-13,USA,ENGLISH,6.5,1042,,,,
+tt1242447,Nativity!,"('Comedy', 'Family')",,UK,ENGLISH,6.5,5705,2009-11-27,,,
+tt1242516,Barbarossa,"('Drama', 'History', 'War')",,ITALY,ENGLISH,4.4,1140,2009-10-09,,,
+tt1242544,Last Day of Summer,"('Comedy', 'Drama')",,USA,ENGLISH,5.4,754,2009-10-24,5.0,0.0307,0.0453
+tt1242548,The Perfect Age of Rock 'n' Roll,"('Drama', 'Music')",,USA,ENGLISH,5.9,399,,5.0,,
+tt1242618,Deadline,"('Drama', 'Horror', 'Thriller')",UNRATED,USA,ENGLISH,4.7,4766,2010-01-29,1.8,,
+tt1243955,The Shortcut,"('Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.1,3058,2009-09-29,5.0,,
+tt1245112,[Rec] 2,"('Horror', 'Thriller')",,SPAIN,SPANISH,6.5,62103,2009-10-02,5.6,0.008191,0.027766
+tt1247640,District 13: Ultimatum,"('Action', 'Crime', 'Thriller')",,FRANCE,FRENCH,6.5,40356,2009-02-18,,0.01187,0.036039
+tt1247662,The Good Guy,"('Comedy', 'Romance')",,USA,ENGLISH,5.9,8576,2010-02-19,8.0,0.034712,0.100503
+tt1247691,Shannon's Rainbow,"('Drama', 'Family')",,USA,ENGLISH,5.6,556,2013-01-08,8.5,,
+tt1247692,Shrink,"('Comedy', 'Drama')",,USA,ENGLISH,6.7,17456,2009-08-06,5.1,0.016443,0.189332
+tt1247700,Xiong mao hui jia lu,"('Adventure', 'Family')",UNRATED,CHINA,MANDARIN,6.4,128,,,,
+tt1247704,Women in Trouble,"('Comedy', 'Drama')",,USA,ENGLISH,5.8,5541,2011-07-28,,,
+tt1251368,Assault of the Sasquatch,"('Action', 'Horror')",UNRATED,USA,ENGLISH,3.7,305,,,,
+tt1251757,Middle Men,"('Comedy', 'Crime', 'Drama')",,USA,ENGLISH,6.6,34694,2010-08-06,22.0,0.325641,0.723714
+tt1253596,Midgets Vs. Mascots,"('Comedy',)",,USA,ENGLISH,5.3,652,2011-01-10,2.0,,
+tt1254696,Splinterheads,"('Comedy',)",,USA,ENGLISH,6.0,1350,2009-10-02,,0.010515,0.016392
+tt1258134,De père en flic,"('Action', 'Comedy', 'Crime')",UNRATED,CANADA,FRENCH,6.7,1581,2010-01-09,,,
+tt1258137,Give 'em Hell Malone,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,6.0,5741,2009-07-25,15.0,,
+tt1258154,Rock Slyde,"('Comedy',)",PG-13,USA,ENGLISH,5.7,546,2009-03-31,0.35,,
+tt1258922,Better the Devil You Know,"('Comedy', 'Drama', 'Fantasy')",UNRATED,USA,ENGLISH,4.4,54,2009-04-17,,,
+tt1259571,The Twilight Saga: New Moon,"('Adventure', 'Drama', 'Fantasy', 'Romance')",PG-13,USA,ENGLISH,4.7,241438,2009-11-20,50.0,142.839137,296.623634
+tt1260565,Passport to Love,"('Romance',)",PG-13,USA,ENGLISH,6.6,153,2009-10-09,,0.046012,0.172453
+tt1260567,Dark House,"('Horror', 'Thriller')",,USA,ENGLISH,5.0,2047,2009-04-19,,,
+tt1260587,The Scenesters,"('Comedy', 'Crime', 'Mystery')",,USA,ENGLISH,6.1,425,,,,
+tt1261415,Dismal,"('Horror', 'Thriller')",,USA,ENGLISH,3.0,569,,0.13,,
+tt1262413,Offspring,"('Horror',)",,USA,ENGLISH,4.8,2041,2009-08-28,,,
+tt1262981,World's Greatest Dad,"('Comedy', 'Drama')",,USA,ENGLISH,6.9,34854,2010-09-24,,0.004675,0.22121
+tt1263670,Crazy Heart,"('Drama', 'Music', 'Romance')",,USA,ENGLISH,7.3,77153,2010-02-05,7.0,0.082664,39.462438
+tt1264098,Maneater,"('Horror',)",,USA,ENGLISH,4.2,371,2009-11-01,,,
+tt1264103,Adopted,"('Comedy',)",,USA,ENGLISH,4.4,378,,,,
+tt1265615,Black and Blue,"('Drama',)",PG-13,USA,ENGLISH,5.3,62,2009-10-23,,,
+tt1266029,Nowhere Boy,"('Biography', 'Drama', 'Music', 'Romance')",,UK,ENGLISH,7.1,32075,2010-10-15,,0.052749,1.445366
+tt1266542,The Break-Up Artist,"('Comedy', 'Romance')",PG-13,USA,ENGLISH,4.9,1409,2009-11-10,2.0,,
+tt1267493,De indiaan,"('Adventure', 'Family')",PG-13,NETHERLANDS,DUTCH,6.3,156,2009-08-09,,,
+tt1268161,21 and a Wake-Up,"('Drama', 'War')",,USA,ENGLISH,5.6,117,2009-10-30,3.0,,
+tt1268809,Night of the Demons,"('Action', 'Comedy', 'Horror', 'Thriller')",,USA,ENGLISH,4.7,6496,2011-05-26,10.0,,
+tt1269696,La soga,"('Crime', 'Drama')",,DOMINICAN REPUBLIC,SPANISH,6.3,719,2010-08-13,,0.052554,0.210625
+tt1269734,Angel of Death,"('Action', 'Crime', 'Thriller')",UNRATED,USA,ENGLISH,5.0,1977,2009-07-07,,,
+tt1270090,Dark Frontier,"('Drama', 'History', 'Thriller', 'Western')",,AUSTRALIA,ENGLISH,5.5,243,2013-05-21,,,
+tt1270096,The Invisible Chronicles,"('Thriller',)",,USA,ENGLISH,3.5,84,,,,
+tt1270286,To Save a Life,"('Drama',)",PG-13,USA,ENGLISH,7.1,5106,2010-11-11,1.0,1.513955,3.773863
+tt1270850,The Waiting City,"('Drama', 'Romance')",,AUSTRALIA,ENGLISH,6.2,747,2010-07-15,3.0,,
+tt1273229,The Outside,"('Drama',)",,USA,ENGLISH,5.8,152,2010-07-20,0.5,,
+tt1274650,Sundo,"('Drama', 'Horror', 'Thriller')",UNRATED,PHILIPPINES,FILIPINO,5.9,68,2009-03-18,,,
+tt1275861,Under the Mountain,"('Adventure', 'Drama', 'Fantasy')",PG-13,NEW ZEALAND,ENGLISH,4.9,1919,2009-12-10,,,
+tt1276105,Saint John of Las Vegas,"('Comedy', 'Drama')",,USA,ENGLISH,5.7,2673,2009-06-10,3.8,0.021666,0.102645
+tt1276973,No Boundaries,"('Drama', 'Romance')",,USA,ENGLISH,5.2,30,,,,
+tt1280536,Pedro,"('Biography',)",UNRATED,USA,ENGLISH,7.6,21,2009-03-09,,,
+tt1281374,Don McKay,"('Drama', 'Mystery', 'Thriller')",,USA,ENGLISH,5.9,2152,2009-04-24,,0.008919,
+tt1283540,The Brotherhood V: Alumni,"('Horror', 'Thriller')",,USA,ENGLISH,2.8,226,2009-01-18,1.0,,
+tt1283976,Earthwork,"('Drama',)",,USA,ENGLISH,7.4,365,2011-05-20,1.0,,
+tt1285010,Summer's Moon,"('Horror', 'Thriller')",,CANADA,ENGLISH,4.5,2879,2009-11-10,,,
+tt1285309,The Joneses,"('Drama',)",,USA,ENGLISH,6.5,36219,2010-04-23,5.0,0.509689,1.474508
+tt1286147,Ghost Machine,"('Action', 'Sci-Fi', 'Thriller')",,UK,ENGLISH,4.8,1676,2010-04-12,,,
+tt1287876,The Echo Game,"('Drama', 'Fantasy', 'Horror', 'Thriller')",,USA,ENGLISH,4.5,146,,0.04,,
+tt1288403,Universal Soldier: Regeneration,"('Action', 'Sci-Fi', 'Thriller')",,USA,ENGLISH,5.2,23383,,10.0,,
+tt1288571,Shank,"('Drama',)",,UK,ENGLISH,6.3,2286,2009-09-11,,,
+tt1289406,Harry Brown,"('Action', 'Crime', 'Drama', 'Thriller')",,UK,ENGLISH,7.2,79353,2010-05-14,7.3,0.173353,1.818681
+tt1289437,The Steam Experiment,"('Mystery', 'Thriller')",,USA,ENGLISH,4.0,2494,2009-03-01,7.0,,
+tt1290400,Double Identity,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,4.6,2298,2009-12-21,,,
+tt1290472,Dragon Hunter,"('Action', 'Adventure', 'Fantasy', 'Thriller')",PG-13,USA,ENGLISH,3.6,1156,2009-07-28,0.85,,
+tt1292652,Hard Times,"('Comedy', 'Crime')",,IRELAND,ENGLISH,5.9,1594,,,,
+tt1293842,The Winning Season,"('Comedy', 'Sport')",PG-13,USA,ENGLISH,6.6,5453,2009-01-19,,,
+tt1294144,Bigfoot,"('Adventure', 'Family')",,USA,ENGLISH,4.6,252,2009-10-06,1.0,,
+tt1294213,Solitary Man,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.4,14558,2010-06-25,15.0,0.094936,4.360548
+tt1296869,The Keeper,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,5.2,3943,2009-10-03,10.0,,
+tt1296899,Wake Wood,"('Drama', 'Horror', 'Thriller')",,IRELAND,ENGLISH,5.5,7249,2011-03-25,,,
+tt1300155,Alabama Moon,"('Drama', 'Family')",,USA,ENGLISH,6.6,1206,2011-03-18,,,
+tt1300851,The Boondock Saints II: All Saints Day,"('Action', 'Crime', 'Thriller')",,USA,ENGLISH,6.3,57402,2009-12-11,8.0,0.546687,10.269307
+tt1302570,Kikkerdril,"('Adventure', 'Drama', 'Family')",UNRATED,NETHERLANDS,DUTCH,6.7,216,2009-02-11,,,
+tt1303828,Defendor,"('Comedy', 'Crime', 'Drama')",,CANADA,ENGLISH,6.8,33675,2010-05-13,3.5,0.013265,0.044462
+tt1305796,Les doigts croches,"('Adventure', 'Comedy', 'Crime')",UNRATED,CANADA,FRENCH,6.8,482,2009-08-08,,,
+tt1305806,The Secret in Their Eyes,"('Drama', 'Mystery', 'Romance', 'Thriller')",,ARGENTINA,SPANISH,8.2,165238,2010-05-21,2.0,0.167866,6.390014
+tt1307002,Redemption,"('Action', 'Crime', 'Drama', 'Western')",UNRATED,USA,ENGLISH,3.8,509,2011-03-25,0.06,,
+tt1307065,Love at First Hiccup,"('Comedy',)",,USA,ENGLISH,5.8,2823,,,,
+tt1307989,Never Surrender,"('Action', 'Drama', 'Thriller')",,USA,ENGLISH,2.7,1753,2010-10-03,,,
+tt1308144,Nowhere to Hide,"('Action', 'Horror', 'Mystery', 'Thriller')",PG-13,USA,ENGLISH,5.1,311,,,,
+tt1311067,Halloween II,"('Horror',)",,USA,ENGLISH,4.9,41990,2009-08-28,15.0,16.349565,33.392973
+tt1311699,Dead Man Running,"('Action', 'Crime', 'Drama', 'Thriller')",,UK,ENGLISH,6.0,3741,2009-10-30,5.0,,
+tt1312248,Sugarland,"('Drama',)",UNRATED,USA,ENGLISH,,0,2009-07-03,,,
+tt1314177,Damage,"('Action', 'Drama')",,USA,ENGLISH,5.8,6447,2010-10-08,4.0,,
+tt1314228,Did You Hear About the Morgans?,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,4.8,33243,2009-12-18,58.0,6.616571,29.580087
+tt1314269,Applaus,"('Drama',)",,DENMARK,DANISH,6.7,900,2009-09-25,,,
+tt1314645,C Me Dance,"('Drama', 'Thriller')",,USA,ENGLISH,1.4,354,2009-04-03,0.155,,
+tt1315981,A Single Man,"('Drama', 'Romance')",,USA,ENGLISH,7.6,96977,2010-02-05,7.0,0.217332,9.166863
+tt1316536,The Loved Ones,"('Horror', 'Thriller')",,AUSTRALIA,ENGLISH,6.7,32854,2010-11-04,,,
+tt1318001,Handsome Harry,"('Drama',)",,USA,ENGLISH,6.1,2016,2010-12-06,1.0,0.012562,0.022878
+tt1318044,American Virgin,"('Comedy',)",,USA,ENGLISH,4.3,7155,2010-05-19,4.0,,
+tt1318067,Oveja negra,"('Action', 'Adventure')",PG-13,MEXICO,SPANISH,6.2,176,2009-09-11,1.0,,
+tt1319694,Glorious 39,"('Drama', 'History', 'Thriller', 'War')",,UK,ENGLISH,6.5,4794,2009-11-20,,,
+tt1320082,Le concert,"('Comedy', 'Drama', 'Music')",PG-13,FRANCE,FRENCH,7.6,16312,2009-11-04,,0.021742,0.657194
+tt1322277,The Assailant,"('Action', 'Biography', 'Drama')",,BRAZIL,PORTUGUESE,5.7,1409,2009-10-30,,,
+tt1323605,Suck,"('Comedy', 'Horror', 'Music')",,CANADA,ENGLISH,6.1,4011,2011-02-05,,,
+tt1324059,Wake Up Sid,"('Comedy', 'Drama', 'Romance')",UNRATED,INDIA,HINDI,7.6,23558,2009-10-02,,0.355532,0.717977
+tt1325017,Ripples,"('Drama',)",UNRATED,USA,ENGLISH,6.3,9,2009-04-22,0.03,,
+tt1326206,Crush,"('Comedy',)",UNRATED,USA,ENGLISH,4.5,8,,0.005,,
+tt1326260,The Seamstress,"('Crime', 'Horror', 'Mystery', 'Thriller')",,CANADA,ENGLISH,3.5,807,2009-02-07,1.5,,
+tt1326271,The Truth About Average Guys,"('Comedy',)",UNRATED,USA,ENGLISH,5.5,353,2009-01-17,0.005,,
+tt1326277,The Yankles,"('Sport',)",PG-13,USA,ENGLISH,5.1,174,2009-11-15,,,
+tt1326945,Kicking the Dog,"('Comedy',)",,USA,ENGLISH,3.7,725,2009-04-21,0.072,,
+tt1327820,Broderskab,"('Drama', 'Romance')",,DENMARK,DANISH,6.9,2916,2010-08-06,,0.002431,0.019525
+tt1328909,All American Orgy,"('Comedy',)",,USA,ENGLISH,3.6,915,2010-10-05,0.5,,
+tt1329437,Silent Shame,"('Drama',)",,USA,ENGLISH,7.2,5,,,,
+tt1330216,"Silent Night, Zombie Night","('Horror', 'Sci-Fi')",,USA,ENGLISH,4.4,667,2009-11-22,,,
+tt1331064,Paper Heart,"('Comedy', 'Drama', 'Romance')",PG-13,USA,ENGLISH,6.0,7703,2009-08-28,,0.219494,1.269361
+tt1331307,Dread,"('Drama', 'Horror', 'Thriller')",,UK,ENGLISH,5.7,11031,2009-10-30,,,
+tt1332504,Cyber Ninja,"('Action',)",UNRATED,USA,ENGLISH,3.9,9,2009-10-31,0.644,,
+tt1334537,Humpday,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.0,5060,2009-09-16,,0.028737,0.406943
+tt1334541,Lost Angels,"('Drama',)",UNRATED,USA,ENGLISH,8.2,15,2009-02-01,0.02,,
+tt1336006,The Revenant,"('Comedy', 'Fantasy', 'Horror')",,USA,ENGLISH,6.3,10025,2012-08-24,,,
+tt1336103,Lost in the Woods,"('Family',)",,USA,ENGLISH,1.4,415,2009-09-25,,,
+tt1336621,Drifter: Henry Lee Lucas,"('Crime', 'Horror', 'Thriller')",,USA,ENGLISH,4.1,542,2009-04-01,1.5,,
+tt1337032,Trailer Park Boys: Countdown to Liquor Day,"('Comedy', 'Crime')",,CANADA,ENGLISH,7.4,6250,2009-09-25,5.0,,
+tt1337057,Rampage,"('Action', 'Crime', 'Thriller')",,CANADA,ENGLISH,6.3,16894,2010-04-29,,,
+tt1337650,Know Thy Enemy,"('Drama', 'Music')",,USA,ENGLISH,3.7,224,2009-05-26,0.25,,
+tt1339307,Hellbinders,"('Action', 'Fantasy', 'Horror')",,USA,ENGLISH,3.9,544,2009-09-04,1.3,,
+tt1339659,Jarring,"('Horror', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,4.6,44,,,,
+tt1340456,Partners,"('Action', 'Crime')",UNRATED,USA,ENGLISH,4.0,64,2009-06-05,0.05,,
+tt1340692,Where the Lotus Blooms,"('Drama',)",UNRATED,USA,ENGLISH,,0,2009-03-13,0.5,,
+tt1342403,Toys in the Attic,"('Animation', 'Family', 'Fantasy', 'Thriller')",,CZECH REPUBLIC,CZECH,6.4,548,2009-03-05,,0.014663,0.064918
+tt1343097,The Girl Who Kicked the Hornet's Nest,"('Crime', 'Drama', 'Thriller')",,SWEDEN,SWEDISH,7.3,60271,2010-11-12,,0.915,5.188972
+tt1344623,Inside the Velvet Rope,"('Thriller',)",UNRATED,USA,ENGLISH,,0,,0.05,,
+tt1344659,Shadows of the Past,"('Drama', 'Western')",,AUSTRALIA,ENGLISH,6.3,66,2009-05-14,,,
+tt1345468,La donation,"('Drama',)",UNRATED,CANADA,FRENCH,7.0,201,2010-01-01,,,
+tt1345488,"Manson, My Name Is Evil","('Comedy', 'Crime')",,CANADA,ENGLISH,4.8,734,,,,
+tt1346961,The Eclipse,"('Drama', 'Horror', 'Romance')",,IRELAND,ENGLISH,6.2,2600,2010-04-15,,0.013207,0.13239
+tt1347007,Skjult,"('Horror', 'Thriller')",,NORWAY,NORWEGIAN,5.7,2627,2009-04-03,,,
+tt1347522,Her,"('Drama',)",UNRATED,USA,ENGLISH,5.9,7,2009-01-31,0.02,,
+tt1349486,A Vampire's Tale,"('Horror', 'Western')",,UK,ENGLISH,3.2,430,2012-10-17,,,
+tt1350484,Curious George 2: Follow That Monkey!,"('Animation', 'Family')",UNRATED,USA,ENGLISH,5.6,832,2009-07-10,,,
+tt1352824,Chloe,"('Drama', 'Mystery', 'Romance', 'Thriller')",,USA,ENGLISH,6.3,63368,2010-03-26,11.0,0.900688,3.074838
+tt1354087,Words Unspoken,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,,0,2009-06-24,0.01,,
+tt1355260,End Game,"('Drama',)",,USA,ENGLISH,2.2,284,2009-12-01,0.2,,
+tt1360833,Star Quest: The Odyssey,"('Sci-Fi',)",PG-13,USA,ENGLISH,1.5,511,2009-11-03,0.125,,
+tt1362103,Neighbor,"('Horror', 'Thriller')",,USA,ENGLISH,4.1,1708,2012-09-04,,,
+tt1362559,Status: Single,"('Comedy', 'Romance')",UNRATED,PHILIPPINES,FILIPINO,5.8,14,2009-01-28,,,
+tt1368116,Merantau,"('Action', 'Drama')",,INDONESIA,INDONESIAN,6.8,8746,2009-11-05,,,
+tt1369647,Christmas Angel,"('Comedy', 'Drama', 'Romance')",,USA,ENGLISH,6.6,955,2009-11-10,,,
+tt1377682,Disco Cops: The Movie,"('Action', 'Comedy', 'Crime')",UNRATED,USA,ENGLISH,,0,2009-01-01,,,
+tt1378378,The Widow's Might,"('Adventure', 'Comedy', 'Family', 'Musical', 'Western')",UNRATED,USA,ENGLISH,4.7,218,2009-01-10,0.129,,
+tt1378778,Smalltimore,"('Comedy',)",UNRATED,USA,ENGLISH,7.0,7,2009-05-07,0.03,,
+tt1379177,The Disappearance of Alice Creed,"('Crime', 'Horror', 'Thriller')",,UK,ENGLISH,6.7,22943,2010-04-30,0.8,0.040258,0.16698
+tt1380224,Un tigre en la cama,"('Comedy',)",,MEXICO,SPANISH,2.6,7,2009-02-13,,,
+tt1381582,Good Guys Finish Last,"('Comedy',)",UNRATED,USA,ENGLISH,5.8,14,,0.02,,
+tt1384598,Uncut,"('Thriller',)",UNRATED,UK,ENGLISH,3.1,21,,,,
+tt1385545,Heroes,"('Drama',)",UNRATED,USA,ENGLISH,8.1,11,2009-01-31,,,
+tt1385912,I Can Do Bad All by Myself,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,4.3,8936,2009-09-11,13.0,23.446785,51.733921
+tt1390404,The Deported,"('Comedy',)",PG-13,USA,ENGLISH,5.9,73,,3.0,,
+tt1391579,The Dark Lurking,"('Action', 'Horror', 'Sci-Fi')",,AUSTRALIA,ENGLISH,3.4,1624,2011-10-10,1.0,,
+tt1392899,Ninja Masters,"('Action', 'Crime')",PG-13,HONG KONG,MANDARIN,4.7,269,2009-05-01,,,
+tt1393000,Wrong Turn at Tahoe,"('Action', 'Crime', 'Drama', 'Thriller')",,USA,ENGLISH,6.1,3527,2009-11-17,6.0,,
+tt1393009,Black Field,"('History',)",UNRATED,CANADA,ENGLISH,6.5,211,2010-06-26,,,
+tt1396532,Shell Shock,"('War',)",UNRATED,UK,ENGLISH,6.4,19,2009-02-12,,,
+tt1399023,Hierarchy,"('Drama',)",UNRATED,USA,ENGLISH,6.5,32,2009-03-13,,,
+tt1401690,Force of Five,"('Action', 'Comedy')",,THAILAND,THAI,5.7,357,2009-03-05,,,
+tt1403085,Pokhoronite menya za plintusom,"('Drama',)",UNRATED,RUSSIA,RUSSIAN,7.1,909,2009-12-03,,,
+tt1404082,Tellement proches,"('Comedy',)",UNRATED,FRANCE,FRENCH,6.5,1225,2009-06-17,,,
+tt1404677,Ecstasy of Gold,"('Western',)",,USA,ENGLISH,3.8,78,2009-06-11,,,
+tt1405412,Hardwired,"('Action', 'Sci-Fi')",,CANADA,ENGLISH,4.7,3889,2009-11-03,5.0,,
+tt1410295,Beauty and the Beast,"('Drama', 'Fantasy', 'Romance')",,AUSTRALIA,ENGLISH,3.2,1528,2010-02-11,,,
+tt1412316,Murphy's Law,"('Comedy', 'Crime')",UNRATED,FRANCE,FRENCH,5.7,150,2009-11-04,,,
+tt1412367,Just Another Day,"('Drama', 'Music')",,USA,ENGLISH,7.0,836,2009-09-24,,,
+tt1413527,Evil Things,"('Horror', 'Mystery', 'Thriller')",,USA,ENGLISH,4.2,1455,2011-07-11,3.175,,
+tt1414037,Loyalty the Movie,"('Action',)",UNRATED,USA,ENGLISH,,0,2009-04-01,0.02,,
+tt1414361,Frat Party,"('Comedy',)",,USA,ENGLISH,2.8,1677,2010-08-06,1.0,,
+tt1420771,Fireball,"('Action', 'Drama')",,THAILAND,THAI,5.2,868,2009-01-29,2.0,,
+tt1422651,Gekijô ban Tengen toppa guren ragan: Ragan hen,"('Animation', 'Drama')",UNRATED,JAPAN,JAPANESE,8.1,663,2009-04-25,,,
+tt1424431,Tsar,"('Drama', 'History')",UNRATED,RUSSIA,RUSSIAN,6.9,2528,2009-11-04,,,
+tt1425252,The Crypt,"('Horror',)",,USA,ENGLISH,3.4,1149,2015-01-29,1.35,,
+tt1427871,For Thy Love 2,"('Drama',)",UNRATED,USA,ENGLISH,,0,2009-07-04,0.05,,
+tt1428556,"A Woman, a Gun and a Noodle Shop","('Comedy', 'Drama')",,CHINA,MANDARIN,5.6,2671,2009-12-11,,0.035033,0.190666
+tt1432203,Fury,"('Comedy', 'Music', 'Thriller')",,USA,ENGLISH,5.4,16,2009-01-31,,,
+tt1433245,Within,"('Drama', 'Horror')",UNRATED,USA,ENGLISH,5.0,7,2009-04-15,0.05,,
+tt1433824,The Landlord,"('Comedy', 'Horror')",UNRATED,USA,ENGLISH,4.5,171,2009-06-01,0.022,,
+tt1433915,Suske en Wiske: De Texas rakkers,"('Animation', 'Adventure', 'Comedy', 'Western')",,BELGIUM,FLEMISH,5.6,421,2009-07-21,,,
+tt1434618,Mandrill,"('Action', 'Thriller')",,CHILE,SPANISH,5.8,446,2010-09-02,1.0,,
+tt1436463,Slave,"('Crime', 'Thriller')",,SPAIN,ENGLISH,3.7,557,,,,
+tt1436577,Sam Steele and the Junior Detective Agency,"('Family',)",UNRATED,USA,ENGLISH,4.6,111,,,,
+tt1441259,Diagnosis: Death,"('Comedy', 'Horror', 'Mystery')",,NEW ZEALAND,ENGLISH,4.9,811,2009-12-29,,,
+tt1441436,Hide and Go Kill 2,"('Horror',)",UNRATED,JAPAN,JAPANESE,5.6,250,2009-05-23,,,
+tt1442253,"Kill Peter, Pay Paul","('Comedy', 'Crime')",UNRATED,USA,ENGLISH,,0,2009-02-28,,,
+tt1442486,Bangkok Adrenaline,"('Action', 'Comedy')",,THAILAND,THAI,4.9,889,2009-05-14,,,
+tt1442492,Damned by Dawn,"('Horror',)",,AUSTRALIA,ENGLISH,3.8,750,2010-04-15,,,
+tt1442567,Adam,"('Fantasy',)",UNRATED,USA,LATIN,7.5,13,,0.003,,
+tt1447955,Eyes of the Woods,"('Horror',)",UNRATED,USA,ENGLISH,4.0,74,2009-10-09,,,
+tt1447971,Smile Pretty,"('Drama',)",,USA,ENGLISH,5.3,299,2009-08-11,,,
+tt1456636,The King of the Jews,"('Drama',)",UNRATED,USA,ENGLISH,7.4,8,2009-09-15,0.01,,
+tt1456964,The Last Passport,"('Drama',)",UNRATED,USA,ENGLISH,7.6,69,2009-06-20,0.005,,
+tt1458939,Monster Beach Party,"('Comedy', 'Horror', 'Music', 'Mystery')",UNRATED,USA,ENGLISH,7.2,45,2009-04-01,0.4,,
+tt1458985,Seafoam & Salmon,"('Drama',)",UNRATED,USA,ENGLISH,,0,,,,
+tt1459040,Ibrahim Labyad,"('Action', 'Drama')",UNRATED,EGYPT,ARABIC,7.2,2013,2009-05-27,,,
+tt1460645,Protege,"('Crime', 'Horror')",UNRATED,USA,ENGLISH,,0,2009-06-15,,,
+tt1461289,The Limb Collector,"('Horror',)",UNRATED,USA,ENGLISH,5.7,26,2010-03-06,0.02,,
+tt1467088,Sweet Karma,"('Crime', 'Drama', 'Thriller')",,CANADA,ENGLISH,5.2,1741,2010-11-01,,,
+tt1467095,The Bee,"('Comedy',)",UNRATED,USA,ENGLISH,,0,2009-10-08,,,
+tt1467304,The Human Centipede (First Sequence),"('Horror',)",,NETHERLANDS,ENGLISH,4.4,65711,2010-04-28,,0.012424,0.181467
+tt1467349,Jordon Saffron: Taste This!,"('Comedy',)",,USA,ENGLISH,4.8,20,2009-09-18,,,
+tt1468337,King-kong-eul deul-da,"('Comedy', 'Drama')",UNRATED,SOUTH KOREA,KOREAN,6.7,144,2009-07-01,,,
+tt1468757,Zombie Women of Satan,"('Comedy', 'Horror', 'Romance')",,UK,ENGLISH,3.3,800,2009-08-31,,,
+tt1474193,Forget,"('Comedy', 'Drama')",UNRATED,USA,ENGLISH,,0,,,,
+tt1474228,I Love You Too,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,3.7,6,2013-12-15,0.25,,
+tt1474276,Summer Wars,"('Animation', 'Action', 'Comedy', 'Drama', 'Family', 'Romance', 'Sci-Fi')",,JAPAN,JAPANESE,7.5,21335,2009-08-01,,0.001412,0.078182
+tt1474897,The Lost & Found Family,"('Drama',)",,USA,ENGLISH,6.2,261,2009-09-15,,,
+tt1478291,Xun zhao Cheng Long,"('Action', 'Comedy', 'Family')",,CHINA,MANDARIN,4.1,983,2009-07-03,,,
+tt1478311,Bazookas: The Movie,"('Comedy',)",UNRATED,USA,ENGLISH,5.4,73,2009-06-02,0.5,,
+tt1478877,Zombie Werewolves Attack!,"('Comedy', 'Horror')",UNRATED,CANADA,ENGLISH,4.5,56,2009-10-03,,,
+tt1482216,Patient X,"('Horror', 'Thriller')",UNRATED,PHILIPPINES,FILIPINO,4.6,90,2009-10-28,0.4,,
+tt1483004,Geu-rim-ja sal-in,"('Crime', 'Mystery', 'Thriller')",UNRATED,SOUTH KOREA,KOREAN,6.9,705,2009-04-02,,,
+tt1483005,If God Wants,"('Comedy',)",,USA,ENGLISH,,0,2009-07-08,1.2,,
+tt1483778,La reine des pommes,"('Comedy', 'Drama', 'Musical')",UNRATED,FRANCE,FRENCH,6.1,397,2010-02-24,,,
+tt1483811,Xunzhao zhimei gengdeng,"('Drama',)",UNRATED,CHINA,TIBETAN,7.0,40,2009-08-11,,,
+tt1483831,Lebanon,"('Drama', 'War')",,ISRAEL,HEBREW,6.9,10303,2009-10-15,,0.017145,0.367798
+tt1485096,The Prodigy,"('Animation',)",UNRATED,USA,ENGLISH,2.2,192,2009-07-07,0.389,,
+tt1489167,Down Terrace,"('Crime', 'Drama')",,UK,ENGLISH,6.5,3133,2010-10-15,,0.003088,0.009609
+tt1490758,Shattered Focus,"('Drama', 'Romance')",UNRATED,USA,ENGLISH,9.0,6,2009-09-30,0.01,,
+tt1493074,Party Time: The Movie,"('Comedy', 'Musical')",UNRATED,PUERTO RICO,SPANISH,6.8,27,2009-04-21,0.9,,
+tt1494649,Bounty,"('Horror',)",UNRATED,USA,ENGLISH,5.5,44,2011-06-11,,,
+tt1498567,Hell's Fury: Wanted Dead or Alive,"('Western',)",PG-13,USA,ENGLISH,3.6,28,2012-01-03,,,
+tt1499303,Raising Kayn,"('Adventure', 'Family', 'Fantasy')",UNRATED,USA,ENGLISH,5.2,19,,0.011,,
+tt1499666,Castaway on the Moon,"('Drama', 'Romance')",UNRATED,SOUTH KOREA,KOREAN,8.1,13533,2009-05-14,5.0,,3.725352
+tt1500510,Blackface Killer,"('Action', 'Crime', 'Horror', 'Mystery', 'Thriller')",UNRATED,USA,ENGLISH,6.2,48,2009-08-21,,,
+tt1504362,Natale a Beverly Hills,"('Comedy',)",UNRATED,ITALY,ITALIAN,3.5,560,2009-12-18,8.0,,
+tt1504398,Heiran,"('Drama', 'Romance')",,IRAN,PERSIAN,6.9,242,2010-02-06,,,
+tt1504402,Hiroshima,"('Drama',)",UNRATED,URUGUAY,SPANISH,6.7,110,2010-04-16,,,
+tt1507359,The Fighter,"('Action',)",UNRATED,USA,ENGLISH,4.3,59,2009-07-01,0.5,,
+tt1508291,In My Life,"('Comedy', 'Drama')",UNRATED,PHILIPPINES,FILIPINO,6.2,155,2009-09-16,,,
+tt1509624,Amor y Frijoles,"('Comedy', 'Drama')",UNRATED,HONDURAS,SPANISH,5.5,118,2009-08-21,0.1,,
+tt1518827,When North Winds Blow,"('Drama',)",UNRATED,USA,ENGLISH,,0,,0.009,,
+tt1521785,Faces,"('Comedy', 'Drama', 'Horror')",UNRATED,USA,ENGLISH,,0,2009-09-01,0.5,,
+tt1551621,Raging Phoenix,"('Action', 'Romance')",,THAILAND,THAI,6.2,1950,2009-08-12,,,
+tt1552436,Blue Eyes,"('Drama',)",UNRATED,BRAZIL,ENGLISH,7.0,450,2010-05-28,,,
+tt1554977,God Send Me a Man,"('Comedy', 'Drama')",PG-13,USA,ENGLISH,3.5,81,2010-01-01,,,
+tt1562573,Sway,"('Comedy',)",UNRATED,USA,ENGLISH,,0,,,,
+tt1564584,Silent Nights,"('Mystery',)",UNRATED,USA,ENGLISH,,0,2009-12-03,0.01,,
+tt1567614,Mack Hanglider,"('Comedy', 'Drama', 'Romance')",UNRATED,USA,ENGLISH,,0,,,,
+tt1568292,The Buffalo Son,"('Adventure', 'Comedy', 'Drama', 'Fantasy')",UNRATED,USA,ENGLISH,7.8,9,2009-08-27,,,
+tt1568892,The Fallow Field,"('Horror', 'Thriller')",UNRATED,UK,ENGLISH,5.5,97,2013-03-11,,,
+tt1568920,You Are Not the Father!,"('Comedy',)",UNRATED,USA,ENGLISH,,0,2009-01-18,0.0025,,
+tt1570355,Farzaneh,"('Comedy', 'Drama')",UNRATED,USA,PERSIAN,,0,2009-08-02,0.5,,
+tt1571565,Clash,"('Action',)",,VIETNAM,VIETNAMESE,6.0,978,2009-12-09,1.5,,
+tt1590155,Sabotage,"('Action',)",UNRATED,USA,ENGLISH,6.8,6,2009-11-05,0.0095,,
+tt1595357,Hillbilly Bob Zombie,"('Horror',)",UNRATED,USA,ENGLISH,2.8,45,2009-10-02,0.01,,
+tt1600529,Pelle Politibil går i vannet,"('Animation', 'Comedy', 'Family')",UNRATED,USA,NORWEGIAN,5.4,132,2013-01-29,,,
+tt1608566,Poema de salvación,"('Drama',)",PG-13,ARGENTINA,SPANISH,6.9,88,2009-11-19,0.4,,
+tt1621963,Spyware,"('Thriller',)",UNRATED,USA,ENGLISH,7.8,6,2009-12-27,1.4,,
+tt1754587,The 420 Movie,"('Comedy',)",UNRATED,USA,ENGLISH,4.2,13,2009-04-20,0.0025,,
+tt1773768,The Strawberry Shortcake Movie: Sky's the Limit,"('Animation', 'Family')",UNRATED,USA,ENGLISH,5.6,54,2009-09-15,,,
+tt1830659,Johnny Boy,"('Crime',)",UNRATED,USA,ENGLISH,,0,2009-03-07,0.00015,,
+tt1830731,Mythical Creatures,"('Comedy',)",UNRATED,USA,ENGLISH,,0,2009-11-20,,,
+tt1830760,Pennsylvania is for Lovers,"('Drama',)",UNRATED,USA,ENGLISH,,0,2009-07-11,,,
+tt1841594,Final Target,"('Action',)",UNRATED,THAILAND,THAI,3.2,178,2009-11-05,,,
+tt1864256,Amargura,"('Crime',)",UNRATED,CHILE,SPANISH,,0,,,,
+tt1864272,Bomb!,"('Comedy',)",UNRATED,CHILE,LATIN,,0,,,,
+tt1883373,The New Girls,"('Horror',)",UNRATED,USA,ENGLISH,,0,2009-06-06,0.01,,
+tt1913031,"God, Me... HIV? One Man Show","('Comedy', 'Drama')",UNRATED,USA,ENGLISH,,0,2009-12-01,,,
+tt1915606,The Amulet,"('Action', 'Crime', 'Drama')",UNRATED,USA,ENGLISH,,0,2009-08-23,,,
+tt1980227,Revenge: True Story,"('Crime', 'Drama', 'Thriller')",UNRATED,POLAND,POLISH,,0,2009-09-10,0.086,,
+tt1989682,The Stinkville Monster,"('Comedy',)",UNRATED,USA,ENGLISH,,0,2009-02-13,1.0,,
+tt2006766,Ikenhisu: To Kill with One Blow,"('Action',)",UNRATED,USA,ENGLISH,,0,2011-04-10,0.05,,
+tt2075336,The Gun,"('Crime',)",UNRATED,USA,ENGLISH,,0,2010-09-14,0.025,,
+tt2153878,Hangover Square,"('Drama', 'Romance', 'Thriller')",UNRATED,USA,ENGLISH,,0,2009-12-21,,,
+tt2162828,Faust,"('Drama', 'Fantasy', 'Musical', 'Romance', 'Thriller')",UNRATED,USA,ENGLISH,5.8,5,2009-05-23,,,
+tt2210783,Lurking Under Life,"('Horror', 'Sci-Fi')",UNRATED,CANADA,ENGLISH,6.9,95,2009-07-04,,,
+tt2361682,Heavy Weight on the Block,"('Drama',)",UNRATED,USA,ENGLISH,,0,,0.005,,
+tt2375017,A Little Bit of Faith,"('Comedy', 'Drama')",,USA,ENGLISH,4.1,8,2009-08-03,,,
+tt4067128,Sins of the Father,"('Thriller',)",UNRATED,USA,ENGLISH,,0,2009-11-22,,,
+tt4568360,Mega Diva,"('Comedy',)",UNRATED,DOMINICAN REPUBLIC,SPANISH,6.3,16,2009-02-25,,,
+tt7661128,Cold by Nature,"('Thriller',)",UNRATED,USA,ENGLISH,,0,2009-09-01,0.25,,
