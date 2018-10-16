@@ -4,7 +4,7 @@
 }
 {\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;\csgray\c79525;
 }
-\margl1440\margr1440\vieww15940\viewh13740\viewkind0
+\margl1440\margr1440\vieww10700\viewh13740\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 \
@@ -16,7 +16,7 @@ Project Luther - Weeks 2 and 3 of the Metis Data Science Bootcamp
 \
 
 \fs28 By Steven Bierer     October 15, 2018\
-\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97
 \fs24 \
 
 \fs28 \
@@ -30,8 +30,10 @@ Movies can be very expensive to produce, and their box office success is far fro
 \
 The approach of this study was to apply linear regression techniques to movie information taken from the well-known Internet Movie Database (IMDb.com).  The following tools and sources were used in the analysis:\
 \
-	\ul Sources\ulnone :  IMDb.com, starting from their \'93Advanced Title Search\'94 page ({\field{\*\fldinst{HYPERLINK "https://www.imdb.com/search/title/form"}}{\fldrslt https://www.imdb.com/search/title/form}}).\
-\
+\pard\tx0\tx353\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1464\fi-738\ri-1302\pardirnatural\partightenfactor0
+\cf2 \ul \ulc2 Sources\ulnone :  IMDb.com, starting from their \'93Advanced Title Search\'94 page dfdf ({\field{\*\fldinst{HYPERLINK "https://www.imdb.com/search/title/form"}}{\fldrslt https://www.imdb.com/search/title/form}}).\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf2 \
 	\ul Tools\ulnone :  1) Beautiful Soup for information searching and extraction from IMDb.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1540\fi-4\pardirnatural\partightenfactor0
 \cf2 2) Python and the standard libraries numpy, pandas, matplotlib, and seaboard for routine data manipulation and graphical display.\
@@ -180,7 +182,7 @@ Correlation coefficients among all the variables were calculated.  Excluding ope
 }¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f0\fs28 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4275\tx4292\tx4313\tx4320\tx4339\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4327\fi-26\ri-2913\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4275\tx4292\tx4313\tx4320\tx4339\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1974\fi-6\ri-2913\pardirnatural\partightenfactor0
 \cf0 Figure 1.  Scatter plot and histograms of total U.S. box office receipts versus movie budget, for all films with both values > $0 (n = 5726).  Solid line defines the best linear fit to the data.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
@@ -200,7 +202,7 @@ For analyzing trends over time and implementing the linear regression, as discus
 
 \f0\fs28 \cf0 \
 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-2898\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2201\fi-28\ri-2898\pardirnatural\partightenfactor0
 \cf0 Figure 2.  Time series for depicting the number of high-budget (top panel) and low-budget movies (bottom panel), averaged by week across all years of data (blue dotted lines).  From the smoothed values (red lines), two normalized scores were created: \'93Seasonal High\'94 and \'93Seasonal Low\'94.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
@@ -212,14 +214,15 @@ A similar procedure was applied to opening weekend box office sales for high-bud
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f1\fs24 \cf0 {{\NeXTGraphic Normalized_Sales_Low.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
-}¬}
-\f0\fs28 \
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f0\fs28 \cf0 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2189\fi-25\ri-3056\pardirnatural\partightenfactor0
 \cf0 Figure 3.  Distribution of total box office sales for low-budget movies following transformation using the Box-Cox method (power parameter = .436).  The distribution is notably less skewed that before transformation (compare to top histogram in Fig. 1).\
-\
-\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\cf0 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 Given the large heteroskedasticity apparent in the budget and box office sales data (Fig. 1), these variables were nonlinearly scaled using the Box-Cox transformation to give a more gaussian-shaped distribution of values.  The transformed distribution for budget, for the low-budget subset of movies, is shown in Figure 3 as an example of the outcome of this procedure.  Data conditioned in this manner are more appropriate for the least squares regression techniques used in the present analysis, which assume a normal distribution of residual errors.\
 \
@@ -235,13 +238,14 @@ The first stage in the regression analysis was to evaluate how well a simple fir
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f1\fs24 \cf0 {{\NeXTGraphic Regression_Initial_High.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
-}¬}{{\NeXTGraphic Regression_Initial_Low.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+\cf0 {{\NeXTGraphic Regression_Initial_Low.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
 }¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f0\fs28 \cf0 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2149\tx2160\tx2880\tx3600\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2142\fi3\ri-3056\pardirnatural\partightenfactor0
 \cf0 Figure 4.  First-order linear regression results.  Scatter plots depict actual versus predicted box office sales for high-budget (top panel) and low-budget films (bottom panel), after the power transformation.  R-squared values are .368 and .221, respectively.  Red lines indicate a 1:1 ratio of the actual and predicated values.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
@@ -252,7 +256,7 @@ In the next stage, K-folds cross-validation was used to assess the addition of h
 }¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f0\fs28 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2181\fi12\ri-3056\pardirnatural\partightenfactor0
 \cf0 Figure 5.  Cross-validation results for low-budget data.  The MSE trajectory of the cross-validation data suggests that a closer examination of features using a 2nd-order model is warranted.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
@@ -268,16 +272,15 @@ Lasso regularization was used to penalize features contributing little to reduci
 \f0\fs28 \cf0 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2160\fi-15\ri-3056\pardirnatural\partightenfactor0
 \cf0 Figure 6.  Cross-validation results for low-budget data using Lasso regularization.  Both panels, for MSE (top) and R-squared (bottom), indicate that a lambda value of 10\up4 -2\up0  is optimal.\
-\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f1\fs24 \cf0 {{\NeXTGraphic ActualVPredicted_Low.png \width8640 \height7200 \appleattachmentpadding0 \appleembedtype0 \appleaqc
 }¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f0\fs28 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2183\fi-28\ri-3056\pardirnatural\partightenfactor0
 \cf0 Figure 7.  Actual versus predicated gross box office sales (Box Cox transformed units) for the test subset of low-budget movies.  Green line marks a 1:1 ratio for a perfect prediction.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
