@@ -1,10 +1,10 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red255\green255\blue255;
-\red191\green191\blue191;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;\cssrgb\c100000\c100000\c100000;
-\csgray\c79525;}
-\margl1440\margr1440\vieww16360\viewh10260\viewkind0
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red191\green191\blue191;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;\csgray\c79525;
+}
+\margl1440\margr1440\vieww15940\viewh13740\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 \
@@ -16,7 +16,7 @@ Project Luther - Weeks 2 and 3 of the Metis Data Science Bootcamp
 \
 
 \fs28 By Steven Bierer     October 15, 2018\
-\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97
 \fs24 \
 
 \fs28 \
@@ -39,158 +39,152 @@ The approach of this study was to apply linear regression techniques to movie in
 4) The code editor Spyder was used to develop a module of functions for data scraping.  This marks the first time an editor other than Jupyter Notebooks was incorporated into the work flow.\
 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1473\fi-1450\pardirnatural\partightenfactor0
-\cf2 	\ul Concepts Applied\ulnone :  Linear regression, regularization, cross-validation, normal distribution, mean-squared error, r-squared statistic, F-statistic.\
+\cf2 	\ul Concepts Applied\ulnone :  Linear regression, regularization, cross-validation, normality testing, mean-squared error, R-squared statistic, F-statistic.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf2 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \cb1 \
 
 \b Casting Call [Features and Data Filtering]: 
 \b0 \
 \
 Only feature films were targeted for this analysis, covering the years 2000 to 2018 (the week of October 8th).  The following types of data were obtained from the data base:\
-\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
+\cf0 \
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clcbpat4 \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clcbpat3 \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Data Element\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Type\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Transformation\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Gross Box Office Sales\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Numerical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Box-Cox\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clheight247 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clheight247 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clheight247 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clheight247 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clheight247 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clheight247 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Opening Weekend Sales\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Numerical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
-\cf2 Time-Series\cell \row
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
+\cf2 Binned, Smoothed (for time-series analysis)\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Budget\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Numerical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Box-Cox\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Release Date\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Numerical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Time Filtering and Averaging\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Genre: Family, Comedy, etc\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Categorical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Dummy Variable (0 or 1 by category)\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 MPAA Rating:  G, PG, etc\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Categorical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Rank Score (0 to 4)\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Language:  English or not\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Categorical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Dummy Variable (0 or 1)\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 User Rating Score\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Numerical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 None (only used for error analysis)\cell \row
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx2880
-\clvertalc \clshdrawnil \clwWidth2260\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5760
-\clvertalc \clshdrawnil \clwWidth4340\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\clvertalc \clshdrawnil \clwWidth3660\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx2880
+\clvertalc \clshdrawnil \clwWidth1720\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx5760
+\clvertalc \clshdrawnil \clwWidth4960\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 User Rating Count\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1454\fi-1455\ri-3615\pardirnatural\partightenfactor0
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
 \cf2 Numerical\cell 
-\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf2 None (only used for error analysis)\cf4 \cell \lastrow\row
+\pard\intbl\itap1\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1438\fi-1439\pardirnatural\partightenfactor0
+\cf2 None (only used for error analysis)\cf3 \cell \lastrow\row
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
-Information from a total of 7027 feature films was extracted.  As seen in the graphs below, there is a lot of junk in this set.  Movies with no budget data, or budgets less than $5 million, were excluded as most of these are screened in an extremely limited number of theaters. That filtering narrowed down the number to 2693.\
+Information from a total of 7027 feature films was extracted.  As seen in Fig. 1 below, there are a lot of low-quality films in this set in terms of both budget and ticket sales.  Movies with no budget data, or budgets less than $5 million, were excluded as most of these are screened in an extremely limited number of theaters. That filtering narrowed down the number of films to 2693 for most of the analyses conducted.  Required transformations of the variables are described below.\
 \
 \
 
-\b Script Reading [Initial Data Assessment]: 
+\b Script Reading [Data Assessment and Feature Transformation]: 
 \b0 \
+\
+Both budget and gross box office tickets sales were highly skewed toward values below $10 million.  This asymmetry is evident in the histograms of the joint-plot graph shown in Figure 1.  For this reason, both variables were transformed to impose greater normality on their distributions, as described in the next section.  Fig. 1 also demonstrates a substantial correlation between budget and total sales.  Across all movies with both budget and box office data, the correlation coefficient was 0.72.\
+\
+Correlation coefficients among all the variables were calculated.  Excluding opening weekend box office sales, user ratings, and number of user ratings - none of which were directly used in the predictive modeling - only one feature pair aside from the budget/total sales pair had a correlation coefficient over .40: MPAA rating and Release Year exhibited a correlation coefficient of 0.47.\
 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f1\fs24 \cf0 {{\NeXTGraphic SalesVsBudget_Joint.png \width11900 \height10820 \appleattachmentpadding0 \appleembedtype0 \appleaqc
-}¬}
-\f0\fs28 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li3616\fi-8\pardirnatural\partightenfactor0
-\cf0 Figure 1.  Scatter plot of total U.S. box office receipts versus movie budget.\
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f0\fs28 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4275\tx4292\tx4313\tx4320\tx4339\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4327\fi-26\ri-2913\pardirnatural\partightenfactor0
+\cf0 Figure 1.  Scatter plot and histograms of total U.S. box office receipts versus movie budget, for all films with both values > $0 (n = 5726).  Solid line defines the best linear fit to the data.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
-\
-1b) Histograms of sales and budget; what are good cut-off values for no-, low-,and high-budget movies?\
-	- TOTAL SALES: such a skew!  Even when narrowing down to < 20 million\
-\
-\
-df_lowbudget (N = \cb4 \expnd0\expndtw0\kerning0
-1825\cb1 \kerning1\expnd0\expndtw0 ), df_highbudget (N = \cb4 \expnd0\expndtw0\kerning0
-868\cb1 \kerning1\expnd0\expndtw0 ),  df_nobudget (N = \cb4 \expnd0\expndtw0\kerning0
-3129\cb1 \kerning1\expnd0\expndtw0  \'85 explore if time)\
-\
-\
-No correlations\
-\
-Box-cox\
+For analyzing trends over time and implementing the linear regression, as discussed below, the movie data was separated into two groups.  \'93Low-budget\'94 movies (n = 1825) were defined as having budgets over $5 million but less than $50 million; \'93high-budget\'94 movies (n = 868) had budgets over $50 million.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f1\fs24 \cf0 \
@@ -205,21 +199,100 @@ Box-cox\
 }¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
 
 \f0\fs28 \cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
-\cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
-\cf0 Figure 2.  Time-series for high-budget (top panel) and low-budget number of movies (bottom panel), averaged by week across all years of data (blue dotted lines).  From the smoothed values (red lines), two normalized scores were created: Seasonal High and Seasonal Low.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-2898\pardirnatural\partightenfactor0
+\cf0 Figure 2.  Time series for depicting the number of high-budget (top panel) and low-budget movies (bottom panel), averaged by week across all years of data (blue dotted lines).  From the smoothed values (red lines), two normalized scores were created: \'93Seasonal High\'94 and \'93Seasonal Low\'94.\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
+The numbers of movies released during every week of the year were accumulated over the years in the data set, separately for the low- and high-budget subsets.  The resulting time series, shown in Figure 2, represent seasonal trends in film release.  Interestingly, the major peaks and valleys in the traces are nearly opposite for the low- and high-budget movies.  After smoothing with a 3-point hamming window, each time series was normalized by subtracting its mean and dividing by the standard deviation. This process yielded \'93Seasonal Low\'94 and \'93Seasonal High\'94 scoring metrics that were used as additional features for linear regression.\
+\
+A similar procedure was applied to opening weekend box office sales for high-budget movies, although in this case the values were summed for all weeks in the data range rather than binning across years.  The rationale was that such a metric would quantify the \'93competition\'94 from other movies that are performing successfully in theaters.  However, regression coefficients for this feature in first- and second-order models were not significant and were thus excluded from the final modeling procedure.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f1\fs24 \cf0 {{\NeXTGraphic Normalized_Sales_Low.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}
+\f0\fs28 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\cf0 Figure 3.  Distribution of total box office sales for low-budget movies following transformation using the Box-Cox method (power parameter = .436).  The distribution is notably less skewed that before transformation (compare to top histogram in Fig. 1).\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 Given the large heteroskedasticity apparent in the budget and box office sales data (Fig. 1), these variables were nonlinearly scaled using the Box-Cox transformation to give a more gaussian-shaped distribution of values.  The transformed distribution for budget, for the low-budget subset of movies, is shown in Figure 3 as an example of the outcome of this procedure.  Data conditioned in this manner are more appropriate for the least squares regression techniques used in the present analysis, which assume a normal distribution of residual errors.\
+\
+Finally, the categorical data used as regression features were transformed to binary (0 or 1) values for each class in the category.  The genres chosen were \'93Action\'94 (including movies tagged as \'93Adventure\'94 and \'93Thriller\'94), \'93Comedy\'94, \'93Family\'94 (also including \'93Animated\'94), and \'93Horror\'94.  Language was transformed to a feature \'93English\'94 describing whether a film was primarily spoken in English (1) or not (0).  MPAA ratings were transformed to a scale increasing with the size of the possible audience (NC-17 or unrated = 0, R = 1, PG-13 = 2, PG = 3, G = 4).\
+\
 \
 
 \b The Set Piece: [Regression Analysis]
 \b0 \
 \
+The first stage in the regression analysis was to evaluate how well a simple first-order ordinary least squares (OLS) model performed on the data. As expected, preliminary OLS modeling for the high-budget data resulted in reasonably good fits using all the data (Figure 4, top panel).  The R-squared and adjusted R-squared values were 0.368 and 0.361, respectively; the F-statistic was 50.0 (p<<0), indicating very high significance of model parameters.  Significant features (based on the t-test) were Budget, Release Year, and English with positive coefficients and Seasonal Low and Horror with negative coefficients, which makes intuitive sense.  OLS model fits for low-budget data, on the other hand (Fig. 4, bottom panel), was not as good.  R-squared and adjusted R-squared were 0.221 and 0.216, respectively, with F-statistic = 51.4 (p<<0).  Significant positive coefficients were Budget, Release Year, Seasonal Low and High, Comedy, Family, and English.  \
 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f1\fs24 \cf0 {{\NeXTGraphic Regression_Initial_High.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}{{\NeXTGraphic Regression_Initial_Low.png \width8640 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f0\fs28 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\cf0 Figure 4.  First-order linear regression results.  Scatter plots depict actual versus predicted box office sales for high-budget (top panel) and low-budget films (bottom panel), after the power transformation.  R-squared values are .368 and .221, respectively.  Red lines indicate a 1:1 ratio of the actual and predicated values.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+In the next stage, K-folds cross-validation was used to assess the addition of higher-order polynomial terms to the model.  For this procedure, the data was split into four blocks for repeated train/test scoring based on the mean squared error, and the order of the polynomial transformation of the features was stepped across several values.  Results for the low-budget data are shown in Figure 5 for orders 0 to 5.  As is typical, the error for all the data (green line) decreased steadily with model order, indicating overtraining. For the cross-validated output (blue line) averaged over consecutive subsets of the data not used for training, MSE levels were lowest at orders 1 and 2.  This outcome suggests using second-order polynomials in the next stage of regularization in which the number of model features is narrowed down.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f1\fs24 \cf0 {{\NeXTGraphic CV_ModelOrder_Low.png \width11520 \height7200 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f0\fs28 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\cf0 Figure 5.  Cross-validation results for low-budget data.  The MSE trajectory of the cross-validation data suggests that a closer examination of features using a 2nd-order model is warranted.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+Lasso regularization was used to penalize features contributing little to reducing mean square error in the prediction.  Using a cross-validation process on 70% of the low-budget data (30% was reserved for testing), the penalty factor, lambda, was varied over a wide range and the MSE and R-squared value calculated at each step.  The results of this process are presented in Figure 6.  MSE in the top panel for the final test data decreases to a minimum at an alpha of 10\up4 -2\up0  for the test subset of data.  A comparable optimum is seen for the R-squared value in the lower panel.  At this optimal lambda value, the R-squared value was 0.194 in transformed units.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f1\fs24 \cf0      {{\NeXTGraphic LassoMSE_Low.png \width10080 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+\cf0 {{\NeXTGraphic LassoR2_Low.png \width10080 \height5760 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f0\fs28 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\cf0 Figure 6.  Cross-validation results for low-budget data using Lasso regularization.  Both panels, for MSE (top) and R-squared (bottom), indicate that a lambda value of 10\up4 -2\up0  is optimal.\
 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f1\fs24 \cf0 {{\NeXTGraphic ActualVPredicted_Low.png \width8640 \height7200 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+
+\f0\fs28 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-42\ri-3056\pardirnatural\partightenfactor0
+\cf0 Figure 7.  Actual versus predicated gross box office sales (Box Cox transformed units) for the test subset of low-budget movies.  Green line marks a 1:1 ratio for a perfect prediction.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+Figure 7 depicts the actual versus predicted low-budget box office values using the test data only.  The high degree of scatter in the points reflects the low R-squared value.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx4352\tx4362\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li4366\fi-4362\ri-3056\pardirnatural\partightenfactor0
+\cf0 \
 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\b \cf0 Wrap Up: [Conclusions]\
+
+\b0 \
+While the box office sales for movies with high-end budgets (> $50 million) could be fairly well predicted given the feature set, the prediction for low-budget movies was rather poor.  The wide separation of the training and testing results for mean squared error in Figure 6 indicates that the data may have been under fit. Adding additional data elements for each movie as features would likely have improved the fitting.  Indeed, during preliminary analysis of the data, the addition of post-hoc movie data like user ratings substantially improved the ability of the linear regression to predict box office sales, even for low-budget films.\
 \
+One type of data that may have improved performance of the model is a better \'93competition\'94 score.  A week-by-week time series was developed for this purpose, but it was based on only the total opening week sales of high-budget movies.  Perhaps a better metric would have considered genre-specific movies, such that a low-budget family-friendly comedy would have more competition from other family-friendly comedies, under the assumption that movie-goers can only see so many movies over the course of a few weeks.\
 \
 \
 }
