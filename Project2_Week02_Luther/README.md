@@ -9,7 +9,7 @@ Different elements of the project are:
 1. A Jupyter Notebook, [Luther_IMDbRegression](/Luther_IMDbRegression.ipynb) detailing the data handling and modeling steps.
 2. The notebook calls functions for scraping film data from a purpose-built module, [IMDbSuite.py](/IMDbSuite.py).
 3. The original [project proposal](/Project2_Proposal.pdf).
-4. The [project summary](/Project2_Summary.rtfd)
+4. The [project summary](/Project2_Summary.pdf)
 5. A [Power Point presentation](/Project2_Presentation.pptx) on the project.
 
 
