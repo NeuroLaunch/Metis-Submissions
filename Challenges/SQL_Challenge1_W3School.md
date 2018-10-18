@@ -151,7 +151,7 @@ ORDER BY ProductAvgPrice DESC
 &nbsp;  
 __SupplierID	SupplierName	ProductCount	ProductAvgPrice__  
 4	Tokyo Traders	3	46  
-12	Plutzer Lebensmittelgroßmärkte AG	5	 44.678
+12	Plutzer Lebensmittelgroßmärkte AG	5	 44.678  
 7	Pavlova, Ltd.	5	35.57  
 &nbsp;  
 
