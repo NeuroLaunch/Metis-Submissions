@@ -44,7 +44,7 @@ def plot_confusion_matrix(cm, class_names, title='Confusion matrix',
     else:
         cm_plot = cm
         
-    plt.figure(figsize=(6, 4));
+    plt.figure(figsize=(8, 6));
     plt.imshow(cm_plot, interpolation='nearest', cmap=cmap);
     plt.colorbar();
     plt.tight_layout();
