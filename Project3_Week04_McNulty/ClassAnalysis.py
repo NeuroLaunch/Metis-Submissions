@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """Utility functions to run statistics and display data for classification.
 
 For Metis Weeks 4-6, Project McNulty.

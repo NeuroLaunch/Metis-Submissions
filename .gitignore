@@ -6,7 +6,9 @@ __pycache__/
 *.sqlite
 *.zip
 *.json
+**/*.json
 *.csv
+**/*.csv
 **/data/
 **/graphics/
 **/supporting_files/
