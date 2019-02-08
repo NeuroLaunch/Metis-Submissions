@@ -1,7 +1,7 @@
 # Weeks 2 and 3: Project Luther
-## Linear Regression with a Movie Data Set
+# Linear Regression with a Movie Data Set
 
-_Start Date: October 01, 2018_ &emsp; _Due Date: October 15, 2018_
+### _Start Date: October 01, 2018_ &emsp; _Due Date: October 15, 2018_
 
 This was the first individual project for the boot camp, centered on development of a linear regression model.  I chose to examine box office sales data for movies using data from the Internet Movie Database (IMDb.com).
 
@@ -12,6 +12,10 @@ Different elements of the project are:
 4. The [project summary](Project2_Summary.pdf)
 5. A [Power Point presentation](Project2_Presentation.pptx) on the project.
 
+&&&&  
+put conclusion here!!
+and a graphic?!  
+&&&& 
 
 
 
