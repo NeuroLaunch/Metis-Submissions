@@ -6,7 +6,7 @@
 This was the first individual project for the boot camp, centered on development of a linear regression model.  I chose to examine box office sales data for movies using data from the Internet Movie Database (IMDb.com).
 
 The elements of the project are:  
-1. A Jupyter Notebook, [Luther_IMDbRegression](IMDb_Regression.ipynb) detailing the data handling and modeling steps.
+1. A Jupyter Notebook, [IMDb_Regression](IMDb_Regression.ipynb), detailing the data handling and modeling steps.
 2. A Python module defining functions for scraping film data, [IMDbSuite.py](IMDbSuite.py).
 3. The original [project proposal](Project2_Proposal.pdf).
 4. The [project summary](Project2_Summary.pdf) detailing the approach and results.
