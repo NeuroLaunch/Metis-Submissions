@@ -3,7 +3,7 @@
 
 ### _Start Date: October 01, 2018_ &emsp; _Due Date: October 15, 2018_
 
-This was the first individual project for the boot camp, centered on development of a linear regression model.  I chose to examine box office sales data for movies using data from the Internet Movie Database (IMDb.com).
+This was the first individual project for the boot camp, centered on development of a linear regression model.  I chose to examine box office sales data for movies using data from the Internet Movie Database ([IMDb.com](https://www.imdb.com/search/title)).
 
 The elements of the project are:  
 1. A Jupyter Notebook, [IMDb_Regression](IMDb_Regression.ipynb), detailing the data handling and modeling steps.
