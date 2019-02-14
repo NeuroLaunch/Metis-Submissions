@@ -17,7 +17,7 @@ I hope to write in more depth about some of these projects in my blog at Medium.
 [Weeks 4-6:  McNulty (_Oct 31, 2018_)](Project3_Week04_McNulty/) - __Supervised classification__
 - Witness as I successfully discriminate labeled terrain types (crop, vegetation stubble, dirt) from satellite images, and adjust the classifier output based on cost-benefit considerations.
 
-[Weeks 7-9:  Fletcher (_Nov 16, 2018_)](Project4_Week07_Fletcher/) - __Undersupervised clustering and natural langauge processing__
+[Weeks 7-9:  Fletcher (_Nov 16, 2018_)](Project4_Week07_Fletcher/) - __Unsupervised clustering and natural langauge processing__
 - In this project, I attempted to classify news articles based on whether they were 1) relevant to the U.S. economy; and 2) expressed positive or negative sentiment about the economy.
 
 [Weeks 9-12:  Kojak (_Dec 11, 2018_)](Project5_Week09_Kojak/) - __Automated speaker recognition__
