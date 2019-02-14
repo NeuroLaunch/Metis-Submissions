@@ -1,7 +1,7 @@
 # Weeks 4-6: Project McNulty
 # Classification of LandSat Images
 
-### _Start Date: October 17, 2018_ &emsp; _Due Date: November 1, 2018_
+### _Start Date: October 15, 2018_ &emsp; _Due Date: November 1, 2018_
 
 For this project, the Metis students were asked to create a classifier using a supervised learning approach.  I chose to analyze multi-spectral satellite images of agricultural terrain on the earth's surface.
 
@@ -15,6 +15,6 @@ The LandSat imaging data is freely available from the UC Irvine Machine Learning
 
 The classification accuracy and precision of the terrain types was reasonably good, with both at 84% (unweighted by class distribution) using a Random Forest decision tree model. Identification of cotton crop, nominally chosen to be the most important of the classes for this exercise, was improved by making a cost-benefit adjustment - specifically penalizing confusions between cotton and vegetation while tolerating confusions between soil types.
 
-Improvements include a better way to remove spatial and spectral correlations (e.g. by rotationally-invariant principal component analysis) and application of a neural network for classification.
+Improvements for future consideration include a better way to remove spatial and spectral correlations (e.g. by rotationally-invariant principal component analysis) and application of a neural network for classification.
 
 _Did you know?_  This project was named for Jimmy McNulty, one of the detectives in HBO's _The Wire_.
