@@ -7,9 +7,10 @@ For this project, the Metis students were asked to create a classifier using a s
 
 The elements of the project are:  
 1. Three Jupyter Notebooks, [LandSat_DataAssessment](LandSat_DataAssessment.ipynb), [LandSat_Classification](LandSat_Classification.ipynb), and [LandSat_PCAandFinal](LandSat_PCAandFinal.ipynb), providing a sequential analysis of the data from exploration to final classifier.
-2. The original [project proposal](Project3_Proposal.pdf).
-3. The [project summary](Project3_Summary.pdf) detailing the approach and results.
-4. A [Power Point presentation](Project3_Presentation.pptx), also available in [pdf format](Project3_Presentation.pdf).
+2. A Python module, [ClassAnalysis.py](ClassAnalysis.py),defining functions for scoring the classification models and displaying the results.
+3. The original [project proposal](Project3_Proposal.pdf).
+4. The [project summary](Project3_Summary.pdf) detailing the approach and results.
+5. A [Power Point presentation](Project3_Presentation.pptx), also available in [pdf format](Project3_Presentation.pdf).
 
 The LandSat imaging data is freely available from the UC Irvine Machine Learning Repository, at https://archive.ics.uci.edu/ml/datasets/Statlog+%28Landsat+Satellite%29.
 

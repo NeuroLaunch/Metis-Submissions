@@ -7,9 +7,10 @@ For the fourth project, we were required to incorporate unsupervised clustering 
 
 The components of the project in this repository are:  
 1. Two Jupyter Notebooks, [News_DataAssessment](News_DataAssessment.ipynb) and [News_TokenModeling](News_TokenModeling.ipynb).
-2. The original [project proposal](Project4_Proposal.pdf).
-3. The [project summary](Project4_Summary.pdf) describing the data set and analysis.
-4. A [Power Point presentation](Project4_Presentation.pdf) in pdf format.
+2. A Python module, [NLP_Analysis.py](NLP_Analysis.py),defining utility functions for tokenizing and modeling text.
+3. The original [project proposal](Project4_Proposal.pdf).
+4. The [project summary](Project4_Summary.pdf) describing the data set and analysis.
+5. A [Power Point presentation](Project4_Presentation.pdf) in pdf format.
 
 The newspaper article data set is freely available at Data for Everyone, http://www.figure-eight.com/data-for-everyone/.
 
