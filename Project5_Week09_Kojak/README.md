@@ -6,7 +6,7 @@
 This is the final "passion" project, for which I delve into the mysteries of human hearing.
 
 The elements for this project are:  
-1. The main Jupyter Notebook, [ClassOptimization.ipynb](ClassOptimization.ipynb) which implements the full-scale speaker recognition model for 100 smart-speaker "households". Notebooks with preliminary exploration and analysis are [Audio_Loading.ipynb](Audio_Loading.ipynb), [Audio_Grouping.ipynb](Audio_Grouping.ipynb), and [NMF_Diarization.ipynb](NMF_Diarization.ipynb).
+1. The main Jupyter Notebook, [ClassOptimization.ipynb](ClassOptimization.ipynb) which implements the full-scale speaker recognition model for 100 smart-speaker "households". Notebooks with preliminary exploration and analysis are [AudioLoading.ipynb](AudioLoading.ipynb), [AudioGrouping.ipynb](AudioGrouping.ipynb), and [NMF_Diarization.ipynb](NMF_Diarization.ipynb).
 2. A python module containing utility functions for processing speech waveforms, [Speech_Analysis.py](Speech_Analysis.py).
 3. The original [project proposal](Project5_Proposal.pdf).
 4. The [project summary](Project5_Summary.pdf), which describes in detail the scope of the project and overall results.
