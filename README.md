@@ -19,8 +19,8 @@ Occasional updates to my projects, from refining algorithms to creating dashboar
 [Weeks 4-6:  McNulty (_Oct 31, 2018_)](Project3_Week04_McNulty/) - __Supervised classification__
 - Witness as I successfully discriminate labeled terrain types (crop, vegetation stubble, dirt) from satellite images, and adjust the classifier output based on cost-benefit considerations.
 
-[Weeks 7-9:  Fletcher (_Nov 16, 2018_)](Project4_Week07_Fletcher/) - __Undervised clustering and natural langauge processing__
+[Weeks 7-9:  Fletcher (_Nov 16, 2018_)](Project4_Week07_Fletcher/) - __Unsupervised clustering and natural langauge processing__
 - In this project, I attempted to classify news articles based on whether they were 1) relevant to the U.S. economy; and 2) expressed positive or negative sentiment about the economy.
 
-[Weeks 9-12:  Kojak (_Dec 11, 2018_)](Project5_Week09_Kojak/) - __Speaker recognition__
+[Weeks 9-12:  Kojak (_Dec 11, 2018_)](Project5_Week09_Kojak/) - __Automated speaker recognition__
 - For the final "passion" project" of the data science course, I trained a classifier to identify a person from the characteristics of their voice, using recorded audio as the input. A key component of this work was the simulation of 100 groups of male and female speakers, with each group representing a household's interactive audio device (i.e. a "smart speaker", like an Amazon Echo or Google Home).
