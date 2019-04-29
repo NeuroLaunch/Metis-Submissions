@@ -1,8 +1,10 @@
 ## Metis Data Science Projects
 
-This is my offical repository for project submissions for the Metis Seattle Fall 2018 Data Science Boot Camp. Projects are organized in their own folders labeled by the week number when the project began and the nickname for the project (e.g. "Project1_Week01_Benson/". A description about each project is given in the associated README.md document. Additionally, coding challenges related to the projects can be found in the [Challenges](Challenges/) folder.
+This is my offical repository for project submissions for the Metis Seattle Fall 2018 Data Science Boot Camp. Projects are organized in their own folders labeled by the week number when the project began and the nickname for the project (e.g. "Project1_Week01_Benson/". A description about each project is given in the associated README.md document. Additionally, coding challenges associated with some of the projects can be found in the [Challenges](Challenges/) folder.
 
-I hope to write in more depth about some of these projects in my blog at Medium.com. Stay tuned.  
+The Metis projects were started and completed in very short time periods, effectively ranging from 3 days (Project 1) to about 15 days (Project 5). This was while participating in 4-6 hours of daily lectures and coding challenges. (Not a small feat, especially for a single dad of an elementary school student, but it was all well worth it!)
+
+Occasional updates to my projects, from refining algorithms to creating dashboards and other visuals, may also be found here.
 &nbsp;
 
 
@@ -12,7 +14,7 @@ I hope to write in more depth about some of these projects in my blog at Medium.
 - The objective of this team project was to optimize the placement of volunteers around city subway stations. The mandatory data set consisted of weekly subway turnstile counter values, but my team incorporated a variety of other factors into account as well. The web scraping experience came in handy for the next project.
     
 [Weeks 2-3:  Luther (_Oct 12, 2018_)](Project2_Week02_Luther/) - __Data scraping and linear regression modeling__
-- I created a linear regression model to predict the box office receipts of low budget movies, defined as costing less than $5 million. The data was obtained from IMDB.com.
+- I created a linear regression model to predict the box office receipts of low budget movies, defined as costing less than "$5 million. The data was obtained from IMDB.com.
 
 [Weeks 4-6:  McNulty (_Oct 31, 2018_)](Project3_Week04_McNulty/) - __Supervised classification__
 - Witness as I successfully discriminate labeled terrain types (crop, vegetation stubble, dirt) from satellite images, and adjust the classifier output based on cost-benefit considerations.
