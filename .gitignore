@@ -12,6 +12,7 @@ __pycache__/
 **/data/
 **/graphics/
 **/supporting_files/
+**/saved_files/
 
 # C extensions
 *.so
