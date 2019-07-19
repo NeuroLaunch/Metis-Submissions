@@ -2,16 +2,16 @@
 
 This is my offical repository for project submissions for the Metis Seattle Fall 2018 Data Science Boot Camp. Projects are organized in their own folders labeled by the week number when the project began and the nickname for the project (e.g. "Project1_Week01_Benson/". A description about each project is given in the associated README.md document. Additionally, coding challenges associated with some of the projects can be found in the [Challenges](Challenges/) folder.
 
-The Metis projects were started and completed in very short time periods, effectively ranging from 3 days (Project 1) to about 15 days (Project 5). This was while participating in 4-6 hours of daily lectures and coding challenges. (Not a small feat, especially for a single dad of an elementary school student, but it was all well worth it!)
+The Metis projects were started and completed in very short time periods, effectively ranging from 3 days (Project 1) to about 15 days (Project 5). This was while participating in 4-6 hours of daily lectures and coding challenges. (Not a small feat, especially for a single dad of an elementary school student, but it was overall an incredibly productive learning experience.)
 
-Occasional updates to my projects, from refining algorithms to creating dashboards and other visuals, may also be found here.
+Occasional updates to my projects, from refining algorithms to creating dashboards and other visuals, can also be found here.
 &nbsp;
 
 
 ### Project List
 
 [Week 1:  Benson (_Sep 24, 2018_)](Project1_Week01_Benson/) - __Exploration and manipulation of a large data set__
-- The objective of this team project was to optimize the placement of volunteers around city subway stations. The mandatory data set consisted of weekly subway turnstile counter values, but my team incorporated a variety of other factors into account as well. The web scraping experience came in handy for the next project.
+- The objective of this team project was to optimize the placement of volunteers around city subway stations. The data set consisted of weekly subway turnstile counter values, but my team incorporated a variety of other factors into account as well. The web scraping experience came in handy for the next project.
     
 [Weeks 2-3:  Luther (_Oct 12, 2018_)](Project2_Week02_Luther/) - __Data scraping and linear regression modeling__
 - I created a linear regression model to predict the box office receipts of low budget movies, defined as costing less than "$5 million. The data was obtained from IMDB.com.
