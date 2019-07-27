@@ -9,6 +9,7 @@ This was a team project designed to introduce the students to exploring a real w
 The elements of this project are:  
 1. Four Jupyter notebooks, written by the respective team members but attributed to the team as a whole: [Turnstile Score](Benson_pt1_TurnstileScore.ipynb), [Tech Score](Benson_pt2_TechScore.ipynb), [Census Score](Benson_pt3_CensusScore.ipynb), [Walk Score](Benson_pt4_WalkScore_FinalScore.ipynb). These notebooks include annotations and graphical output documenting the analyses, and describe the specific data sets and tools utilized.
 2. The [project summary](Project1_Summary.pdf).
+3. The [group presentation](Project1_Presentation.pdf), converted to a PDF.
 
 The New York City subway turnstile data can be found at the [MTA website](http://web.mta.info/developers/turnstile.html). A list of geographical coordinates and code names for the subway stations is [here](http://web.mta.info/developers/data/nyct/subway/Stations.csv). Other sources are listed in the summary document and respective notebooks.
 
