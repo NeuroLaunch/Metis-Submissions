@@ -4,7 +4,7 @@
 ### _Start Date: November 26, 2018_ &emsp; _Due Date: December 11, 2018_
 
 ## Overview
-This is the final "passion" project: an algorithm to identify speakers from their voice. From a large corpus of recorded audio of spoken English sentences, I tested the algorithm on 100 groups of male and female speakers, each group representing a single household's interactive speech device (like an Amazon Echo or Google Home device).
+This is my final "passion" project of the Metis boot camp: the development of a system to identify speakers from their voice. From a large corpus of recorded audio of spoken English sentences, I tested the final algorithm on 100 groups of male and female speakers, each group representing a single household's interactive speech device (like an Amazon Echo or Google Home device).
 
 The components of the project contained in this repository are:
 1. The main Jupyter Notebook, [ClassOptimization.ipynb](ClassOptimization.ipynb) which implements the full-scale speaker recognition model for 100 smart-speaker "households". Notebooks with preliminary exploration and analysis are [AudioLoading.ipynb](AudioLoading.ipynb), [AudioGrouping.ipynb](AudioGrouping.ipynb), and [NMF_Diarization.ipynb](NMF_Diarization.ipynb).
